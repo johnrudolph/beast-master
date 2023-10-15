@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Bank Run",
+        "number_of_copies": 1,
+        "description": "If the Beast is adjacent to a Market, move the Beast onto that Market. Every Acolyte adjacent to that Market moves to there and dies immediately."
+    },
+    {
+        "title": "Enrage the Beast",
+        "number_of_copies": 2,
+        "description": "Kill every Acolyte adjacent to the Beast. Titans adjacent to the Beast must move 1 space away from the Beast. Resolve Titan movement in order beginning with the player who played this card."
+    },
+    {
+        "title": "Eruption",
+        "number_of_copies": 3,
+        "description": "Kill every Acolyte adjacent to the Volcano. Titans adjacent to the Volcano must move 1 space away from the Volcano. Resolve Titan movement in order beginning with the player who played this card."
+    },
+    {
+        "title": "Ghouls!",
+        "number_of_copies": 1,
+        "description": "Every player with at least 1 Acolyte on a Ruins tile must discard 2 cards of their choosing."
+    },
+    {
+        "title": "Landslide",
+        "number_of_copies": 1,
+        "description": "Pick up any 2 Loot Tokens and move each of them to a different spaces. You may move the tokens to Landmark tiles or spaces that already have Loot tokens and increase the reward for those spaces."
+    },
+    {
+        "title": "Power Surge",
+        "number_of_copies": 1,
+        "description": "Locate the Hallowed Ground tile with the most Acolytes (if multiple spaces are tied, all the tied spaces are affected). Kill all Acolytes and destroy any Banner on that space."
+    },
+    {
+        "title": "Rampage",
+        "number_of_copies": 3,
+        "description": "Move the Beast twice (the Beast can only move to adjacent spaces). In both spaces you moved to, kill all Acolytes and force Titans to move to adjacent spaces (each Titan is moved by its owner)."
+    },
+    {
+        "title": "Ransack",
+        "number_of_copies": 2,
+        "description": "Draw 3 Beast Master cards. Put 1 of the cards back on top of the deck, discard 1 of them, and then play 1 of them immediately."
+    },
+    {
+        "title": "Ritual Sacrifice",
+        "number_of_copies": 1,
+        "description": "For any Acolyte (including your own Acolytes) on any of the Landmark tiles, roll the die, and kill the Acolyte if you roll 1 or 2 (Clarify which Acolyte you are rolling for before each roll)."
+    },
+    {
+        "title": "Sabotage",
+        "number_of_copies": 1,
+        "description": "Choose up to 3 spaces that have Banners but do not have Acolytes or Titans on them. Remove the Banners there and return them to their owners’ hands."
+    },
+    {
+        "title": "Take Flight",
+        "number_of_copies": 1,
+        "description": "Pick up the Beast and place it on any space other than the Volcano. Kill all Acolytes on that space and move any Titans to adjacent spaces as usual (each Titan on that space is moved by its owner)."
+    },
+    {
+        "title": "Terraform",
+        "number_of_copies": 1,
+        "description": "Pick a Loot token on a space that is not occupied by the Beast or Titans, then swap that token with the Volcano tile. On the new Volcano space, kill all Acolytes and destroy any Banner there."
+    }
+]

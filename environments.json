@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Hallowed Ground",
+        "number_of_copies": 2,
+        "description": "Collect 1 Gold for each of your Acolytes on either of the 2 Hallowed Grounds."
+    },
+    {
+        "title": "Market",
+        "number_of_copies": 2,
+        "description": "Collect 2 Gold for every card you discard while you have a Banner on a Market, even if it is not your turn."
+    },
+    {
+        "title": "Ruins",
+        "number_of_copies": 2,
+        "description": "Take 1 Gold from each opposing Titan."
+    },
+    {
+        "title": "Volcano",
+        "number_of_copies": 1,
+        "description": "Every Acolyte who lands on the Volcano dies immediately. Titans and the Beast cannot go to the Volcano. If the Volcano erupts while Titans or the Beast are adjacent to it, move them one space in the opposite direction of the Volcano."
+    }
+]
