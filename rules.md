@@ -25,7 +25,7 @@ The Beast is a monster who terrorizes everyone on the island.
 ## Gold
 Win the game by collecting the most Gold.  There are 3 ways to collect Gold:
 - Control spaces and raise your Banners to claim the rewards from Landmarks and Loot
-- Collect 1 Gold for every opposing Acolyte you kill with a Beast Master card. 
+- Collect 1 Gold for every opposing Acolyte you kill with a Beast card. 
 - Receive Gold from Divine Gift cards.
 
 ## Banners
@@ -39,45 +39,43 @@ Banners indicate which player will collect rewards for a given space.
 Landmarks are special tiles with potentially big rewards. Raise one of your Banners on a Landmark to claim its rewards during the Scoring Phase of your turn. Rewards stack if you have Banners on multiple Landmark tiles of the same type.
 
 ## Loot Tokens
-Loot gives you smaller rewards, and there is 1 Loot token on each space that is not a Landmark. Loot tokens remain in play, and can be used on every turn. There are Loot tokens that give you Colossus Cards, Beast Master cards, and Gold during the Scoring Phase of your turn.
+Loot gives you smaller rewards, and there is 1 Loot token on each space that is not a Landmark. Loot tokens remain in play, and can be used on every turn. There are Loot tokens that give you Colossus Cards, Beast cards, and Gold during the Scoring Phase of your turn.
 
 ## Colossus Cards
-Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards including Colossus Cards and Beast Master Cards. There are 3 types of Colossus Card:
+Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards including Colossus Cards and Beast Cards. There are 3 types of Colossus Card:
 
 - **Action**: Move pieces around the board, get more cards, torment your opponents, and more.
 - **Perk**: Gain a persistent advantage over other players. Perks stay in front of you, face-up for ongoing use. You may only have 1 Perk active at a time. 
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
 
-## Beast Master Cards
-These cards control Beast movement, the Volcano, and wreak havoc around the island. You may play a Beast Master card at any time, even if it is not your turn. For every opposing Acolyte you kill with a Beast Master card, collect 1 Gold.
-
-- If you play a Beast Master card at the same time as other players, resolve in order beginning with the Colossus taking their turn and continuing clockwise.
-- You can play a Beast Master card during another player’s turn (for example, you could play it between two of their moves). If there is a dispute about whether you played a Beast Master card before or after a Colossus moved or played a card, the Colossus gets priority and resolves their card or movement before you resolve your Beast Master card. 
-- If you play a Beast Master card while someone is still resolving movements from a card that has already been played, let them finish resolving it before resolving your Beast Master card.
+## Beast Cards
+These cards control Beast movement, the Volcano, and wreak havoc around the island. You may play Beast cards from your hand during your turn just like you play Colossus Cards.
 
 # Setup
 
-- Shuffle the Colossus Card deck and the Beast Master Card deck, and place each of them near the board. Deal each player 3 Colossus Cards and 1 Beast Master card
+- Shuffle the Colossus Card deck and the Beast Card deck, and place each of them near the board. Deal each player 3 Colossus Cards and 1 Beast card
 - Each player chooses a color, and receives a set of 1 Colossus, 5 Banners, and 10 Acolytes of that color (in a 3 player game, each player gets 12 Acolytes)
-- Place the 8 Landmark tiles around the Board. For your first game, use the configuration shown here. For future games, we suggest players choose the location of Landmarks. In this case, stack all 8 Tiles, shuffle them, then take turns drawing Tiles and placing each Tile in any empty space other than the center space.
+- Stack all 8 Tiles, shuffle them, then take turns drawing Tiles and placing each Tile in any empty space other than the center space.
 - Place 1 random Loot Token in each space that is not a Landmark, until every space on the Board has either a Landmark Tile or a Loot Token.
 - Place the Beast in the center space of the Board.
-- Determine a first player. Take turns making initial Colossus placements: place your Colossus in any space other than the Volcano or the Beast’s space, then immediately places 3 of your Acolytes on or adjacent to your Colossus’s space (Acolytes do not need to be on 1 space).
+- Determine a first player. Beginning with the first player and continuing clockwise: place your Colossus and a banner on any space. You cannot place your Colossus on a space with the Volcano, the Beast, or another Colossus.
 
 # Gameplay
 
-Beast Master takes place over 6 Ages. An Age is complete when every player has taken 1 turn. Determine a first player, then take turns. 
+Colossi's gameplay simply consists of player turns. Continue taking turns until any player has 100 Gold. The game ends immediately, and the player with the most Gold wins.
 
 ## Colossus Turn
 
-A Colossus Turn has 3 phases:
-1. Drawing Phase: Draw 1 Colossus Card.
-2. Action Phase: In any order, you may move your Colossus and Acolytes up to 4 times and play up to 2 Colossus Cards from your hand. Any time you take Control of a space, immediately discard any Banner there and replace it with one of your Banners.
-3. Scoring Phase: When you are finished playing, collect Loot and Landmark rewards from any space you’ve claimed with your Banners.
+At the start of every turn, draw 1 Colossus Card. Then, you may do one of two things: 
+
+1. **Take Actions**: In any order, you may move your Colossus and Acolytes up to 4 times and play up to 2 Cards from your hand. Any time you take Control of a space, immediately discard any Banner there and replace it with one of your Banners.
+2. **Rest**: Collect Loot and Landmark rewards from any space with your Banner.
+
+Note that you can only do one of the above, not both. If you take Actions, you will not collect rewards.
 
 ## Game End
 
-The winner is the Colossus with the most Gold at the end of the game. The game ends when you have completed the 6 Ages. Beast Master can also be played in a Half Cycle (4 Ages instead of 6). Half Cycles are great for learning the game, or playing a quick game.
+Colossi ends immediately when any player has 100 Gold. 
 
 # Movement
 You have 4 Movements on your turn, and it costs 1 Movement to move your Colossus or an Acolyte 1 space in any direction. Colossi and Acolytes follow the same rules for movement.
