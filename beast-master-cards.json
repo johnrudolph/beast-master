@@ -7,12 +7,12 @@
     {
         "title": "Enrage the Beast",
         "number_of_copies": 2,
-        "description": "Kill every Acolyte adjacent to the Beast. Titans adjacent to the Beast must move 1 space away from the Beast. Resolve Titan movement in order beginning with the player who played this card."
+        "description": "Kill every Acolyte adjacent to the Beast. Colossi adjacent to the Beast must move 1 space away from the Beast. Resolve Colossus movement in order beginning with the player who played this card."
     },
     {
         "title": "Eruption",
         "number_of_copies": 3,
-        "description": "Kill every Acolyte adjacent to the Volcano. Titans adjacent to the Volcano must move 1 space away from the Volcano. Resolve Titan movement in order beginning with the player who played this card."
+        "description": "Kill every Acolyte adjacent to the Volcano. Colossi adjacent to the Volcano must move 1 space away from the Volcano. Resolve Colossus movement in order beginning with the player who played this card."
     },
     {
         "title": "Ghouls!",
@@ -32,7 +32,7 @@
     {
         "title": "Rampage",
         "number_of_copies": 3,
-        "description": "Move the Beast twice (the Beast can only move to adjacent spaces). In both spaces you moved to, kill all Acolytes and force Titans to move to adjacent spaces (each Titan is moved by its owner)."
+        "description": "Move the Beast twice (the Beast can only move to adjacent spaces). In both spaces you moved to, kill all Acolytes and force Colossi to move to adjacent spaces (each Colossus is moved by its owner)."
     },
     {
         "title": "Ransack",
@@ -47,16 +47,16 @@
     {
         "title": "Sabotage",
         "number_of_copies": 1,
-        "description": "Choose up to 3 spaces that have Banners but do not have Acolytes or Titans on them. Remove the Banners there and return them to their owners’ hands."
+        "description": "Choose up to 3 spaces that have Banners but do not have Acolytes or Colossi on them. Remove the Banners there and return them to their owners’ hands."
     },
     {
         "title": "Take Flight",
         "number_of_copies": 1,
-        "description": "Pick up the Beast and place it on any space other than the Volcano. Kill all Acolytes on that space and move any Titans to adjacent spaces as usual (each Titan on that space is moved by its owner)."
+        "description": "Pick up the Beast and place it on any space other than the Volcano. Kill all Acolytes on that space and move any Colossi to adjacent spaces as usual (each Colossus on that space is moved by its owner)."
     },
     {
         "title": "Terraform",
         "number_of_copies": 1,
-        "description": "Pick a Loot token on a space that is not occupied by the Beast or Titans, then swap that token with the Volcano tile. On the new Volcano space, kill all Acolytes and destroy any Banner there."
+        "description": "Pick a Loot token on a space that is not occupied by the Beast or Colossi, then swap that token with the Volcano tile. On the new Volcano space, kill all Acolytes and destroy any Banner there."
     }
 ]

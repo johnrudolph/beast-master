@@ -9,25 +9,25 @@
         "title": "Abundance",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "Draw 3 Titan cards. Every other Titan draws 1 Titan card."
+        "description": "Draw 3 Colossus cards. Every other Colossus draws 1 Colossus card."
     },
     {
         "title": "Audacity",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "Each Titan collects 2 Gold for every space they control adjacent to the Beast."
+        "description": "Each Colossus collects 2 Gold for every space they control adjacent to the Beast."
     },
     {
         "title": "Authority",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "Each Titan collects 2 Gold for every opposing Acolyte on their space."
+        "description": "Each Colossus collects 2 Gold for every opposing Acolyte on their space."
     },
     {
         "title": "Beast Mantle",
         "type": "Perk",
         "number_of_copies": 1,
-        "description": "During your turn you may discard as many Titan cards as you want and draw 1 Beast Master card for every 2 Titan cards you discarded."
+        "description": "During your turn you may discard as many Colossus cards as you want and draw 1 Beast Master card for every 2 Colossus cards you discarded."
     },
     {
         "title": "Blinding Speed",
@@ -39,19 +39,19 @@
         "title": "Companionship",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "Choose a Titan. Beginning with you and continuing clockwise, each player may place 3 Acolytes from their hand onto the space of the Titan you chose."
+        "description": "Choose a Colossus. Beginning with you and continuing clockwise, each player may place 3 Acolytes from their hand onto the space of the Colossus you chose."
     },
     {
         "title": "Comradery",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "Each Titan collects 5 Gold if they are on a space with another Titan."
+        "description": "Each Colossus collects 5 Gold if they are on a space with another Colossus."
     },
     {
         "title": "Convene",
         "type": "Action",
         "number_of_copies": 1,
-        "description": "Pull all Acolytes adjacent to your Titan onto your Titan's space."
+        "description": "Pull all Acolytes adjacent to your Colossus onto your Colossus's space."
     },
     {
         "title": "Convert",
@@ -63,7 +63,7 @@
         "title": "Diplomacy",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "Each Titan collects 1 Gold for every Acolyte they have on a space claimed an opposing Banner."
+        "description": "Each Colossus collects 1 Gold for every Acolyte they have on a space claimed an opposing Banner."
     },
     {
         "title": "Dodge",
@@ -75,37 +75,37 @@
         "title": "Dominion",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "Beginning with you and continuing clockwise, each player may place a Banner on a space with no Titans, Acolytes, or Banners on it. If there are no spaces available for you, do nothing."
+        "description": "Beginning with you and continuing clockwise, each player may place a Banner on a space with no Colossi, Acolytes, or Banners on it. If there are no spaces available for you, do nothing."
     },
     {
         "title": "Extortion",
         "type": "Action",
         "number_of_copies": 1,
-        "description": "Each opposing Titan must either give you a card of their choosing, or 2 Gold."
+        "description": "Each opposing Colossus must either give you a card of their choosing, or 2 Gold."
     },
     {
         "title": "Fortitude",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "Each Titan collects 2 Gold for each space that they control adjacent to their space."
+        "description": "Each Colossus collects 2 Gold for each space that they control adjacent to their space."
     },
     {
         "title": "Hegemony",
         "type": "Action",
         "number_of_copies": 1,
-        "description": "Any players with Acolytes on your Titan's space put all of their Titan cards into a pile, shuffle them, and re-deal them amongst themselves beginning with you and continuing clockwise."
+        "description": "Any players with Acolytes on your Colossus's space put all of their Colossus cards into a pile, shuffle them, and re-deal them amongst themselves beginning with you and continuing clockwise."
     },
     {
         "title": "Influence",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "Beginning with you and continuing clockwise, each player may move an opposing Titan once. Titans can move within their own roads as usual. "
+        "description": "Beginning with you and continuing clockwise, each player may move an opposing Colossus once. Colossi can move within their own roads as usual. "
     },
     {
         "title": "Intimidate",
         "type": "Action",
         "number_of_copies": 2,
-        "description": "Push all Acolytes adjacent to your Titan 1 space away."
+        "description": "Push all Acolytes adjacent to your Colossus 1 space away."
     },
     {
         "title": "Outpost",
@@ -117,43 +117,43 @@
         "title": "Pilfer",
         "type": "Action",
         "number_of_copies": 2,
-        "description": "Draw 2 Titan cards."
+        "description": "Draw 2 Colossus cards."
     },
     {
         "title": "Purge",
         "type": "Action",
         "number_of_copies": 2,
-        "description": "Move each Acolyte on your Titan's space to any adjacent space (you can move Acolytes to different spaces)."
+        "description": "Move each Acolyte on your Colossus's space to any adjacent space (you can move Acolytes to different spaces)."
     },
     {
         "title": "Replace",
         "type": "Action",
         "number_of_copies": 1,
-        "description": "Swap any 2 Titans on the island."
+        "description": "Swap any 2 Colossi on the island."
     },
     {
         "title": "Solidarity",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "The Titan with the most Acolytes in their hand may place all the Acolytes in their hand on a single space (if two players are tied for the most Acolytes in their hand, do nothing)."
+        "description": "The Colossus with the most Acolytes in their hand may place all the Acolytes in their hand on a single space (if two players are tied for the most Acolytes in their hand, do nothing)."
     },
     {
         "title": "Solitude",
         "type": "Divine Gift",
         "number_of_copies": 1,
-        "description": "If any Titans have no Acolytes (including their own Acolytes) on or adjacent to their space, they collect 7 Gold. "
+        "description": "If any Colossi have no Acolytes (including their own Acolytes) on or adjacent to their space, they collect 7 Gold. "
     },
     {
         "title": "Steal",
         "type": "Action",
         "number_of_copies": 1,
-        "description": "Take an opposing Titan's Perk and leave it face-up in front of you. If you already had a Perk in front of you, discard it."
+        "description": "Take an opposing Colossus's Perk and leave it face-up in front of you. If you already had a Perk in front of you, discard it."
     },
     {
         "title": "Teleport",
         "type": "Action",
         "number_of_copies": 2,
-        "description": "Move any Titan to any space (cannot move to the Volcano or to the Beast's space)."
+        "description": "Move any Colossus to any space (cannot move to the Volcano or to the Beast's space)."
     },
     {
         "title": "Tunnel Keys",
@@ -165,7 +165,7 @@
         "title": "Vandalize",
         "type": "Action",
         "number_of_copies": 2,
-        "description": "Discard another Titan's Perk."
+        "description": "Discard another Colossus's Perk."
     },
     {
         "title": "Zeal",

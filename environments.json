@@ -12,11 +12,11 @@
     {
         "title": "Ruins",
         "number_of_copies": 2,
-        "description": "Take 1 Gold from each opposing Titan."
+        "description": "Take 1 Gold from each opposing Colossus."
     },
     {
         "title": "Volcano",
         "number_of_copies": 1,
-        "description": "Every Acolyte who lands on the Volcano dies immediately. Titans and the Beast cannot go to the Volcano. If the Volcano erupts while Titans or the Beast are adjacent to it, move them one space in the opposite direction of the Volcano."
+        "description": "Every Acolyte who lands on the Volcano dies immediately. Colossi and the Beast cannot go to the Volcano. If the Volcano erupts while Colossi or the Beast are adjacent to it, move them one space in the opposite direction of the Volcano."
     }
 ]
