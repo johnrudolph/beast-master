@@ -63,7 +63,7 @@ Colossi's gameplay simply consists of player turns. Continue taking turns until 
 
 ## Colossus Turn
 
-At the start of every turn, do one of two things: 
+On your turn, do one of two things: 
 
 1. **Take Actions**: 
 - First, draw 1 Colossus Card.
@@ -72,7 +72,7 @@ At the start of every turn, do one of two things:
 
 2. **Rest**: Collect rewards from each space with one of your Banners. Resolve these in any order you choose. Return each Banner to your hand after you resolve it. 
 
-You can only do one of the above, not both. If you take Actions, you will not collect rewards.
+You can only do one of the above, not both. If you take Actions, you will not collect rewards. If you rest, you will not take actions or place any Banners.
 
 ## Game End
 
