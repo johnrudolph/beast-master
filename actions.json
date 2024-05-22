@@ -1,0 +1,74 @@
+[
+    {
+      "Name": "Pilfer",
+      "Description": "Draw 2 Colossus cards."
+    },
+    {
+      "Name": "Pilfer",
+      "Description": "Draw 2 Colossus cards."
+    },
+    {
+      "Name": "Dodge",
+      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
+    },
+    {
+      "Name": "Dodge",
+      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
+    },
+    {
+      "Name": "Intimidate",
+      "Description": "Push all Acolytes adjacent to your Colossus 1 space away."
+    },
+    {
+      "Name": "Intimidate",
+      "Description": "Push all Acolytes adjacent to your Colossus 1 space away."
+    },
+    {
+      "Name": "Teleport",
+      "Description": "Move any Colossus to any space (cannot move to the Beast's space)."
+    },
+    {
+      "Name": "Vandalize",
+      "Description": "Discard an opponent's Perk."
+    },
+    {
+      "Name": "Purge",
+      "Description": "Move each Acolyte on your Colossus's space to any adjacent space (you can move Acolytes to different spaces)."
+    },
+    {
+      "Name": "Purge",
+      "Description": "Move each Acolyte on your Colossus's space to any adjacent space (you can move Acolytes to different spaces)."
+    },
+    {
+      "Name": "Replace",
+      "Description": "Swap any 2 Colossi on the island."
+    },
+    {
+      "Name": "Convene",
+      "Description": "Pull all Acolytes adjacent to your Colossus onto your Colossus's space."
+    },
+    {
+      "Name": "Convene",
+      "Description": "Pull all Acolytes adjacent to your Colossus onto your Colossus's space."
+    },
+    {
+      "Name": "Convert",
+      "Description": "Kill 1 Acolyte anywhere on the island and replace it with an Acolyte from your hand (if you have one)."
+    },
+    {
+      "Name": "Steal",
+      "Description": "Take an opponent's Perk and leave it face-up in front of you. If you already had a Perk in front of you, discard it."
+    },
+    {
+      "Name": "Influence",
+      "Description": "Beginning with you and continuing clockwise, each player may move an opposing Colossus once. Colossi can move within their own roads as usual. "
+    },
+    {
+      "Name": "Equalize",
+      "Description": "Any players with Acolytes on your Colossus's space put all of their Titan cards into a pile, shuffle them, and re-deal them amongst themselves beginning with you and continuing clockwise."
+    },
+    {
+      "Name": "Hegemony",
+      "Description": "Every Acolyte must move off of spaces where you have a Banner. Their player chooses where they go."
+    }
+   ]

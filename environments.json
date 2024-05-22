@@ -1,22 +1,50 @@
 [
     {
-        "title": "Hallowed Ground",
-        "number_of_copies": 2,
-        "description": "Collect 1 Gold for each of your Acolytes on either of the 2 Hallowed Grounds."
+      "Name": "Hallowed Ground",
+      "Description": "When resting, collect 2 Gold for each of your Acolytes here. "
     },
     {
-        "title": "Market",
-        "number_of_copies": 2,
-        "description": "Collect 1 Gold for every card you discard while you have a Banner on a Market, even if it is not your turn."
+      "Name": "Volcano",
+      "Description": "Kill every Acolyte on or adjacent to this space."
     },
     {
-        "title": "Ruins",
-        "number_of_copies": 2,
-        "description": "Take 1 Gold from each opposing Colossus."
+      "Name": "Market",
+      "Description": "Discard cards from your hand. Collect 2 gold for each you discarded."
     },
     {
-        "title": "Volcano",
-        "number_of_copies": 1,
-        "description": "Every Acolyte who lands on the Volcano dies immediately. Colossi and the Beast cannot go to the Volcano. If the Volcano erupts while Colossi or the Beast are adjacent to it, move them one space in the opposite direction of the Volcano."
+      "Name": "Ruins",
+      "Description": "Each opponent must give you one of their cards, or 2 money."
+    },
+    {
+      "Name": "Magnetic Maar",
+      "Description": "Before scoring, move one loot token here and leave it here permanently. Include that loot token with your earnings for this rest."
+    },
+    {
+      "Name": "Tollbooth Tombolo",
+      "Description": "Any time an Acolyte moves here, place 1 Gold from the bank here. When resting, collect all Gold here."
+    },
+    {
+      "Name": "Badlands",
+      "Description": "When resting, move the Beast here. For each Acolyte this kills, collect 2 gold."
+    },
+    {
+      "Name": "Teleporter",
+      "Description": "When resting, swap every Acolyte, Colossi, and Banner here with another space. Then score that other space."
+    },
+    {
+      "Name": "Speedy Slopes",
+      "Description": "Before scoring your other Banners, you may move each of your Acolytes once. Update Banners as appropriate when you move Acolytes."
+    },
+    {
+      "Name": "Caverns",
+      "Description": "Colossi can never enter this space. There can only be 3 Acolytes here at a time."
+    },
+    {
+      "Name": "The Void",
+      "Description": "When resting, replace an Environment with a new random one. If your Banner is there, score it."
+    },
+    {
+      "Name": "Mountaintop of the Giants",
+      "Description": "All Acolytes die here. But Colossi can be here."
     }
-]
+   ]
