@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Hallowed Ground",
+        "description": "Collect 1 Gold for each of your Acolytes on either of the 2 Hallowed Grounds."
+    },
+    {
+        "title": "Market",
+        "description": "Collect 1 Gold for every card you discard while you have a Banner on a Market, even if it is not your turn."
+    },
+    {
+        "title": "Ruins",
+        "description": "Take 1 Gold from each opposing Colossus."
+    },
+    {
+        "title": "Volcano",
+        "description": "Every Acolyte who lands on the Volcano dies immediately. Colossi and the Beast cannot go to the Volcano. If the Volcano erupts while Colossi or the Beast are adjacent to it, move them one space in the opposite direction of the Volcano."
+    }
+]
