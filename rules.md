@@ -1,11 +1,11 @@
 # Introduction
 
-You are one of the Colossi who rules over this dangerous island. The money grubbing gods have decided to let one of you leave this island to join their ranks — but only if you have the Gold to prove yourself. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control the Beast and the Volcano, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling territory, and collecting the most Gold.
+You are one of the Colossi who rules over this dangerous island. The money grubbing gods have decided to let one of you leave this island to join their ranks — but only if you have the Gold to prove yourself. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control the Beast, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and collecting the most Gold.
  
 # Components
 
 ## Board 
-The island has 27 spaces. When the game starts, every space has either a Landmark or a Loot Token. The Beast and Colossi never leave the island.
+The island has 27 spaces. The island starts empty, but will eventually be filled with Loot Tokens and Environments.
 
 ## Colossi
 You are a Colossus, and you lead a fleet of Acolytes.  Colossi cannot die, and remain on the island for the entire game.
@@ -13,82 +13,82 @@ You are a Colossus, and you lead a fleet of Acolytes.  Colossi cannot die, and r
 ## Acolytes
 Acolytes move like Colossi, but die frequently. 
 - Any time an Acolyte is on a space with the Beast, it dies. 
-- Any time an Acolyte is pushed off the edge of the island or into the Volcano, it dies.
+- Any time an Acolyte is pushed off the edge of the island, it dies.
 - When your Acolytes die, they return to your hand, and can be played again on future turns.
 
 ## The Beast
 The Beast is a monster who terrorizes everyone on the island.
 - The Beast kills all Acolytes on its space.
 - When the Beast moves into your Colossus’s space, immediately move your Colossus to any adjacent space of your choice. If the Beast attacks multiple Colossi at once, resolve in order, beginning with the player whose turn it is, then proceed clockwise
-- The Beast does not affect Banners.
 
 ## Gold
 Win the game by collecting the most Gold.  There are 3 ways to collect Gold:
-- Control spaces and raise your Banners to claim the rewards from Landmarks and Loot
+- Control spaces and raise your Banners to claim the rewards from Environmnets and Loot
 - Collect 1 Gold for every opposing Acolyte you kill with a Beast card. 
 - Receive Gold from Divine Gift cards.
 
 ## Banners
 Banners indicate which player will collect rewards for a given space.
-- There can only be 1 Banner on a given space: When you take Control of a space, immediately remove any opposing Banner there and replace it with one of your banners. There might be situations where you take control of a space when it is not your turn — replace Banners on these spaces even if it is not your turn.
-- Only remove your Banner from a space if another player has taken control of it. If all of your Acolytes have moved off the space and it is now empty, your Banner remains in play and continues to earn rewards.
-- You can reuse Banners after they return to your hand. If all of your Banners are in play when you take control of a space, you may move one of your Banners. 
-- Banners are not affected by the Beast or the Volcano.
+- You can raise your Banners at the end of your turn on spaces you Control. There can only be 1 Banner on a given space. If there was an opposing Banner on the space where you raised one, return it to its owner's hand.
+- Even if you move your Acolytes and Colossus off of that space, and another player Controls it, your Banner remains until they replace it or you Rest.
+- If you have no Banners in your hand, you cannot play anymore Banners. You cannot move Banners already in play.
+- When you Rest, you will collect rewards for each of your Banners, and return them to your hand. You can reuse Banners after they return to your hand.
 
-## Landmarks
-Landmarks are special tiles with potentially big rewards. Raise one of your Banners on a Landmark to claim its rewards during the Scoring Phase of your turn. Rewards stack if you have Banners on multiple Landmark tiles of the same type.
+## Environments
+Environments are special tiles with potentially big rewards. Raise one of your Banners on a Environment to claim its rewards when you Rest.
 
 ## Loot Tokens
-Loot gives you smaller rewards, and there is 1 Loot token on each space that is not a Landmark. Loot tokens remain in play, and can be used on every turn. There are Loot tokens that give you Colossus Cards, Beast cards, and Gold during the Scoring Phase of your turn.
+Loot gives you smaller rewards. Loot tokens remain in play, and can be used on every turn. There are Loot tokens that give you Colossus Cards and Gold when you Rest. Raise one of your Banners on a space with a Loot Token to claim its rewards when you Rest.
 
 ## Colossus Cards
-Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards including Colossus Cards and Beast Cards. There are 3 types of Colossus Card:
+Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards including Colossus Cards and Beast Cards. There are 4 types of Colossus Card:
 
-- **Action**: Move pieces around the board, get more cards, torment your opponents, and more.
+- **Action**: Move pieces around the board, get more cards, and more.
 - **Perk**: Gain a persistent advantage over other players. Perks stay in front of you, face-up for ongoing use. You may only have 1 Perk active at a time. 
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
-
-## Beast Cards
-These cards control Beast movement, the Volcano, and wreak havoc around the island. You may play Beast cards from your hand during your turn just like you play Colossus Cards.
+- **Beast Master**: Control Beast movement, torment your opponents, re-arrange the island, and otherwise wreak havoc.
 
 # Setup
 
-- Shuffle the Colossus Card deck and the Beast Card deck, and place each of them near the board. Deal each player 3 Colossus Cards and 1 Beast card
 - Each player chooses a color, and receives a set of 1 Colossus, 5 Banners, and 10 Acolytes of that color (in a 3 player game, each player gets 12 Acolytes)
-- Stack all 8 Tiles, shuffle them, then take turns drawing Tiles and placing each Tile in any empty space other than the center space.
-- Place 1 random Loot Token in each space that is not a Landmark, until every space on the Board has either a Landmark Tile or a Loot Token.
+- Shuffle the Colossus Card deck and place it near the board. Deal each player 3 Colossus Cards.
+- Stack all Environment tiles face-down and shuffle them.
+- Shuffle all Loot Tokens and place them face-down.
 - Place the Beast in the center space of the Board.
-- Determine a first player. Beginning with the first player and continuing clockwise: place your Colossus and a banner on any space. You cannot place your Colossus on a space with the Volcano, the Beast, or another Colossus.
+- Determine a first player. 
 
 # Gameplay
 
-Colossi's gameplay simply consists of player turns. Continue taking turns until any player has 100 Gold. The game ends immediately, and the player with the most Gold wins.
+Colossi's gameplay simply consists of player turns. Continue taking turns until each player has taken 15 turns. 
 
 ## Colossus Turn
 
-At the start of every turn, draw 1 Colossus Card. Then, you may do one of two things: 
+At the start of every turn, do one of two things: 
 
-1. **Take Actions**: In any order, you may move your Colossus and Acolytes up to 4 times and play up to 2 Cards from your hand. Any time you take Control of a space, immediately discard any Banner there and replace it with one of your Banners.
-2. **Rest**: Collect Loot and Landmark rewards from any space with your Banner.
+1. **Take Actions**: 
+- First, draw 1 Colossus Card.
+- In any order, you may move your Colossus and Acolytes up to 4 times and play any number of Colossus Cards from your hand.
+- At the end of your turn, you may place Banners from your hand on any spaces you Control. If you place a Banner on a space containing an opposing Banner, return it to its owner's hand.
 
-Note that you can only do one of the above, not both. If you take Actions, you will not collect rewards.
+2. **Rest**: Collect rewards from each space with one of your Banners. Resolve these in any order you choose. Return each Banner to your hand after you resolve it. 
+
+You can only do one of the above, not both. If you take Actions, you will not collect rewards.
 
 ## Game End
 
-Colossi ends immediately when any player has 100 Gold. 
+Beast Master ends after each player has taken 15 turns. 
 
 # Movement
 You have 4 Movements on your turn, and it costs 1 Movement to move your Colossus or an Acolyte 1 space in any direction. Colossi and Acolytes follow the same rules for movement.
+- **Exploring**: When moving into a space that has no Loot Token or Environment, you will discover what is there. Roll the die. If you roll 1-4, place a random Loot Token there. If you roll 5-6, place an Environment there. 
 - **Road Movement**: When moving into a space that already contains your Colossus or one of your Acolytes, you may continue onward to any adjacent space for free. If you have your Colossus or Acolytes in multiple adjacent spaces, move long distances using just 1 Movement.
-- **Create an Acolyte**: For the cost of 1 Movement, place an Acolyte from your hand onto your Colossus’s space. You may immediately move that Acolyte to an adjacent space for free using Road Movement.
+- **Spawn an Acolyte**: For the cost of 1 Movement, place an Acolyte from your hand onto your Colossus’s space. You may immediately move that Acolyte to an adjacent space for free using Road Movement.
 
 # Control
-You must control spaces in order to raise your Banners and then receive rewards from Loot and Landmarks. How do you control a space?
+You must control spaces in order to raise your Banners. How do you control a space?
 
 | # of Colossi on the space| Who controls the space (in case of a tie, neither player has control) |
 |----------|----------|
 | No Colossus  | The player with the most Acolytes on the space. | 
 | 1 Colossus   | The Colossus supersedes all Acolytes. | 
 | Multiple Colossi   | The Colossus on the space who has the most Acolytes on the space. | 
-
-When you take Control of a space, immediately discard any opposing Banner there and replace it with one of your Banners. If all of your Banners are in play, you may move one of your Banners to that space.
