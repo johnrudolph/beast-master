@@ -5,7 +5,7 @@
     },
     {
       "Name": "Fortitude",
-      "Description": "Each Colossus collects 2 Gold for each Banner they have adjacent to their space."
+      "Description": "Each Colossus collects 2 Gold for space they control adjacent to their space."
     },
     {
       "Name": "Solidarity",
@@ -13,7 +13,7 @@
     },
     {
       "Name": "Audacity",
-      "Description": "Each Colossus collects 2 Gold for every Banner they have adjacent the Beast."
+      "Description": "Each Colossus collects 2 Gold for every space they control adjacent the Beast."
     },
     {
       "Name": "Comradery",
@@ -21,11 +21,11 @@
     },
     {
       "Name": "Solitude",
-      "Description": "If any Colossus has no Acolytes (including their own Acolytes) on or adjacent to their space, they collect 7 Gold. "
+      "Description": "If any Colossus has no Acolytes (including their own Acolytes) on or adjacent to their space, they collect 5 Gold. "
     },
     {
       "Name": "Abundance",
-      "Description": "Draw 3 Colossus cards from the deck. Every other Colossus draws 1 Titan card from the deck."
+      "Description": "Draw 3 Colossus cards from the deck. Every other Colossus draws 1 card from the deck."
     },
     {
       "Name": "Companionship",
@@ -33,11 +33,11 @@
     },
     {
       "Name": "Dominion",
-      "Description": "Beginning with you and continuing clockwise, each player may place a Banner on a space with no Colossi, Acolytes, or Banners on it. If there are no spaces available for you, do nothing."
+      "Description": "Beginning with you and continuing clockwise, each player may place a Banner on a space with no Colossi, Acolytes, or Banners on it. You cannot place a Banner on an un-explored space. If there are no spaces available for you, do nothing."
     },
     {
       "Name": "Diplomacy",
-      "Description": "Each Colossus collects 1 Gold for every Acolyte they have on a space claimed an opposing Banner."
+      "Description": "Each Colossus collects 1 Gold for every Acolyte they have on a space controlled by another player."
     },
     {
       "Name": "Influence",
@@ -45,7 +45,7 @@
     },
     {
       "Name": "Windfall",
-      "Description": "Each Colossi collects the reward of their space as if they were resting, if they are on a space that has their banner."
+      "Description": "Each Colossi collects the reward of their space as if they were resting and had a Banner there."
     },
     {
       "Name": "Reinforcements",

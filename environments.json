@@ -1,23 +1,24 @@
 [
     {
       "Name": "Hallowed Ground",
-      "Description": "When resting, collect 2 Gold for each of your Acolytes here. "
+      "Description": "When resting, collect 2 Gold for each of your Acolytes here."
     },
     {
       "Name": "Volcano",
-      "Description": "Kill every Acolyte on or adjacent to this space."
+      "Description": "When resting, kill every Acolyte on or adjacent to this space."
     },
     {
       "Name": "Market",
-      "Description": "Discard cards from your hand. Collect 2 gold for each you discarded."
+      "Description": "Discard cards from your hand. Collect 2 gold for each you discarded.",
+      "Clarifications": "You can discard cards you just drew during this Rest. But your hand limit applies immediately. So if you had previously drawn up beyond your hand limit, you must discard down before scoring this Environment."
     },
     {
       "Name": "Ruins",
-      "Description": "Each opponent must give you one of their cards, or 2 money."
+      "Description": "Each opponent must give you one of their cards, or 2 Gold."
     },
     {
       "Name": "Magnetic Maar",
-      "Description": "Before scoring, move one loot token here and leave it here permanently. Include that loot token with your earnings for this rest."
+      "Description": "When resting, before scoring this space, move one loot token from an adjacent space here and leave it here permanently. Include that loot token with your earnings for this rest."
     },
     {
       "Name": "Tollbooth Tombolo",
@@ -29,19 +30,21 @@
     },
     {
       "Name": "Teleporter",
-      "Description": "When resting, swap every Acolyte, Colossi, and Banner here with another space. Then score that other space."
+      "Description": "When resting, swap every Acolyte, Colossi, and Banner here with another explored space. Then score that other space."
     },
     {
       "Name": "Speedy Slopes",
-      "Description": "Before scoring your other Banners, you may move each of your Acolytes once. Update Banners as appropriate when you move Acolytes."
+      "Description": "When resting, you may move each of your Acolytes once. Update Banners as appropriate when you move Acolytes.",
+      "Clarifications": "Keep in mind that you only place Banners down at the end of regular turns. So if you move an Acolyte to a space and take control of it, you still cannot score it during this Rest."
     },
     {
       "Name": "Caverns",
-      "Description": "Colossi can never enter this space. There can only be 3 Acolytes here at a time."
+      "Description": "Only one Acolyte or Colossus can be here at a time."
     },
     {
       "Name": "The Void",
-      "Description": "When resting, replace an Environment with a new random one. If your Banner is there, score it."
+      "Description": "When resting, replace an Environment with a new random one. If your Banner is there, score it.",
+      "Clarifications": "You should always remove a Banner after scoring it. So if you had already scored the Environment you replaced, you would not score the new one."
     },
     {
       "Name": "Mountaintop of the Giants",

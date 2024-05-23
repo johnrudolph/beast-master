@@ -17,11 +17,11 @@
     },
     {
       "Name": "Intimidate",
-      "Description": "Push all Acolytes adjacent to your Colossus 1 space away."
+      "Description": "Push all Acolytes adjacent to your Colossus 1 space away. Acolytes pushed off the island are killed."
     },
     {
       "Name": "Intimidate",
-      "Description": "Push all Acolytes adjacent to your Colossus 1 space away."
+      "Description": "Push all Acolytes adjacent to your Colossus 1 space away. Acolytes pushed off the island are killed."
     },
     {
       "Name": "Teleport",
@@ -69,6 +69,6 @@
     },
     {
       "Name": "Hegemony",
-      "Description": "Every Acolyte must move off of spaces where you have a Banner. Their player chooses where they go."
+      "Description": "Every Acolyte must move off of spaces you control. Their player chooses where they go."
     }
    ]

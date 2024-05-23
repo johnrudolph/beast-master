@@ -1,27 +1,27 @@
 [
     {
       "Name": "Sneak Attack",
-      "Description": "Pick up the Beast and place it on any space. Kill all Acolytes on that space and move any Colossi to adjacent spaces as usual (each Colossus on that space is moved by its owner)."
+      "Description": "Pick up the Beast and place it on any space."
     },
     {
       "Name": "Rampage",
-      "Description": "Move the Beast twice (the Beast can only move to adjacent spaces). In both spaces you moved to, kill all Acolytes and force Colossi to move to adjacent spaces (each Colossus is moved by its owner)."
+      "Description": "Move the Beast twice (the Beast can only move to adjacent spaces)."
     },
     {
       "Name": "Rampage",
-      "Description": "Move the Beast twice (the Beast can only move to adjacent spaces). In both spaces you moved to, kill all Acolytes and force Colossi to move to adjacent spaces (each Colossus is moved by its owner)."
+      "Description": "Move the Beast twice (the Beast can only move to adjacent spaces)."
     },
     {
       "Name": "Rampage",
-      "Description": "Move the Beast twice (the Beast can only move to adjacent spaces). In both spaces you moved to, kill all Acolytes and force Colossi to move to adjacent spaces (each Colossus is moved by its owner)."
+      "Description": "Move the Beast twice (the Beast can only move to adjacent spaces)."
     },
     {
       "Name": "Rampage",
-      "Description": "Move the Beast twice (the Beast can only move to adjacent spaces). In both spaces you moved to, kill all Acolytes and force Colossi to move to adjacent spaces (each Colossus is moved by its owner)."
+      "Description": "Move the Beast twice (the Beast can only move to adjacent spaces)."
     },
     {
       "Name": "Landslide",
-      "Description": "Pick up any 2 Loot Tokens and move each of them to a different spaces. The space you moved it to now has multiple rewards."
+      "Description": "Pick up any 2 Loot Tokens and move each of them to a different spaces."
     },
     {
       "Name": "Sabotage",
@@ -29,11 +29,15 @@
     },
     {
       "Name": "Terraform",
-      "Description": "Pick a Loot token on a space that is not occupied by the Beast or Colossi, then swap that token with an Environment tile."
+      "Description": "Choose a Loot Token that is on a space that has no Environment tile. Then swap it with any Environment tile."
     },
     {
       "Name": "Enrage the Beast",
-      "Description": "Kill every Acolyte adjacent to the Beast. "
+      "Description": "Kill every Acolyte adjacent to the Beast."
+    },
+    {
+      "Name": "Enrage the Beast",
+      "Description": "Kill every Acolyte adjacent to the Beast."
     },
     {
       "Name": "Ritual Sacrifice",
