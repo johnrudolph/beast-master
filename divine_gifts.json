@@ -1,54 +1,58 @@
 [
     {
-      "Name": "Authority",
-      "Description": "Each Colossus collects 2 Gold for every opposing Acolyte on their space."
-    },
-    {
-      "Name": "Fortitude",
-      "Description": "Each Colossus collects 2 Gold for space they control adjacent to their space."
-    },
-    {
-      "Name": "Solidarity",
-      "Description": "The Colossus with the most Acolytes in their hand may place all the Acolytes in their hand on a single space (if two players are tied for the most Acolytes in their hand, do nothing)."
+      "Name": "Abundance",
+      "Description": "Draw 3 Colossus cards from the deck. Every other Colossus draws 1 card from the deck."
     },
     {
       "Name": "Audacity",
-      "Description": "Each Colossus collects 2 Gold for every space they control adjacent the Beast."
+      "Description": "Each Colossus collects 2 Gold for every space they control adjacent a Beast."
     },
     {
-      "Name": "Comradery",
-      "Description": "Each Colossus collects 5 Gold if they are on a space with another Colossus."
-    },
-    {
-      "Name": "Solitude",
-      "Description": "If any Colossus has no Acolytes (including their own Acolytes) on or adjacent to their space, they collect 5 Gold. "
-    },
-    {
-      "Name": "Abundance",
-      "Description": "Draw 3 Colossus cards from the deck. Every other Colossus draws 1 card from the deck."
+      "Name": "Authority",
+      "Description": "Each Colossus collects 2 Gold for every opposing Acolyte on their space."
     },
     {
       "Name": "Companionship",
       "Description": "Choose a Colossus. Beginning with you and continuing clockwise, each player may place 3 Acolytes from their hand onto the space of the Colossus you chose."
     },
     {
-      "Name": "Dominion",
-      "Description": "Beginning with you and continuing clockwise, each player may place a Banner on a space with no Colossi, Acolytes, or Banners on it. You cannot place a Banner on an un-explored space. If there are no spaces available for you, do nothing."
+      "Name": "Comradery",
+      "Description": "Each Colossus collects 5 Gold if they are on a space with another Colossus."
     },
     {
       "Name": "Diplomacy",
       "Description": "Each Colossus collects 1 Gold for every Acolyte they have on a space controlled by another player."
     },
     {
-      "Name": "Influence",
-      "Description": "Beginning with you and continuing clockwise, each player may move an opposing Colossus once. Colossi can move within their own roads as usual. "
+      "Name": "Dominion",
+      "Description": "Beginning with you and continuing clockwise, each player may place a Banner on a space with no Colossi, Acolytes, or Banners on it. You cannot place a Banner on an un-explored space. If there are no spaces available for you, do nothing."
     },
     {
-      "Name": "Windfall",
-      "Description": "Each Colossi collects the reward of their space as if they were resting and had a Banner there."
+      "Name": "Fortitude",
+      "Description": "Each Colossus collects 2 Gold for space they control adjacent to their space."
+    },
+    {
+      "Name": "Influence",
+      "Description": "Beginning with you and continuing clockwise, each player may move an opposing Colossus once. Colossi can move within their own roads as usual."
+    },
+    {
+      "Name": "Miracle",
+      "Description": "Beginning with you and continuing clockwise, each player may score one of their Banners as if they were resting. If you do, return your Banner to your hand as usual."
     },
     {
       "Name": "Reinforcements",
       "Description": "Each Colossus puts 1 Acolyte from their hand on each space that has one of their Banners."
+    }
+    {
+      "Name": "Solidarity",
+      "Description": "The Colossus with the most Acolytes in their hand may place all the Acolytes in their hand on a single space (if two players are tied for the most Acolytes in their hand, do nothing)."
+    },
+    {
+      "Name": "Solitude",
+      "Description": "If any Colossus has no Acolytes (including their own Acolytes) on or adjacent to their space, they collect 5 Gold. "
+    },
+    {
+      "Name": "Windfall",
+      "Description": "Each Colossi collects the reward of their space as if they were resting and had a Banner there."
     }
    ]

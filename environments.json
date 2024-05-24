@@ -1,11 +1,53 @@
 [
     {
+      "Name": "Badlands",
+      "Description": "When resting, move the Beast here. For each Acolyte this kills, collect 2 gold."
+    },
+    {
+      "Name": "Caverns",
+      "Description": "Only one Acolyte or Colossus can be here at a time."
+    },
+    {
+      "Name": "Deep Mines",
+      "Description": "When this is drawn, put 1 Gold here. When resting, collect all Gold here, then, put 2 Gold from the Bank here. Every time this happens, double the amount from the Bank."
+    },
+    {
       "Name": "Hallowed Ground",
       "Description": "When resting, collect 2 Gold for each of your Acolytes here."
     },
     {
-      "Name": "Volcano",
-      "Description": "When resting, kill every Acolyte on or adjacent to this space."
+      "Name": "Lair: Blood Beast",
+      "Description": "When revealed, place the Blood Beast here. When resting, kill every Acolyte on or adjacent to the Beast's space.",
+      "Beast Description": "Any Acolytes that share a space with the Beast die."
+    },
+    {
+      "Name": "Lair: Earth Beast",
+      "Description": "When revealed, place the Earth Beast here. Choose a direction. Every Acolyte moves one space that direction. If any Acolytes move off the island, they die.",
+      "Beast Description": "When in a space with a Banner, destroy it."
+    },
+    {
+      "Name": "Lair: Hungry Beast",
+      "Description": "When revealed, place the Hungry Beast here. When resting, move each Loot Token from the Beast's space to adjacent spaces.",
+      "Beast Description": "Every time the Beast leaves a space containing Loot Token(s), it takes the Loot Token(s) with it."
+    },
+    {
+      "Name": "Lair: Reinforcement Beast",
+      "Description": "When revealed, place the Reinforcement Beast here. When resting, Reinforce up to 2 Banners you have in play, and leave them in place after scoring them.",
+      "Beast Description": "When in a space with a Banner, reinforce it."
+    },
+    {
+      "Name": "Lair: Wealthy Beast",
+      "Description": "When revealed, place the Wealthy Beast here. When resting, place 2 Gold from the bank in each space adjacent to the Beast.",
+      "Beast Description": "When leaving a space, leave 1 Gold from the bank there."
+    },
+    {
+      "Name": "Launchpad",
+      "Description": "When resting, move each Acolyte here to any space.",
+      "Clarifications": "Keep in mind that you only place Banners down at the end of regular turns. So if you move an Acolyte to a space and take control of it, you still cannot score it during this Rest."
+    },
+    {
+      "Name": "Magnetic Maar",
+      "Description": "When resting, before scoring this space, move one loot token from an adjacent space here and leave it here permanently. Include that loot token with your earnings for this rest."
     },
     {
       "Name": "Market",
@@ -13,24 +55,20 @@
       "Clarifications": "You can discard cards you just drew during this Rest. But your hand limit applies immediately. So if you had previously drawn up beyond your hand limit, you must discard down before scoring this Environment."
     },
     {
+      "Name": "Moat",
+      "Description": "When resting, collect 2 Gold for each of your Acolytes here."
+    },
+    {
+      "Name": "Mountaintop of the Giants",
+      "Description": "All Acolytes die here. But Colossi can be here."
+    },
+    {
+      "Name": "Oasis",
+      "Description": "When resting, discard your entire hand. Then draw 6 cards."
+    },
+    {
       "Name": "Ruins",
       "Description": "Each opponent must give you one of their cards, or 2 Gold."
-    },
-    {
-      "Name": "Magnetic Maar",
-      "Description": "When resting, before scoring this space, move one loot token from an adjacent space here and leave it here permanently. Include that loot token with your earnings for this rest."
-    },
-    {
-      "Name": "Tollbooth Tombolo",
-      "Description": "Any time an Acolyte moves here, place 1 Gold from the bank here. When resting, collect all Gold here."
-    },
-    {
-      "Name": "Badlands",
-      "Description": "When resting, move the Beast here. For each Acolyte this kills, collect 2 gold."
-    },
-    {
-      "Name": "Teleporter",
-      "Description": "When resting, swap every Acolyte, Colossi, and Banner here with another explored space. Then score that other space."
     },
     {
       "Name": "Speedy Slopes",
@@ -38,8 +76,24 @@
       "Clarifications": "Keep in mind that you only place Banners down at the end of regular turns. So if you move an Acolyte to a space and take control of it, you still cannot score it during this Rest."
     },
     {
-      "Name": "Caverns",
-      "Description": "Only one Acolyte or Colossus can be here at a time."
+      "Name": "Teleporter",
+      "Description": "When resting, swap every Acolyte, Colossi, and Banner here with another explored space. Then score that other space."
+    },
+    {
+      "Name": "Time Turner",
+      "Description": "Immediately after you rest, you may take a normal turn."
+    },
+    {
+      "Name": "Tollbooth Tombolo",
+      "Description": "Any time an Acolyte moves here, place 1 Gold from the bank here. When resting, collect all Gold here."
+    },
+    {
+      "Name": "Treasure Trove",
+      "Description": "When placing a Banner here, put 2 Gold from the bank here. When resting, collect all Gold here."
+    },
+    {
+      "Name": "Trigger",
+      "Description": "When resting, turn over cards from the deck until you draw a Beast card. Play it immediately."
     },
     {
       "Name": "The Void",
@@ -47,7 +101,7 @@
       "Clarifications": "You should always remove a Banner after scoring it. So if you had already scored the Environment you replaced, you would not score the new one."
     },
     {
-      "Name": "Mountaintop of the Giants",
-      "Description": "All Acolytes die here. But Colossi can be here."
+      "Name": "Volcano",
+      "Description": "When resting, kill every Acolyte on or adjacent to this space."
     }
    ]

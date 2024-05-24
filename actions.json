@@ -1,47 +1,7 @@
 [
     {
-      "Name": "Pilfer",
-      "Description": "Draw 2 Colossus cards."
-    },
-    {
-      "Name": "Pilfer",
-      "Description": "Draw 2 Colossus cards."
-    },
-    {
-      "Name": "Dodge",
-      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
-    },
-    {
-      "Name": "Dodge",
-      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
-    },
-    {
-      "Name": "Intimidate",
-      "Description": "Push all Acolytes adjacent to your Colossus 1 space away. Acolytes pushed off the island are killed."
-    },
-    {
-      "Name": "Intimidate",
-      "Description": "Push all Acolytes adjacent to your Colossus 1 space away. Acolytes pushed off the island are killed."
-    },
-    {
-      "Name": "Teleport",
-      "Description": "Move any Colossus to any space (cannot move to the Beast's space)."
-    },
-    {
-      "Name": "Vandalize",
-      "Description": "Discard an opponent's Perk."
-    },
-    {
-      "Name": "Purge",
-      "Description": "Move each Acolyte on your Colossus's space to any adjacent space (you can move Acolytes to different spaces)."
-    },
-    {
-      "Name": "Purge",
-      "Description": "Move each Acolyte on your Colossus's space to any adjacent space (you can move Acolytes to different spaces)."
-    },
-    {
-      "Name": "Replace",
-      "Description": "Swap any 2 Colossi on the island."
+      "Name": "Comandeer",
+      "Description": "Replace an opposing Banner with one of your own."
     },
     {
       "Name": "Convene",
@@ -56,12 +16,12 @@
       "Description": "Kill 1 Acolyte anywhere on the island and replace it with an Acolyte from your hand (if you have one)."
     },
     {
-      "Name": "Steal",
-      "Description": "Take an opponent's Perk and leave it face-up in front of you. If you already had a Perk in front of you, discard it."
+      "Name": "Dodge",
+      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
     },
     {
-      "Name": "Influence",
-      "Description": "Beginning with you and continuing clockwise, each player may move an opposing Colossus once. Colossi can move within their own roads as usual. "
+      "Name": "Dodge",
+      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
     },
     {
       "Name": "Equalize",
@@ -70,5 +30,81 @@
     {
       "Name": "Hegemony",
       "Description": "Every Acolyte must move off of spaces you control. Their player chooses where they go."
+    }
+    {
+      "Name": "Influence",
+      "Description": "Beginning with you and continuing clockwise, each player may move an opposing Colossus once. Colossi can move within their own roads as usual. "
+    },
+    {
+      "Name": "Intimidate",
+      "Description": "Push all Acolytes adjacent to your Colossus 1 space away. Acolytes pushed off the island are killed."
+    },
+    {
+      "Name": "Intimidate",
+      "Description": "Push all Acolytes adjacent to your Colossus 1 space away. Acolytes pushed off the island are killed."
+    },
+    {
+      "Name": "Landslide",
+      "Description": "Pick up any 2 Loot Tokens and move each of them to a different spaces."
+    },
+    {
+      "Name": "Pilfer",
+      "Description": "Draw 2 Colossus cards."
+    },
+    {
+      "Name": "Pilfer",
+      "Description": "Draw 2 Colossus cards."
+    },
+    {
+      "Name": "Purge",
+      "Description": "Move each Acolyte on your Colossus's space to any adjacent space (you can move Acolytes to different spaces)."
+    },
+    {
+      "Name": "Purge",
+      "Description": "Move each Acolyte on your Colossus's space to any adjacent space (you can move Acolytes to different spaces)."
+    },
+    {
+      "Name": "Reinforce",
+      "Description": "Reinforce one of your Banners in play. Flip it to show its reinforced side. This Banner cannot be replaced by an opponent."
+    },
+    {
+      "Name": "Reinforce",
+      "Description": "Reinforce one of your Banners in play. Flip it to show its reinforced side. This Banner cannot be replaced by an opponent."
+    },
+    {
+      "Name": "Reinforce",
+      "Description": "Reinforce one of your Banners in play. Flip it to show its reinforced side. This Banner cannot be replaced by an opponent."
+    },
+    {
+      "Name": "Reinforce",
+      "Description": "Reinforce one of your Banners in play. Flip it to show its reinforced side. This Banner cannot be replaced by an opponent."
+    },
+    {
+      "Name": "Replace",
+      "Description": "Swap any 2 Colossi on the island."
+    },
+    {
+      "Name": "Ritual Sacrifice",
+      "Description": "For any Acolyte (including your own Acolytes) on any of the Environment tiles, roll the die, and kill the Acolyte if you roll 1 or 2 (Clarify which Acolyte you are rolling for before each roll)"
+    },
+    {
+      "Name": "Sabotage",
+      "Description": "Choose up to 3 spaces that have Banners but do not have Acolytes or Colossi on them. Remove the Banners there and return them to their owners’ hands."
+    },
+    {
+      "Name": "Steal",
+      "Description": "Take an opponent's Perk and leave it face-up in front of you. If you already had a Perk in front of you, discard it."
+    },
+    {
+      "Name": "Teleport",
+      "Description": "Move any Colossus to any space."
+    },
+    {
+      "Name": "Terraform",
+      "Description": "Choose a Loot Token that is on a space that has no Environment tile. Then swap it with any Environment tile."
+    },
+    {
+      "Name": "Vandalize",
+      "Description": "Discard an opponent's Perk."
     }
    ]

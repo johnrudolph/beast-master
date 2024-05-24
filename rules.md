@@ -1,6 +1,6 @@
 # Introduction
 
-You are one of the Colossi who rules over this dangerous island. The money grubbing gods have decided to let one of you leave this island to join their ranks — but only if you have the Gold to prove yourself. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control the Beast, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and collecting the most Gold.
+You are one of the Colossi who rules over this dangerous island. The money grubbing gods have decided to let one of you leave this island to join their ranks — but only if you have the Gold to prove yourself. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and collecting the most Gold.
  
 # Components
 
@@ -12,14 +12,12 @@ You are a Colossus, and you lead a fleet of Acolytes.  Colossi cannot die, and r
 
 ## Acolytes
 Acolytes move like Colossi, but die frequently. 
-- Any time an Acolyte is on a space with the Beast, it dies. 
 - Any time an Acolyte is pushed off the edge of the island, it dies.
+- Lots of cards, Beasts, and other things will kill your Acolytes.
 - When your Acolytes die, they return to your hand, and can be played again on future turns.
 
-## The Beast
-The Beast is a monster who terrorizes everyone on the island.
-- The Beast kills all Acolytes on its space.
-- When the Beast moves into your Colossus’s space, immediately move your Colossus to any adjacent space of your choice. If the Beast attacks multiple Colossi at once, resolve in order, beginning with the player whose turn it is, then proceed clockwise
+## Beasts
+Beasts are monsters who haunt this island. Each has a passive effect and a special Lair Environment that causes a big action. In each game, you will play with 2 randomly selected Beasts.
 
 ## Gold
 Win the game by collecting the most Gold.  There are 3 ways to collect Gold:
@@ -32,7 +30,8 @@ Banners indicate which player will collect rewards for a given space.
 - You can raise your Banners at the end of your turn on spaces you Control. There can only be 1 Banner on a given space. If there was an opposing Banner on the space where you raised one, return it to its owner's hand.
 - Even if you move your Acolytes and Colossus off of that space, and another player Controls it, your Banner remains until they replace it or you Rest.
 - If you have no Banners in your hand, you cannot play anymore Banners. You cannot move Banners already in play.
-- When you Rest, you will collect rewards for each of your Banners, and return them to your hand. You can reuse Banners after they return to your hand.
+- When you Rest, you will collect rewards for each of your Banners, and return them to your hand. You can reuse Banners after they return to your hand. Sometimes there will be Gold on spaces (not just Loot Tokens); in these cases, keep the Gold on the space you're scoring.
+- Some cards and Environments will allow you to Reinforce a Banner. Flip your Banner to show the Reinforcement side. A Reinforced Banner cannot be replaced by an opponent.
 
 ## Environments
 Environments are special tiles with potentially big rewards. Raise one of your Banners on a Environment to claim its rewards when you Rest.
@@ -46,15 +45,16 @@ Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages 
 - **Action**: Move pieces around the board, get more cards, and more.
 - **Perk**: Gain a persistent advantage over other players. Perks stay in front of you, face-up for ongoing use. You may only have 1 Perk active at a time. 
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
-- **Beast Master**: Control Beast movement, torment your opponents, re-arrange the island, and otherwise wreak havoc.
+- **Beast**: Control Beast movement
 
 # Setup
 
-- Each player chooses a color, and receives a set of 1 Colossus, 5 Banners, and 10 Acolytes of that color (in a 3 player game, each player gets 12 Acolytes)
+- Each player chooses a color, and receives a set of 1 Colossus, 5 Banners, and 10 Acolytes of that color 
+- You will begin the game with only 2 Acolytes in your hand. Set the other Acolytes aside.
 - Shuffle the Colossus Card deck and place it near the board. Deal each player 3 Colossus Cards.
 - Stack all Environment tiles face-down and shuffle them.
 - Shuffle all Loot Tokens and place them face-down.
-- Place the Beast in the center space of the Board.
+- Place all Colossi in the center space, and place a random Loot Token there.
 - Determine a first player. 
 
 # Gameplay
@@ -63,14 +63,14 @@ Colossi's gameplay simply consists of player turns. Continue taking turns until 
 
 ## Colossus Turn
 
-On your turn, do one of two things: 
+At the start of each turn, add 1 Acolyte from your supply to your hand (if there are any left in your supply). On your turn, do one of two things: 
 
 1. **Take Actions**: 
 - First, draw 1 Colossus Card.
 - In any order, you may move your Colossus and Acolytes up to 4 times and play any number of Colossus Cards from your hand.
 - At the end of your turn, you may place Banners from your hand on any spaces you Control. If you place a Banner on a space containing an opposing Banner, return it to its owner's hand.
 
-2. **Rest**: Collect rewards from each space with one of your Banners. Resolve these in any order you choose. Return each Banner to your hand after you resolve it. 
+2. **Rest**: Collect rewards from each space with one of your Banners. Resolve these in any order you choose. Return each Banner to your hand after you resolve it. If there is Gold on the space you're scoring, keep that Gold.
 
 You can only do one of the above, not both. If you take Actions, you will not collect rewards. If you rest, you will not take actions or place any Banners.
 
