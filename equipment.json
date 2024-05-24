@@ -1,0 +1,34 @@
+[
+    {
+      "Name": "Bigger Bag",
+      "Description": "Your hand limit is 8, not 6."
+    },
+    {
+      "Name": "Blinding Speed",
+      "Description": "On your turn, you may move 5 times instead of 4."
+    },
+    {
+      "Name": "Blood Lust",
+      "Description": "When you kill an opposing Acolyte, collect 2 Gold instead of 1."
+    },
+    {
+      "Name": "Outpost",
+      "Description": "When placing Banners, you may place two Banners on the same space."
+    },
+    {
+      "Name": "Shield",
+      "Description": "Acolytes on your Colossus's space cannot be killed."
+    },
+    {
+      "Name": "Supply Chest",
+      "Description": "At the start of your turn, draw 2 Colossus cards instead of 1."
+    },
+    {
+      "Name": "Survey Tools",
+      "Description": "At the start of your turn, you may either look at the top two Environment tiles, or the top 2 Colossus Cards."
+    },
+    {
+      "Name": "Tunnel Keys",
+      "Description": "When you move, all tiles with your Banners on them are adjacent to each other, and you may move freely between them. This only applies when you are moving during your turn."
+    }
+]
