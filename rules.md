@@ -31,10 +31,9 @@ Banners indicate which player will collect rewards for a given space.
 - Even if you move your Acolytes and Colossus off of that space, and another player Controls it, your Banner remains until they replace it or you Rest.
 - If you have no Banners in your hand, you cannot play anymore Banners. You cannot move Banners already in play.
 - When you Rest, you will collect rewards for each of your Banners, and return them to your hand. You can reuse Banners after they return to your hand. Sometimes there will be Gold on spaces (not just Loot Tokens); in these cases, keep the Gold on the space you're scoring.
-- Some cards and Environments will allow you to Reinforce a Banner. Flip your Banner to show the Reinforcement side. A Reinforced Banner cannot be replaced by an opponent.
 
 ## Environments
-Environments are special tiles with potentially big rewards. Raise one of your Banners on a Environment to claim its rewards when you Rest.
+Environments are special tiles with potentially big rewards. Raise one of your Banners on a Environment to claim its rewards when you Rest. 17 of these tiles are just Grass, which have no special effects.
 
 ## Loot Tokens
 Loot gives you smaller rewards. Loot tokens remain in play, and can be used on every turn. There are Loot tokens that give you Colossus Cards and Gold when you Rest. Raise one of your Banners on a space with a Loot Token to claim its rewards when you Rest.
@@ -49,10 +48,10 @@ Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages 
 
 # Setup
 
-- Each player chooses a color, and receives a set of 1 Colossus, 5 Banners, and 10 Acolytes of that color 
-- You will begin the game with only 2 Acolytes in your hand. Set the other Acolytes aside.
+- Each player chooses a color, and receives a set of 1 Colossus, 6 Banners, and 10 Acolytes of that color 
 - Shuffle the Colossus Card deck and place it near the board. Deal each player 3 Colossus Cards.
-- Stack all Environment tiles face-down and shuffle them.
+- Place 1 Grass tile on any space on the board, along with 1 random Loot Token. Place every Colossus there.
+- Set aside 16 Grass Tiles face-down. Shuffle the Lair tiles and put 2 face-down with the Grass tiles. Shuffle the rest of the Environment Tiles, draw 8 and put them face-down with the 18 other tiles. Shuffle these 26 Tiles and keep them face-down. Return all other Environments and Lairs back to the box.
 - Shuffle all Loot Tokens and place them face-down.
 - Place all Colossi in the center space, and place a random Loot Token there.
 - Determine a first player. 
@@ -63,16 +62,16 @@ Colossi's gameplay simply consists of player turns. Continue taking turns until 
 
 ## Colossus Turn
 
-At the start of each turn, add 1 Acolyte from your supply to your hand (if there are any left in your supply). On your turn, do one of two things: 
+### Action Phase
+On your turn, draw 1 Colossus Card. Then, in any order, you can move up to 4 times, and play as many Colossus Cards as you want.
 
-1. **Take Actions**: 
-- First, draw 1 Colossus Card.
-- In any order, you may move your Colossus and Acolytes up to 4 times and play any number of Colossus Cards from your hand.
-- At the end of your turn, you may place Banners from your hand on any spaces you Control. If you place a Banner on a space containing an opposing Banner, return it to its owner's hand.
+### Banner Phase
+
+Then, you will do one (but not both) of the following:
+
+1. **Place Banners**: You may place Banners from your hand on any spaces you Control. If you place a Banner on a space containing an opposing Banner, return it to its owner's hand.
 
 2. **Rest**: Collect rewards from each space with one of your Banners. Resolve these in any order you choose. Return each Banner to your hand after you resolve it. If there is Gold on the space you're scoring, keep that Gold.
-
-You can only do one of the above, not both. If you take Actions, you will not collect rewards. If you rest, you will not take actions or place any Banners.
 
 ## Game End
 
@@ -80,7 +79,7 @@ Beast Master ends after each player has taken 15 turns.
 
 # Movement
 You have 4 Movements on your turn, and it costs 1 Movement to move your Colossus or an Acolyte 1 space in any direction. Colossi and Acolytes follow the same rules for movement.
-- **Exploring**: When moving into a space that has no Loot Token or Environment, you will discover what is there. Roll the die. If you roll 1-4, place a random Loot Token there. If you roll 5-6, place an Environment there. 
+- **Exploring**: When moving into a space that has no Loot Token or Environment, you will discover what is there. Draw an Environment tile from the deck you built during Setup. If it is Grass, put a Loot Token there. If it is a Beast Lair, immediately put the corrosponding Beast on that space.
 - **Road Movement**: When moving into a space that already contains your Colossus or one of your Acolytes, you may continue onward to any adjacent space for free. If you have your Colossus or Acolytes in multiple adjacent spaces, move long distances using just 1 Movement.
 - **Spawn an Acolyte**: For the cost of 1 Movement, place an Acolyte from your hand onto your Colossus’s space. You may immediately move that Acolyte to an adjacent space for free using Road Movement.
 
