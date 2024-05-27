@@ -45,7 +45,7 @@
     },
     {
       "Name": "Landslide",
-      "Description": "Pick up any 2 Loot Tokens and move each of them to a different spaces."
+      "Description": "Pick up 1 Loot Token and move it to a different explored space."
     },
     {
       "Name": "Pilfer",
@@ -62,22 +62,6 @@
     {
       "Name": "Purge",
       "Description": "Move each Acolyte on your Colossus's space to any adjacent space (you can move Acolytes to different spaces)."
-    },
-    {
-      "Name": "Reinforce",
-      "Description": "Reinforce one of your Banners in play. Flip it to show its reinforced side. This Banner cannot be replaced by an opponent."
-    },
-    {
-      "Name": "Reinforce",
-      "Description": "Reinforce one of your Banners in play. Flip it to show its reinforced side. This Banner cannot be replaced by an opponent."
-    },
-    {
-      "Name": "Reinforce",
-      "Description": "Reinforce one of your Banners in play. Flip it to show its reinforced side. This Banner cannot be replaced by an opponent."
-    },
-    {
-      "Name": "Reinforce",
-      "Description": "Reinforce one of your Banners in play. Flip it to show its reinforced side. This Banner cannot be replaced by an opponent."
     },
     {
       "Name": "Replace",
