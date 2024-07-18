@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Austerity",
+        "Description": "Give 10 Gold to the Bank. Gain 1 Fragment."
+    },
+    {
+        "Name": "Concession",
+        "Description": "Permanently lose all the Banners in your hand (Banners on the board are unaffected). Gain 1 Fragment."
+    },
+    {
+        "Name": "Equality",
+        "Description": "Give 2 Gold to each opponent. Gain 1 Fragment."
+    },
+    {
+        "Name": "Expedience",
+        "Description": "When you play this, your turn ends immediately, and you will not play the Banner phase of your turn. Gain 1 Fragment."
+    },
+    {
+        "Name": "Generosity",
+        "Description": "Give all the Cards in your hand to other players. Gain 1 Fragment."
+    },
+    {
+        "Name": "Inheritance",
+        "Description": "Choose another player. They gain 2 Fragments. Gain 1 Fragment."
+    },
+    {
+        "Name": "Sacrifice",
+        "Description": "Permanently lose all of the Acolytes in your hand (Acolytes on the board are not affected). Gain 1 Fragment."
+    },
+    {
+        "Name": "Totality",
+        "Description": "Remove each of your Banners and Acolytes from the board and return them to your hand. Gain 1 Fragment."
+    },
+   ]

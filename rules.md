@@ -1,6 +1,6 @@
 # Introduction
 
-You are one of the Colossi who rules over this dangerous island. The money grubbing gods have decided to let one of you leave this island to join their ranks — but only if you have the Gold to prove yourself. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and collecting the most Gold.
+You are one of the Colossi who rules over this dangerous island. The money grubbing gods have decided to let one of you leave this island to join their ranks — but only if you have the Gold to prove yourself. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and achieving one of the 4 victory conditions.
  
 # Components
 
@@ -20,10 +20,7 @@ Acolytes move like Colossi, but die frequently.
 Beasts are monsters who haunt this island. Each has a passive effect and a special Lair Environment that causes a big action. In each game, you will play with 2 randomly selected Beasts.
 
 ## Gold
-Win the game by collecting the most Gold.  There are 3 ways to collect Gold:
-- Control spaces and raise your Banners to claim the rewards from Environmnets and Loot
-- Collect 1 Gold for every opposing Acolyte you kill with a Beast card. 
-- Receive Gold from Divine Gift cards.
+If you collect 70 Gold, the game ends and you immediately win. Gain gold from cards and by scoring your Banners to claim the rewards from Environmnets and Loot.
 
 ## Banners
 Banners indicate which player will collect rewards for a given space.
@@ -33,10 +30,15 @@ Banners indicate which player will collect rewards for a given space.
 - When you Rest, you will collect rewards for each of your Banners, and return them to your hand. You can reuse Banners after they return to your hand. Sometimes there will be Gold on spaces (not just Loot Tokens); in these cases, keep the Gold on the space you're scoring.
 
 ## Environments
-Environments are special tiles with potentially big rewards. Raise one of your Banners on a Environment to claim its rewards when you Rest. 17 of these tiles are just Grass, which have no special effects.
+Environments are special tiles with potentially big rewards. Raise one of your Banners on a Environment to claim its rewards when you Rest. 16 of these tiles are just Grass, which have no special effects.
 
 ## Loot Tokens
-Loot gives you smaller rewards. Loot tokens remain in play, and can be used on every turn. There are Loot tokens that give you Colossus Cards and Gold when you Rest. Raise one of your Banners on a space with a Loot Token to claim its rewards when you Rest.
+Loot gives you smaller rewards. Loot tokens remain in play, and can be used on every turn. There are Loot tokens that give you Colossus Cards and Gold when you Rest. Raise one of your Banners on a space with a Loot Token to claim its rewards when collecting your Banners.
+
+Types of Loot: 
+- **Gold**: Some Loot Tokens give you Gold. The amount of Gold they give you is specified on the Token. Gold Tokens with the die symbol mean that you roll the die and receive that much Gold.
+- **Cards**: These Loot Tokens specify how many cards you get to draw from the deck.
+- **Fragments**: These give you a Fragment. Collect 7 Fragments and you win the game.
 
 ## Colossus Cards
 Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards including Colossus Cards and Beast Cards. There are 4 types of Colossus Card:
@@ -44,7 +46,8 @@ Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages 
 - **Action**: Move pieces around the board, get more cards, and more.
 - **Perk**: Gain a persistent advantage over other players. Perks stay in front of you, face-up for ongoing use. You may only have 1 Perk active at a time. 
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
-- **Beast**: Control Beast movement
+- **Beast**: Control Beast movement.
+- **Fragment**: Each Fragment has a unique cost, but allows you to gain a Fragment. Gain 7 Fragments and you win the game.
 
 # Setup
 
@@ -75,7 +78,12 @@ Then, you will do one (but not both) of the following:
 
 ## Game End
 
-Beast Master ends after each player has taken 15 turns. 
+There are 4 ways to win the game. If you achieve any of the following, the game ends immediately and you win: 
+
+- **Hegemon**: You have 70 Gold.
+- **Beast Master**: You have activated your Banner on Beast Lairs 5 times.
+- **Ascendant**: You have 7 Fragments.
+- **Crusader**: You kill 20 opposing Acolytes.
 
 # Movement
 You have 4 Movements on your turn, and it costs 1 Movement to move your Colossus or an Acolyte 1 space in any direction. Colossi and Acolytes follow the same rules for movement.
