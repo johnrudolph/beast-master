@@ -34,7 +34,7 @@
     {
       "Name": "Lair: Wealthy Beast",
       "Description": "When resting, place 2 Gold from the bank in each space adjacent to the Wealthy Beast.",
-      "Beast Description": "When on a space with a Banner, score it immediately as if its owner was Resting."
+      "Beast Description": "Any time the Wealthy Beast is on a space with a Banner, score it immediately as if its owner was Resting."
     },
     {
       "Name": "Launchpad",
