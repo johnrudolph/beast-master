@@ -24,7 +24,7 @@
     {
       "Name": "Lair: Hungry Beast",
       "Description": "When resting, move each Loot Token from the Hungry Beast's space to adjacent spaces you choose.",
-      "Beast Description": "Every time the Beast leaves a space containing Loot Token(s), it takes the Loot Token(s) with it."
+      "Beast Description": "Every time the Hungry Beast leaves a space, it takes the Loot Token(s) from that space with it. Loot Tokens on their space score as normal."
     },
     {
       "Name": "Lair: Sturdy Beast",
@@ -38,7 +38,7 @@
     },
     {
       "Name": "Launchpad",
-      "Description": "When resting, move each Acolyte here to any space.",
+      "Description": "When resting, move each Acolyte, Colossus, Beast, Loot Token, and Gold token here to any space.",
       "Clarifications": "Keep in mind that you only place Banners down at the end of regular turns. So if you move an Acolyte to a space and take control of it, you still cannot score it during this Rest."
     },
     {
