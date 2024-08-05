@@ -17,9 +17,9 @@
       "Beast Description": "Any Acolytes that share a space with the Beast die."
     },
     {
-      "Name": "Lair: Earth Beast",
+      "Name": "Lair: Wind Beast",
       "Description": "When resting, choose a direction. Every Acolyte moves one space that direction. Acolytes who fall of the island die.",
-      "Beast Description": "When in a space with a Banner, destroy it."
+      "Beast Description": "When moving into a space, push all Acolytes in that space one space in the same direction. Acolytes die if they fall off the island."
     },
     {
       "Name": "Lair: Hungry Beast",
