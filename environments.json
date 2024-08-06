@@ -1,9 +1,5 @@
 [
     {
-      "Name": "Caverns",
-      "Description": "Only one Acolyte or Colossus can be here at a time."
-    },
-    {
       "Name": "Deep Mines",
       "Description": "When drawn, put 1 Gold from the Bank here. When resting, collect all Gold here, then, put 2 Gold from the Bank here. Every time this happens, double the amount from the Bank."
     },
@@ -18,7 +14,7 @@
     {
       "Name": "Lair: Blood Beast",
       "Description": "When resting, kill every Acolyte on or adjacent to the Blood Beast's space.",
-      "Beast Description": "Any Acolytes that share a space with the Blood Beast die."
+      "Beast Description": "Acolytes on this space immediately die."
     },
     {
       "Name": "Lair: Wind Beast",
@@ -28,17 +24,17 @@
     {
       "Name": "Lair: Hungry Beast",
       "Description": "When resting, move each Loot Token from the Hungry Beast's space to adjacent spaces you choose.",
-      "Beast Description": "Every time the Hungry Beast leaves a space, it takes the Loot Token(s) from that space with it. Loot Tokens on their space score as normal."
+      "Beast Description": "When the Hungry Beast leaves a space, it takes the Loot Token(s) from that space with it."
     },
     {
-      "Name": "Lair: Sturdy Beast",
+      "Name": "Lair: Stone Beast",
       "Description": "When resting, leave up to 2 of your Banners in play after scoring them.",
-      "Beast Description": "Banners on or adjacent to the Sturdy Beast cannot be replaced by opposing players."
+      "Beast Description": "Banners on or adjacent to this space cannot be replaced."
     },
     {
       "Name": "Lair: Wealthy Beast",
       "Description": "When resting, place 2 Gold from the bank in each space adjacent to the Wealthy Beast.",
-      "Beast Description": "Any time the Wealthy Beast is on a space with a Banner, score it immediately as if its owner was Resting."
+      "Beast Description": "When a Banner is this space, score it immediately as if its owner was Resting."
     },
     {
       "Name": "Launchpad",
@@ -77,7 +73,7 @@
     },
     {
       "Name": "Teleporter",
-      "Description": "When resting, swap every Acolyte, Colossi, and Banner here with another explored space. Then score that other space."
+      "Description": "When resting, swap everything here with everything from another explored space. Then score that other space."
     },
     {
       "Name": "Time Turner",
@@ -88,7 +84,7 @@
       "Description": "When placing a Banner here, put 2 Gold from the bank here. When resting, collect all Gold here."
     },
     {
-      "Name": "Trigger",
+      "Name": "Mantle",
       "Description": "When resting, turn over cards from the Colossus deck until you draw a Beast card. Play it immediately and discard all other drawn cards."
     },
     {
