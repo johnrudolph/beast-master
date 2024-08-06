@@ -8,6 +8,10 @@
       "Description": "When drawn, put 1 Gold from the Bank here. When resting, collect all Gold here, then, put 2 Gold from the Bank here. Every time this happens, double the amount from the Bank."
     },
     {
+      "Name": "Golden Dunes",
+      "Description": "Any time an Acolyte or Colossus moves here, place 1 Gold from the bank here. When resting, collect all Gold here."
+    },
+    {
       "Name": "Hallowed Ground",
       "Description": "When resting, collect 2 Gold for each of your Acolytes here."
     },
@@ -78,10 +82,6 @@
     {
       "Name": "Time Turner",
       "Description": "Immediately after you rest, you may take a normal turn."
-    },
-    {
-      "Name": "Tollbooth Tombolo",
-      "Description": "Any time an Acolyte or Colossus moves here, place 1 Gold from the bank here. When resting, collect all Gold here."
     },
     {
       "Name": "Treasure Trove",
