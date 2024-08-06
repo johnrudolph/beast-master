@@ -17,11 +17,6 @@
       "Beast Description": "Acolytes on this space immediately die."
     },
     {
-      "Name": "Lair: Wind Beast",
-      "Description": "When resting, choose a direction. Every Acolyte moves one space that direction. Acolytes who fall of the island die.",
-      "Beast Description": "When moving into a space, push all Acolytes in that space one space in the same direction. Acolytes die if they fall off the island."
-    },
-    {
       "Name": "Lair: Hungry Beast",
       "Description": "When resting, move each Loot Token from the Hungry Beast's space to adjacent spaces you choose.",
       "Beast Description": "When the Hungry Beast leaves a space, it takes the Loot Token(s) from that space with it."
@@ -35,6 +30,11 @@
       "Name": "Lair: Wealthy Beast",
       "Description": "When resting, place 2 Gold from the bank in each space adjacent to the Wealthy Beast.",
       "Beast Description": "When a Banner is this space, score it immediately as if its owner was Resting."
+    },
+    {
+      "Name": "Lair: Wind Beast",
+      "Description": "When resting, choose a direction. Every Acolyte moves one space that direction. Acolytes who fall of the island die.",
+      "Beast Description": "When moving into a space, push all Acolytes in that space one space in a direction you choose. Acolytes die if they fall off the island."
     },
     {
       "Name": "Launchpad",
