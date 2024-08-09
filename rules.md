@@ -20,7 +20,7 @@ Acolytes move like Colossi, but die frequently.
 Beasts are monsters who haunt this island. Each has a passive effect and a special Lair Environment that causes a big action. In each game, you will play with 2 randomly selected Beasts.
 
 ## Gold
-If you collect 70 Gold, the game ends and you immediately win. Gain gold from cards and by scoring your Banners to claim the rewards from Environmnets and Loot.
+If you collect 30 Gold, the game ends and you immediately win. Gain gold from cards and by scoring your Banners to claim the rewards from Environmnets and Loot.
 
 ## Banners
 Banners indicate which player will collect rewards for a given space.
@@ -38,7 +38,7 @@ Loot gives you smaller rewards. Loot tokens remain in play, and can be used on e
 Types of Loot: 
 - **Gold**: Some Loot Tokens give you Gold. The amount of Gold they give you is specified on the Token. Gold Tokens with the die symbol mean that you roll the die and receive that much Gold.
 - **Cards**: These Loot Tokens specify how many cards you get to draw from the deck.
-- **Fragments**: These give you a Fragment. Collect 7 Fragments and you win the game.
+- **Fragments**: These give you a Fragment. Collect 5 Fragments and you win the game.
 
 ## Colossus Cards
 Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards including Colossus Cards and Beast Cards. There are 4 types of Colossus Card:
@@ -47,7 +47,7 @@ Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages 
 - **Perk**: Gain a persistent advantage over other players. Perks stay in front of you, face-up for ongoing use. You may only have 1 Perk active at a time. 
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
 - **Beast**: Control Beast movement.
-- **Fragment**: Each Fragment has a unique cost, but allows you to gain a Fragment. Gain 7 Fragments and you win the game.
+- **Fragment**: Each Fragment has a unique cost, but allows you to gain a Fragment. Gain 5 Fragments and you win the game.
 
 # Setup
 
@@ -80,9 +80,9 @@ Then, you will do one (but not both) of the following:
 
 There are 4 ways to win the game. If you achieve any of the following, the game ends immediately and you win: 
 
-- **Hegemon**: You have 70 Gold.
+- **Hegemon**: You have 30 Gold.
 - **Beast Master**: You have activated your Banner on Beast Lairs 5 times.
-- **Ascendant**: You have 7 Fragments.
+- **Ascendant**: You have 5 Fragments.
 - **Crusader**: You kill 20 opposing Acolytes.
 
 # Movement

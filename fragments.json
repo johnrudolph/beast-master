@@ -1,7 +1,7 @@
 [
     {
         "Name": "Austerity",
-        "Description": "Give 10 Gold to the Bank. Gain 1 Fragment."
+        "Description": "Return half of your gold (rounded down) to the Bank. Gain 1 Fragment."
     },
     {
         "Name": "Concession",
