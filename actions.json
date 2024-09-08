@@ -16,6 +16,10 @@
       "Description": "Replace each opposing Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
     },
     {
+      "Name": "Convert",
+      "Description": "Replace each opposing Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
+    },
+    {
       "Name": "Dodge",
       "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
     },
