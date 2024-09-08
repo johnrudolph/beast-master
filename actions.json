@@ -13,7 +13,7 @@
     },
     {
       "Name": "Convert",
-      "Description": "Kill 1 Acolyte anywhere on the island and replace it with an Acolyte from your hand (if you have one)."
+      "Description": "Replace each opposing Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
     },
     {
       "Name": "Dodge",
