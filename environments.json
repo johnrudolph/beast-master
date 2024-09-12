@@ -1,11 +1,15 @@
 [
     {
+      "Name": "Beast Mantle",
+      "Description": "When resting, move each Beast to any space you choose."
+    },
+    {
       "Name": "Deep Mines",
-      "Description": "When drawn, put 1 Gold from the Bank here. When resting, collect all Gold here, then, put 2 Gold from the Bank here. Every time this happens, double the amount from the Bank."
+      "Description": "When drawn, put 3 Gold from the Bank here. When resting, collect all Gold here, then add 4 Gold from the bank here. Each time this happens, increase the Gold by 1."
     },
     {
       "Name": "Golden Dunes",
-      "Description": "Any time an Acolyte or Colossus moves here, place 1 Gold from the bank here. When resting, collect all Gold here."
+      "Description": "Any time an Acolyte or Colossus moves here or passes through here using Road Movement, place 1 Gold from the bank here. When resting, collect all Gold here."
     },
     {
       "Name": "Hallowed Ground",
@@ -17,6 +21,11 @@
       "Beast Description": "Acolytes on this space immediately die."
     },
     {
+      "Name": "Lair: Golden Beast",
+      "Description": "When resting, place 1 Gold from the bank in each space adjacent to the Golden Beast.",
+      "Beast Description": "When leaving a space, leave 1 Gold from the Bank in the space it leaves."
+    },
+    {
       "Name": "Lair: Hungry Beast",
       "Description": "When resting, move each Loot Token from the Hungry Beast's space to adjacent spaces you choose.",
       "Beast Description": "When the Hungry Beast leaves a space, it takes the Loot Token(s) from that space with it."
@@ -24,12 +33,12 @@
     {
       "Name": "Lair: Stone Beast",
       "Description": "When resting, leave up to 2 of your Banners in play after scoring them.",
-      "Beast Description": "Banners on or adjacent to this space cannot be replaced."
+      "Beast Description": "Banners on this space cannot be replaced by opponents. Acolytes on this space cannot be killed or moved."
     },
     {
-      "Name": "Lair: Wealthy Beast",
-      "Description": "When resting, place 2 Gold from the bank in each space adjacent to the Wealthy Beast.",
-      "Beast Description": "When a Banner is this space, score it immediately as if its owner was Resting."
+      "Name": "Lair: Time Beast",
+      "Description": "When resting: if you have Banners on or adjacent to the Time Beast's space, score them twice.",
+      "Beast Description": "When entering a space that contains a Banner, score the Banner for its owner immediately."
     },
     {
       "Name": "Lair: Wind Beast",
@@ -38,8 +47,7 @@
     },
     {
       "Name": "Launchpad",
-      "Description": "When resting, move each Acolyte, Colossus, Beast, Loot Token, and Gold token here to any space.",
-      "Clarifications": "Keep in mind that you only place Banners down at the end of regular turns. So if you move an Acolyte to a space and take control of it, you still cannot score it during this Rest."
+      "Description": "When resting: After collecting your Banner here, pick up every game component on or adjacent to this space. Move each of them to any explored space you choose."
     },
     {
       "Name": "Magnetic Maar",
@@ -52,7 +60,7 @@
     },
     {
       "Name": "Moat",
-      "Description": "When resting, collect 2 Gold for each adjacent space you control. Steal 2 Gold from each player who controls an adjacent space."
+      "Description": "When resting, collect 1 Gold for each adjacent space you control. Steal 1 Gold from each player who controls an adjacent space."
     },
     {
       "Name": "Mountaintop of the Giants",
@@ -68,12 +76,12 @@
     },
     {
       "Name": "Speedy Slopes",
-      "Description": "When resting, you may move each of your Acolytes once.",
+      "Description": "When resting, place all Acolytes from here hand here. Then you may move each of your Acolytes once.",
       "Clarifications": "Keep in mind that you only place Banners down at the end of regular turns. So if you move an Acolyte to a space and take control of it, you still cannot score it during this Rest."
     },
     {
       "Name": "Teleporter",
-      "Description": "When resting, swap everything here with everything from another explored space. Then score that other space."
+      "Description": "When resting, swap all game components here with all game components from another explored space. Then score that other space."
     },
     {
       "Name": "Time Turner",
@@ -84,13 +92,9 @@
       "Description": "When placing a Banner here, put 2 Gold from the bank here. When resting, collect all Gold here."
     },
     {
-      "Name": "Mantle",
-      "Description": "When resting, turn over cards from the Colossus deck until you draw a Beast card. Play it immediately and discard all other drawn cards."
-    },
-    {
       "Name": "The Void",
-      "Description": "When resting, replace an Environment with a new random one. If your Banner is there, score it.",
-      "Clarifications": "You should always remove a Banner after scoring it. So if you had already scored the Environment you replaced, you would not score the new one."
+      "Description": "When resting: replace any Environment with a new random one. If your Banner is there, score it.",
+      "Clarifications": "Since you prepard a deck of Environments at the start of the game, you might need to go to the box to get a new Environment tile."
     },
     {
       "Name": "Volcano",

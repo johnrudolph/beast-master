@@ -20,20 +20,9 @@
       "Description": "Replace each opposing Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
     },
     {
-      "Name": "Dodge",
-      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
-    },
-    {
-      "Name": "Dodge",
-      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
-    },
-    {
       "Name": "Equalize",
-      "Description": "Any players with Acolytes on your Colossus's space put all of their Titan cards into a pile, shuffle them, and re-deal them amongst themselves beginning with you and continuing clockwise."
-    },
-    {
-      "Name": "Hegemony",
-      "Description": "Every Acolyte must move off of spaces you control. Their player chooses where they go."
+      "Description": "Put all of your Colossus cards into a pile along with any players who have Acolytes on your Colossus's space. Shuffle them, and re-deal them beginning with you.",
+      "Clarifications": "Only deal cards back out to yourself, and to players who had Acolytes on your Colossus's space."
     },
     {
       "Name": "Influence",
@@ -86,10 +75,6 @@
     {
       "Name": "Teleport",
       "Description": "Move any Colossus to any space."
-    },
-    {
-      "Name": "Terraform",
-      "Description": "Choose a Loot Token that is on a space that has no Environment tile. Then swap it with any Environment tile."
     },
     {
       "Name": "Vandalize",
