@@ -5,7 +5,7 @@
     },
     {
       "Name": "Audacity",
-      "Description": "Each Colossus collects 2 Gold for every space they control adjacent to one or more Beasts."
+      "Description": "Each Colossus collects 2 Gold for every space they control that is occupied by a Beast, or adjacent to one or more Beasts."
     },
     {
       "Name": "Authority",
