@@ -1,8 +1,7 @@
 [
     {
       "Name": "Bolster",
-      "Description": "Put all of your Colossus cards into a pile along with any players who have Acolytes on your Colossus's space. Shuffle them, and re-deal them beginning with you.",
-      "Clarifications": "Only deal cards back out to yourself, and to players who had Acolytes on your Colossus's space."
+      "Description": "Place one Acolyte from your hand on each space where you already have an Acolyte."
     },
     {
       "Name": "Comandeer",
@@ -30,7 +29,8 @@
     },
     {
       "Name": "Evangelize",
-      "Description": "Place one Acolyte from your hand on each space where you already have an Acolyte."
+      "Description": "Put all of your Colossus cards into a pile along with any players who have Acolytes on your Colossus's space. Shuffle them, and re-deal them beginning with you.",
+      "Clarifications": "Only deal cards back out to yourself, and to players who had Acolytes on your Colossus's space."
     },
     {
       "Name": "Influence",
