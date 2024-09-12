@@ -1,5 +1,9 @@
 [
     {
+      "Name": "Bolster",
+      "Description": "Place one Acolyte from your hand on each space where you already have an Acolyte."
+    },
+    {
       "Name": "Comandeer",
       "Description": "Replace an opposing Banner with one of your own."
     },
@@ -20,20 +24,13 @@
       "Description": "Replace each opposing Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
     },
     {
-      "Name": "Dodge",
-      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
-    },
-    {
-      "Name": "Dodge",
-      "Description": "(Play immediately after another player plays a card) If any of your Acolytes will die as a result of the card that was just played, you may move each of them to any adjacent space you choose."
+      "Name": "Dominate",
+      "Description": "During the Banner phase of this turn, you may both deploy Banners and also score them as if you were resting. This card must be the first action you take this turn, and you cannot take any actions after playing this card."
     },
     {
       "Name": "Equalize",
-      "Description": "Any players with Acolytes on your Colossus's space put all of their Titan cards into a pile, shuffle them, and re-deal them amongst themselves beginning with you and continuing clockwise."
-    },
-    {
-      "Name": "Hegemony",
-      "Description": "Every Acolyte must move off of spaces you control. Their player chooses where they go."
+      "Description": "Put all of your Colossus cards into a pile along with any players who have Acolytes on your Colossus's space. Shuffle them, and re-deal them beginning with you.",
+      "Clarifications": "Only deal cards back out to yourself, and to players who had Acolytes on your Colossus's space."
     },
     {
       "Name": "Influence",
@@ -68,6 +65,10 @@
       "Description": "Move each Acolyte on your Colossus's space to any adjacent space (you can move Acolytes to different spaces)."
     },
     {
+      "Name": "Recall",
+      "Description": "Move any number of your Acolytes on the board to your Colossus's space."
+    },
+    {
       "Name": "Replace",
       "Description": "Swap any 2 Colossi on the island."
     },
@@ -80,16 +81,36 @@
       "Description": "Choose up to 3 spaces that have Banners but do not have Acolytes or Colossi on them. Remove the Banners there and return them to their owners’ hands."
     },
     {
+      "Name": "Secure",
+      "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and replace them with a Banner from your hand."
+    },
+    {
+      "Name": "Secure",
+      "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and replace them with a Banner from your hand."
+    },
+    {
+      "Name": "Secure",
+      "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and replace them with a Banner from your hand."
+    },
+    {
+      "Name": "Short Rest",
+      "Description": "Select one of your Banners on the board. Score it immediately, as if you were resting."
+    },
+    {
+      "Name": "Short Rest",
+      "Description": "Select one of your Banners on the board. Score it immediately, as if you were resting."
+    },
+    {
+      "Name": "Short Rest",
+      "Description": "Select one of your Banners on the board. Score it immediately, as if you were resting."
+    },
+    {
       "Name": "Steal",
       "Description": "Take an opponent's Perk and leave it face-up in front of you. If you already had a Perk in front of you, discard it."
     },
     {
       "Name": "Teleport",
       "Description": "Move any Colossus to any space."
-    },
-    {
-      "Name": "Terraform",
-      "Description": "Choose a Loot Token that is on a space that has no Environment tile. Then swap it with any Environment tile."
     },
     {
       "Name": "Vandalize",
