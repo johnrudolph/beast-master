@@ -38,7 +38,8 @@
     {
       "Name": "Lair: Time Beast",
       "Description": "Immediately after you rest, you may take another turn.",
-      "Beast Description": "When entering a space that contains a Banner, score the Banner for its owner immediately."
+      "Beast Description": "When entering a space that contains a Banner, score the Banner for its owner immediately.",
+      "Clarifications": "The Time Beast only scores Banners in this manner when moving into a space. If you place a Banner on the space where the Time Beast already is, the Banner is not immediately scored."
     },
     {
       "Name": "Lair: Wind Beast",
