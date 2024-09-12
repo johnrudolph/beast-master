@@ -1,6 +1,6 @@
 # Introduction
 
-You are one of the Colossi who rules over this dangerous island. The money grubbing gods have decided to let one of you leave this island to join their ranks — but only if you have the Gold to prove yourself. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and achieving one of the 4 victory conditions.
+You are one of the Colossi who rules over this dangerous island. Your goal is to prove your might and become the most renown Colossus. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and achieving one of the 3 victory conditions.
  
 # Components
 
@@ -38,7 +38,7 @@ Loot gives you smaller rewards. Loot tokens remain in play, and can be used on e
 Types of Loot: 
 - **Gold**: Some Loot Tokens give you Gold. The amount of Gold they give you is specified on the Token. Gold Tokens with the die symbol mean that you roll the die and receive that much Gold.
 - **Cards**: These Loot Tokens specify how many cards you get to draw from the deck.
-- **Fragments**: These give you a Fragment. Collect 5 Fragments and you win the game.
+- **Favor**: These give you 1 Favor. Collect 5 Favor to win the game.
 
 ## Colossus Cards
 Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards including Colossus Cards and Beast Cards. There are 4 types of Colossus Card:
@@ -47,7 +47,7 @@ Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages 
 - **Perk**: Gain a persistent advantage over other players. Perks stay in front of you, face-up for ongoing use. You may only have 1 Perk active at a time. 
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
 - **Beast**: Control Beast movement.
-- **Fragment**: Each Fragment has a unique cost, but allows you to gain a Fragment. Gain 5 Fragments and you win the game.
+- **Favor**: Each Favor has a unique cost, but allows you to gain Favor. Gain 5 Favor and you win the game.
 
 # Setup
 
@@ -61,7 +61,7 @@ Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages 
 
 # Gameplay
 
-Colossi's gameplay simply consists of player turns. Continue taking turns until each player has taken 15 turns. 
+Colossi's gameplay simply consists of player turns. Continue taking turns until any player has reached one of the 3 victory conditions.
 
 ## Colossus Turn
 
@@ -78,11 +78,10 @@ Then, you will do one (but not both) of the following:
 
 ## Game End
 
-There are 4 ways to win the game. If you achieve any of the following, the game ends immediately and you win: 
+There are 3 ways to win the game. If you achieve any of the following, the game ends immediately and you win: 
 
 - **Hegemon**: You have 30 Gold.
-- **Beast Master**: You have activated your Banner on Beast Lairs 5 times.
-- **Ascendant**: You have 5 Fragments.
+- **Ascendant**: You have 5 Favor.
 - **Crusader**: You kill 20 opposing Acolytes.
 
 # Movement
