@@ -1,34 +1,34 @@
 [
     {
         "Name": "Austerity",
-        "Description": "Return half of your gold (rounded down) to the Bank. Gain 1 Fragment."
+        "Description": "Return half of your gold (rounded down) to the Bank. Gain 1 Favor."
     },
     {
         "Name": "Concession",
-        "Description": "Permanently lose all the Banners in your hand (Banners on the board are unaffected). Gain 1 Fragment."
+        "Description": "Permanently lose all the Banners in your hand (Banners on the board are unaffected). Gain 1 Favor."
     },
     {
         "Name": "Equality",
-        "Description": "Give 2 Gold to each opponent. Gain 1 Fragment."
+        "Description": "Give 2 Gold to each opponent. Gain 1 Favor."
     },
     {
         "Name": "Expedience",
-        "Description": "When you play this, your turn ends immediately, and you will not play the Banner phase of your turn. Gain 1 Fragment."
+        "Description": "When you play this, your turn ends immediately, and you will not play the Banner phase of your turn. Gain 1 Favor."
     },
     {
         "Name": "Generosity",
-        "Description": "Give all the Cards in your hand to other players. Gain 1 Fragment."
+        "Description": "Give all the Cards in your hand to other players. Gain 1 Favor."
     },
     {
         "Name": "Inheritance",
-        "Description": "Choose another player. They gain 2 Fragments. Gain 1 Fragment."
+        "Description": "Choose another player. They gain 2 Favor. You gain 1 Favor."
     },
     {
         "Name": "Sacrifice",
-        "Description": "Permanently lose all of the Acolytes in your hand (Acolytes on the board are not affected). Gain 1 Fragment."
+        "Description": "Permanently lose all of the Acolytes in your hand (Acolytes on the board are not affected). Gain 1 Favor."
     },
     {
         "Name": "Totality",
-        "Description": "Remove each of your Banners and Acolytes from the board and return them to your hand. Gain 1 Fragment."
+        "Description": "Remove each of your Banners and Acolytes from the board and return them to your hand. Gain 1 Favor."
     },
    ]
