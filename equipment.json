@@ -8,12 +8,12 @@
       "Description": "On your turn, you may move 5 times instead of 4."
     },
     {
-      "Name": "Blood Lust",
-      "Description": "When you kill an opposing Acolyte, collect 2 Gold instead of 1."
-    },
-    {
       "Name": "Outpost",
       "Description": "When placing Banners, you may place two Banners on the same space."
+    },
+    {
+      "Name": "Prod",
+      "Description": "When your Colossus moves into a space containing Beasts or other Colossi, you may move them 1 space in any direction."
     },
     {
       "Name": "Shield",
