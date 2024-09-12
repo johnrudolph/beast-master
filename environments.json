@@ -37,7 +37,7 @@
     },
     {
       "Name": "Lair: Time Beast",
-      "Description": "When resting: if you have Banners on or adjacent to the Time Beast's space, score them twice.",
+      "Description": "Immediately after you rest, you may take another turn.",
       "Beast Description": "When entering a space that contains a Banner, score the Banner for its owner immediately."
     },
     {
@@ -82,10 +82,6 @@
     {
       "Name": "Teleporter",
       "Description": "When resting, swap all game components here with all game components from another explored space. Then score that other space."
-    },
-    {
-      "Name": "Time Turner",
-      "Description": "Immediately after you rest, you may take a normal turn."
     },
     {
       "Name": "Treasure Trove",
