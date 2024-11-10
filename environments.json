@@ -44,7 +44,7 @@
     {
       "Name": "Lair: Wind Beast",
       "Description": "When resting, choose a direction. Every Acolyte moves one space that direction. Acolytes who fall of the island die.",
-      "Beast Description": "When moving into a space, push all Acolytes in that space one space in a direction you choose. Acolytes die if they fall off the island."
+      "Beast Description": "When leaving a space, all Acolytes on its space move with it."
     },
     {
       "Name": "Launchpad",

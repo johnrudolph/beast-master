@@ -5,7 +5,15 @@
     },
     {
       "Name": "Blinding Speed",
-      "Description": "On your turn, you have 5 Actions instead of 4."
+      "Description": "On your turn, you have 6 actions. You cannot play cards."
+    },
+    {
+      "Name": "Chain lightning",
+      "Description": "When any Acolyte dies (could be during any player's turn) on or adjacent to a space with your Acolytes: you may sacrifice your Acolyte to kill an opposing Acolyte on or adjacent to it. This can cause a chain reaction."
+    },
+    {
+      "Name": "Nomad",
+      "Description": "You can only have 1 Banner in play at a time. However, you may score that Banner immediately upon playing it at the end of your turn."
     },
     {
       "Name": "Outpost",
@@ -16,8 +24,16 @@
       "Description": "When your Colossus moves into a space containing Beasts or other Colossi, you may move them 1 space in any direction."
     },
     {
+      "Name": "Resurrection stone",
+      "Description": "When any of your Acolytes die, you may move them to your Colossus's space instead of back to your hand."
+    },
+    {
       "Name": "Shield",
       "Description": "Acolytes on your Colossus's space cannot be killed or moved. If your Colossus is on the same space as one of your Banners, that Banner cannot be replaced by an opponent."
+    },
+    {
+      "Name": "Sidecar",
+      "Description": "At the beginning of your turn, name another player aloud. For this turn, you can use their Acolytes and Colossus for Road Movement."
     },
     {
       "Name": "Supply Chest",
@@ -30,5 +46,9 @@
     {
       "Name": "Tunnel Keys",
       "Description": "When you move, all tiles with your Banners on them are adjacent to each other, and you may move freely between them. This only applies when you are moving during your turn."
+    },
+    {
+      "Name": "Voucher",
+      "Description": "On your turn, you may pay 3 Gold to take an extra action. You can do this multiple times per turn."
     }
 ]
