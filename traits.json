@@ -1,5 +1,13 @@
 [
     {
+      "Name": "Animalistic",
+      "Description": "Discard all of your Traits. Draw a random Beast that is not in play. The rules for that Beast are now in effect for you. At the end of your next turn, discard that Beast card."
+    },
+    {
+      "Name": "Beast something...",
+      "Description": "Once per turn, you may move a beast 1 space in exchange for 1 Gold or 1 card."
+    },
+    {
       "Name": "Capacious",
       "Description": "Your hand limit is 8, not 6."
     },
