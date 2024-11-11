@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "Austerity",
+        "Description": "Lose all of your Traits. Gain 5 Gold."
+    },
+    {
+        "Name": "Concession",
+        "Description": "Permanently lose all the Banners in your hand (Banners on the board are unaffected). Gain 5 Gold."
+    },
+    {
+        "Name": "Expedience",
+        "Description": "When you play this, your turn ends immediately, and you will not play the Banner phase of your turn. Gain 5 Gold."
+    },
+    {
+        "Name": "Generosity",
+        "Description": "Give all the Cards in your hand to other players. Gain 5 Gold."
+    },
+    {
+        "Name": "Inheritance",
+        "Description": "Choose another player. They gain 10 Gold. You gain 5 Gold."
+    },
+    {
+        "Name": "Sacrifice",
+        "Description": "Permanently lose all of the Acolytes in your hand (Acolytes on the board are not affected). Gain 5 Gold."
+    },
+    {
+        "Name": "Totality",
+        "Description": "Remove each of your Banners and Acolytes from the board and return them to your hand. Gain 5 Gold."
+    }
+   ]

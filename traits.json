@@ -1,15 +1,15 @@
 [
     {
       "Name": "Animalistic",
-      "Description": "Discard all of your Traits. Draw a random Beast that is not in play. The rules for that Beast are now in effect for you. At the end of your next turn, discard that Beast card."
+      "Description": "Discard all of your Traits. Draw a random Beast card that is not in play. The rules for that Beast are now in effect for you. At the end of your next turn, discard that Beast card."
     },
     {
-      "Name": "Beast something...",
-      "Description": "Once per turn, you may move a beast 1 space in exchange for 1 Gold or 1 card."
+      "Name": "Beast whisperer",
+      "Description": "Once per turn, you may pay 1 Gold to move a Beast 1 space in any direction."
     },
     {
-      "Name": "Capacious",
-      "Description": "Your hand limit is 8, not 6."
+      "Name": "Ludicrously capacious bag",
+      "Description": "Your hand limit is 8."
     },
     {
       "Name": "Speedy",
@@ -20,8 +20,8 @@
       "Description": "When you kill an opposing Acolyte, gain 1 Gold."
     },
     {
-      "Name": "Chain lightning",
-      "Description": "When any Acolyte dies on or adjacent to a space with your Acolytes: you may sacrifice your Acolyte to kill an opposing Acolyte on or adjacent to it. This can cause a chain reaction, and can happen during any player's turn."
+      "Name": "Chain reaction",
+      "Description": "When an Acolyte dies on or adjacent to a space with your Acolytes: you may sacrifice your Acolyte to kill an opposing Acolyte on its space or an adjacent space. This can cause a chain reaction, and can happen during any player's turn."
     },
     {
       "Name": "Nomadic",
@@ -32,7 +32,7 @@
       "Description": "When placing Banners, you may place two Banners on the same space."
     },
     {
-      "Name": "Pushy",
+      "Name": "Provocative",
       "Description": "When your Colossus moves into a space containing Beasts or other Colossi, you may move them 1 space in any direction."
     },
     {
@@ -61,6 +61,6 @@
     },
     {
       "Name": "Boldness",
-      "Description": "On your turn, you may pay 3 Gold to take an extra action. You can do this multiple times per turn."
+      "Description": "On your turn, you may pay 2 Gold to take an extra action. You can do this multiple times per turn."
     }
 ]

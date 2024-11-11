@@ -106,7 +106,7 @@
     },
     {
       "Name": "Steal",
-      "Description": "Take an opponent's Perk and leave it face-up in front of you. If you already had a Perk in front of you, discard it."
+      "Description": "Take an opponent's Trait and leave it face-up in front of you. If you already had a Trait in front of you, discard it."
     },
     {
       "Name": "Teleport",
@@ -114,6 +114,6 @@
     },
     {
       "Name": "Vandalize",
-      "Description": "Discard an opponent's Perk."
+      "Description": "Discard an opponent's Trait."
     }
    ]
