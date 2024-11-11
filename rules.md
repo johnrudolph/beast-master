@@ -1,6 +1,6 @@
 # Introduction
 
-You are one of the Colossi who rules over this dangerous island. Your goal is to prove your might and become the most renown Colossus. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and achieving one of the 3 victory conditions.
+You are one of the Colossi who rules over this dangerous island. Your goal is to prove your might and become the most renown Colossus. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and reaching 50 Gold before your opponents.
  
 # Components
 
@@ -33,12 +33,12 @@ Banners indicate which player will collect rewards for a given space.
 Environments are special tiles with potentially big rewards. Raise one of your Banners on a Environment to claim its rewards when you Rest. 16 of these tiles are just Grass, which have no special effects.
 
 ## Loot Tokens
-Loot gives you smaller rewards. Loot tokens remain in play, and can be used on every turn. There are Loot tokens that give you Colossus Cards and Gold when you Rest. Raise one of your Banners on a space with a Loot Token to claim its rewards when collecting your Banners.
+Loot gives you smaller rewards. Loot tokens remain in play, and can be used on every turn. There are Loot tokens that give you Colossus Cards and Gold when you Rest. Raise one of your Banners on a space with a Loot Token to claim its rewards when collecting your Banners. After scoring a space that has Loot, replenish it from the bank.
 
 Types of Loot: 
 - **Gold**: Some Loot Tokens give you Gold. The amount of Gold they give you is specified on the Token. Gold Tokens with the die symbol mean that you roll the die and receive that much Gold.
 - **Cards**: These Loot Tokens specify how many cards you get to draw from the deck.
-- **Favor**: These give you 1 Favor. Collect 5 Favor to win the game.
+- **Traits**: Traits continually give your Colossus a boost. You can only have 2 Traits at a time. Choose 1 of the 3 face-up Traits, or the top Trait from the Trait deck. There should always be 3 face-up Traits. You can only have 2 Traits at a time, so if you gain a third, you must immediately discard one of them. Keep a separate discard pile for Traits.
 
 ## Colossus Cards
 Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards including Colossus Cards and Beast Cards. There are 4 types of Colossus Card:
@@ -47,11 +47,12 @@ Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages 
 - **Perk**: Gain a persistent advantage over other players. Perks stay in front of you, face-up for ongoing use. You may only have 1 Perk active at a time. 
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
 - **Beast**: Control Beast movement.
-- **Favor**: Each Favor has a unique cost, but allows you to gain Favor. Gain 5 Favor and you win the game.
+- **Curse**: Each Curse has a unique cost, but allows you to gain Gold. 
 
 # Setup
 
-- Each player chooses a color, and receives a set of 1 Starting Environment tile, 1 Colossus, 6 Banners, and 10 Acolytes of that color 
+- Each player chooses a color, and receives a set of 1 Starting Environment tile, 1 Colossus, 6 Banners, and 10 Acolytes of that color. 
+- Shuffle the Trait deck, and lay out 3 face-up. Take turns selecting either a face-up Trait, or the top card of the Trait deck. If you take a face-up Trait, replace it with another face-up Trait from the deck before the next player chooses. Once each player has a Trait, leave 3 face-up Traits beside the Trait deck.
 - Shuffle the Colossus Card deck and place it near the board. Deal each player 3 Colossus Cards.
 - Beginning with the first player, take turns placing your Starting Environment tiles on any unoccupied space you choose. Place your Colossus on your Starting Environment Tile, and place a Loot Token of 1 Gold on this space.
 - Set aside 16 Grass Tiles face-down. Shuffle the Lair tiles and put 2 face-down with the Grass tiles. Shuffle the rest of the Environment Tiles, draw 8 and put them face-down with the 18 other tiles. Shuffle these 26 Tiles and keep them face-down. Return all other Environments and Lairs back to the box.
@@ -80,11 +81,7 @@ Then, you will do one (but not both) of the following:
 
 ## Game End
 
-There are 3 ways to win the game. If you achieve any of the following, the game ends immediately and you win: 
-
-- **Hegemon**: You have 30 Gold.
-- **Ascendant**: You have 5 Favor.
-- **Crusader**: You kill 20 opposing Acolytes.
+The game ends when any player has 50 Gold. Each player must take an equal number of turns. So once a player reaches 50, continue taking turns until you reach the player who took the first turn of the game.
 
 # Movement
 You have 4 Actions on your turn, and it costs 1 Action to move your Colossus or an Acolyte 1 space in any direction. Colossi and Acolytes follow the same rules for movement.
