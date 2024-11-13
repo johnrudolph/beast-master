@@ -49,6 +49,11 @@ Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages 
 - **Beast**: Control Beast movement.
 - **Curse**: Each Curse has a unique cost, but allows you to gain Gold. 
 
+## Traits
+Traits are cards that give your Colossus a boost. You can only have 2 Traits in play at a time. At any given time there will be 3 face-up Traits and a Trait deck. When you select a Trait, you may draw from the deck, or choose one of the face-up Traits. If you choose a face-up Trait, replace it with another face-up Trait from the deck before the next player chooses. 
+
+Designer note: For your first game, do not play with Traits. They make the game much more interesting, but it's best to learn the basics without them.
+
 # Setup
 
 - Each player chooses a color, and receives a set of 1 Starting Environment tile, 1 Colossus, 6 Banners, and 10 Acolytes of that color. 

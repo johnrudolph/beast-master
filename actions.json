@@ -106,7 +106,7 @@
     },
     {
       "Name": "Steal",
-      "Description": "Take an opponent's Trait and leave it face-up in front of you. If you already had a Trait in front of you, discard it."
+      "Description": "Take an opponent's Trait and leave it face-up in front of you. It is now in play for you. If you already had two Traits in play, discard one of them."
     },
     {
       "Name": "Teleport",

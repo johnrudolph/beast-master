@@ -54,5 +54,9 @@
     {
       "Name": "Windfall",
       "Description": "Each Colossi collects the reward of their space as if they were resting and had a Banner there."
+    },
+    {
+      "Name": "",
+      "Description": "If any Colossus that is a space that produces Loot cubes, that space produces its Loot cubes immediately."
     }
    ]

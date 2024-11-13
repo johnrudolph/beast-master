@@ -1,27 +1,27 @@
 [
     {
         "Name": "Austerity",
-        "Description": "Lose all of your Traits. Gain 5 Gold."
+        "Description": "Leave this card face-up in front of you for the rest of the game. You may only have 1 Trait in play. Gain 5 Gold."
     },
     {
         "Name": "Concession",
-        "Description": "Permanently lose all the Banners in your hand (Banners on the board are unaffected). Gain 5 Gold."
+        "Description": "Leave this card face-up in front of you for the rest of the game. You may only have 4 Banners in play. Gain 5 Gold."
     },
     {
-        "Name": "Expedience",
+        "Name": "Haste",
         "Description": "When you play this, your turn ends immediately, and you will not play the Banner phase of your turn. Gain 5 Gold."
     },
     {
-        "Name": "Generosity",
-        "Description": "Give all the Cards in your hand to other players. Gain 5 Gold."
+        "Name": "Poverty",
+        "Description": "Leave this card face-up in front of you for the rest of the game. Your hand limit is 3. Gain 5 Gold."
     },
     {
-        "Name": "Inheritance",
+        "Name": "Pity",
         "Description": "Choose another player. They gain 10 Gold. You gain 5 Gold."
     },
     {
         "Name": "Sacrifice",
-        "Description": "Permanently lose all of the Acolytes in your hand (Acolytes on the board are not affected). Gain 5 Gold."
+        "Description": "Leave this card face-up in front of you for the rest of the game. You may only have 4 Acolytes in play. Gain 5 Gold."
     },
     {
         "Name": "Totality",

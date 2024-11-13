@@ -1,15 +1,15 @@
 [
     {
       "Name": "Animalistic",
-      "Description": "Discard all of your Traits. Draw a random Beast card that is not in play. The rules for that Beast are now in effect for you. At the end of your next turn, discard that Beast card."
+      "Description": "Discard all of your Traits. Draw a random Beast card that is not in play. The rules for that Beast are now in effect for your Colossus. At the end of your next turn, discard that Beast card."
     },
     {
       "Name": "Beast whisperer",
       "Description": "Once per turn, you may pay 1 Gold to move a Beast 1 space in any direction."
     },
     {
-      "Name": "Ludicrously capacious bag",
-      "Description": "Your hand limit is 8."
+      "Name": "Ludicrously capacious",
+      "Description": "Your hand limit is 8, and you have 5 actions per turn. However, can only use 2 of your actions per turn on movement"
     },
     {
       "Name": "Speedy",
@@ -20,7 +20,7 @@
       "Description": "When you kill an opposing Acolyte, gain 1 Gold."
     },
     {
-      "Name": "Chain reaction",
+      "Name": "Reactive",
       "Description": "When an Acolyte dies on or adjacent to a space with your Acolytes: you may sacrifice your Acolyte to kill an opposing Acolyte on its space or an adjacent space. This can cause a chain reaction, and can happen during any player's turn."
     },
     {
@@ -28,11 +28,11 @@
       "Description": "You can only have 1 Banner in play at a time. However, you may score that Banner immediately upon playing it at the end of your turn."
     },
     {
-      "Name": "Outpost",
+      "Name": "Resolute",
       "Description": "When placing Banners, you may place two Banners on the same space."
     },
     {
-      "Name": "Provocative",
+      "Name": "Domineering",
       "Description": "When your Colossus moves into a space containing Beasts or other Colossi, you may move them 1 space in any direction."
     },
     {
@@ -44,7 +44,7 @@
       "Description": "Acolytes on your Colossus's space cannot be killed or moved. If your Colossus is on the same space as one of your Banners, that Banner cannot be replaced by an opponent."
     },
     {
-      "Name": "Sidecar",
+      "Name": "Sly",
       "Description": "At the beginning of your turn, name another player aloud. For this turn, you can use their Acolytes and Colossus for Road Movement."
     },
     {
@@ -52,15 +52,19 @@
       "Description": "At the start of your turn, draw 2 Colossus cards instead of 1."
     },
     {
-      "Name": "Aware",
+      "Name": "Soothsayer",
       "Description": "At the start of your turn, you may either look at the top two Environment tiles, or the top 2 Colossus Cards."
     },
     {
-      "Name": "Mobile",
+      "Name": "Underworld",
       "Description": "When you move, all tiles with your Banners on them are adjacent to each other, and you may move freely between them. This only applies when you are moving during your turn."
     },
     {
       "Name": "Boldness",
       "Description": "On your turn, you may pay 2 Gold to take an extra action. You can do this multiple times per turn."
+    },
+    {
+      "Name": "Mimicry",
+      "Description": "At the start of your turn, take a Trait from another player. At the end of your turn, return it to them. While it is in your posession, it is in play for you, not them."
     }
 ]
