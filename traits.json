@@ -85,7 +85,7 @@
     },
     {
       "Name": "Zoophilic",
-      "Description": "When spawning Acolytes, you may spawn them on or adjacent to any Beast."
+      "Description": "When spawning Acolytes, you may spawn them on or adjacent to any Beast's space."
     },
     {
       "Name": "Greedy",
