@@ -16,23 +16,27 @@
       "Description": "Pick up a Beast and place it on your Colossus's space."
     },
     {
-      "Name": "Rampage",
+      "Name": "Walk",
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
+    },
+    {
+      "Name": "Walk",
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
+    },
+    {
+      "Name": "Walk",
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
+    },
+    {
+      "Name": "Walk",
       "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
     },
     {
       "Name": "Rampage",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
+      "Description": "Choose a Beast and a direction. Move the Beast as far as possible in that direction, resolving each space it moves through."
     },
     {
       "Name": "Rampage",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
-    },
-    {
-      "Name": "Rampage",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
-    },
-    {
-      "Name": "Rampage",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
+      "Description": "Choose a Beast and a direction. Move the Beast as far as possible in that direction, resolving each space it moves through."
     }
    ]

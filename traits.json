@@ -66,5 +66,29 @@
     {
       "Name": "Mimicry",
       "Description": "At the start of your turn, take a Trait from another player. At the end of your turn, return it to them. While it is in your posession, it is in play for you, not them."
+    },
+    {
+      "Name": "Alchemist",
+      "Description": "On your turn you may Discard a Colossus card, Trait, Banner, or Acolyte in play to gain 1 Gold."
+    },
+    {
+      "Name": "Necromancer",
+      "Description": "Any time an opposing Acolyte dies, you may replace it with an Acolyte from your hand. However, you may only have 4 Acolytes in play at a time."
+    },
+    {
+      "Name": "Territorial",
+      "Description": "When an opponent places a Banner adjacent to one of your Banners, gain 1 Gold."
+    },
+    {
+      "Name": "Vengeful",
+      "Description": "When an opponent replaces one of your Banners, immediately kill all Acolytes on that space."
+    },
+    {
+      "Name": "Zoophilic",
+      "Description": "When spawning Acolytes, you may spawn them on or adjacent to any Beast."
+    },
+    {
+      "Name": "Greedy",
+      "Description": "Every time you gain Gold, gain 1 additional Gold. However, you can only have 3 Acolytes and 2 Banners in play at a time."
     }
 ]
