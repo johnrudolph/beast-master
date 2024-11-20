@@ -5,11 +5,11 @@
     },
     {
       "Name": "Deep Mines",
-      "Description": "When drawn, put 3 Gold from the Bank here. When resting, collect all Gold here, then add 4 Gold from the bank here. Each time this happens, increase the Gold by 1."
+      "Description": "When drawn, put 3 Gold Loot cubes from the Bank here. After resting here, add 4 Gold from the bank here. Each time this happens, increase the Gold by 1."
     },
     {
       "Name": "Golden Dunes",
-      "Description": "Any time an Acolyte or Colossus moves here or passes through here using Road Movement, place 1 Gold from the bank here. When resting, collect all Gold here."
+      "Description": "Any time an Acolyte or Colossus moves here or passes through here using Road Movement, place 1 Gold Loot cube from the bank here."
     },
     {
       "Name": "Hallowed Ground",
@@ -22,13 +22,18 @@
     },
     {
       "Name": "Lair: Golden Beast",
-      "Description": "When resting, place 1 Gold from the bank in each space adjacent to the Golden Beast.",
-      "Beast Description": "When leaving a space, leave 1 Gold from the Bank in the space it leaves."
+      "Description": "When resting, place 1 gold Loot cube from the bank in each space adjacent to the Golden Beast.",
+      "Beast Description": "When leaving a space, leave 1 gold Loot cube from the Bank in the space it leaves."
     },
     {
       "Name": "Lair: Hungry Beast",
-      "Description": "When resting, move each Loot Token from the Hungry Beast's space to adjacent spaces you choose.",
-      "Beast Description": "When the Hungry Beast leaves a space, it takes the Loot Token(s) from that space with it."
+      "Description": "When resting, move each Loot cube from the Hungry Beast's space to adjacent spaces you choose.",
+      "Beast Description": "When the Hungry Beast leaves a space, it takes the Loot cubes from that space with it."
+    },
+    {
+      "Name": "Lair: Bountiful Beast",
+      "Description": "When resting, the Bountiful Beast's space, and all adjacent spaces produce their Loot cubes again.",
+      "Beast Description": "When moving into a space that produces Loot cubes, that space produces its Loot cubes again immediately."
     },
     {
       "Name": "Lair: Stone Beast",
@@ -37,22 +42,22 @@
     },
     {
       "Name": "Lair: Time Beast",
-      "Description": "Immediately after you rest, you may take another turn.",
+      "Description": "Immediately after you rest, you may take another 2 Actions.",
       "Beast Description": "When entering a space that contains a Banner, score the Banner for its owner immediately.",
       "Clarifications": "The Time Beast only scores Banners in this manner when moving into a space. If you place a Banner on the space where the Time Beast already is, the Banner is not immediately scored."
     },
     {
       "Name": "Lair: Wind Beast",
-      "Description": "When resting, choose a direction. Every Acolyte moves one space that direction. Acolytes who fall of the island die.",
+      "Description": "When resting, choose a direction. Every Acolyte moves 1 space that direction. Acolytes who fall of the island die.",
       "Beast Description": "When leaving a space, all Acolytes on its space move with it."
     },
     {
       "Name": "Launchpad",
-      "Description": "When resting: After collecting your Banner here, pick up every game component on or adjacent to this space. Move each of them to any explored space you choose."
+      "Description": "When resting: After collecting your Banner here, pick up every game component on or adjacent to this space. Move each of them to any tile you choose."
     },
     {
       "Name": "Magnetic Maar",
-      "Description": "When resting, before scoring this space, move one loot token from an adjacent space here and leave it here. Include that Loot Token when scoring."
+      "Description": "When resting, before scoring this space, choose an adjacent space, and move all Loot cubes from that space onto this space. Include those Loot cubes when scoring."
     },
     {
       "Name": "Market",
@@ -73,7 +78,7 @@
     },
     {
       "Name": "Ruins",
-      "Description": "Each opponent must give you one of their cards, or 2 Gold."
+      "Description": "Each opponent must give you 1 of their cards, or 2 Gold."
     },
     {
       "Name": "Speedy Slopes",
@@ -82,7 +87,7 @@
     },
     {
       "Name": "Teleporter",
-      "Description": "When resting, swap all game components here with all game components from another explored space. Then score that other space."
+      "Description": "When resting, swap all game components here with all game components from another tile. Then score that other space."
     },
     {
       "Name": "Trading Post",
@@ -90,11 +95,11 @@
     },
     {
       "Name": "Treasure Trove",
-      "Description": "When placing a Banner here, put 2 Gold from the bank here. When resting, collect all Gold here."
+      "Description": "When placing or replacing a Banner here, put 3 Gold Loot cubes from the bank here."
     },
     {
       "Name": "The Void",
-      "Description": "When resting: replace any Environment with a new random one. If your Banner is there, score it.",
+      "Description": "When resting: replace any tile with a new random one. If your Banner is there, score it.",
       "Clarifications": "Since you prepard a deck of Environments at the start of the game, you might need to go to the box to get a new Environment tile."
     },
     {
