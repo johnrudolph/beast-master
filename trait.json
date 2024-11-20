@@ -1,7 +1,7 @@
 [
     {
       "Name": "Animalistic",
-      "Description": "Discard all of your Traits. Draw a random Beast card that is not in play. The rules for that Beast are now in effect for your Colossus. At the end of your next turn, discard that Beast card."
+      "Description": "Discard all of your Traits. Draw a random Beast card that is not in play. The rules for that Beast are now in effect for your Colossus. At the end of your next turn, discard that Beast card and this Trait."
     },
     {
       "Name": "Beast whisperer",
@@ -17,19 +17,19 @@
     },
     {
       "Name": "Blood thirsty",
-      "Description": "When you kill an opposing Acolyte, gain 1 Gold."
+      "Description": "When you kill an opponent's Acolyte, gain 1 Gold."
     },
     {
       "Name": "Reactive",
-      "Description": "When an Acolyte dies on or adjacent to a space with your Acolytes: you may sacrifice your Acolyte to kill an opposing Acolyte on its space or an adjacent space. This can cause a chain reaction, and can happen during any player's turn."
+      "Description": "When an Acolyte dies on or adjacent to a space with your Acolytes: you may sacrifice your Acolyte to kill an opponent's Acolyte on its space or an adjacent space. This can cause a chain reaction, and can happen during any player's turn."
     },
     {
       "Name": "Nomadic",
-      "Description": "You can only have 1 Banner in play at a time. However, you may score that Banner immediately upon playing it at the end of your turn."
+      "Description": "You can only have 1 Banner in play at a time. However, you may score that Banner immediately upon deploying it at the end of your turn."
     },
     {
       "Name": "Resolute",
-      "Description": "When placing Banners, you may place two Banners on the same space."
+      "Description": "When placing Banners, you may place 2 Banners on the same space. When resting, double your reward from Loot on that space."
     },
     {
       "Name": "Domineering",
@@ -41,7 +41,7 @@
     },
     {
       "Name": "Protective",
-      "Description": "Acolytes on your Colossus's space cannot be killed or moved. If your Colossus is on the same space as one of your Banners, that Banner cannot be replaced by an opponent."
+      "Description": "Your Acolytes on your Colossus's space cannot be killed or moved. If your Colossus is on the same space as 1 of your Banners, that Banner cannot be replaced by an opponent."
     },
     {
       "Name": "Sly",
@@ -53,7 +53,7 @@
     },
     {
       "Name": "Soothsayer",
-      "Description": "At the start of your turn, you may either look at the top two Environment tiles, or the top 2 Colossus Cards."
+      "Description": "At the start of your turn, you may either look at the top 2 Environment tiles, or the top 2 Colossus Cards."
     },
     {
       "Name": "Underworld",
@@ -69,26 +69,42 @@
     },
     {
       "Name": "Alchemist",
-      "Description": "On your turn you may discard Colossus cards, Traits, Banners in play, or Acolytes in play to gain 1 Gold each."
+      "Description": "On your turn you may discard your Colossus cards, Traits, Banners in play, or Acolytes in play to gain 1 Gold each."
     },
     {
       "Name": "Necromancer",
-      "Description": "Any time an opposing Acolyte dies, you may replace it with an Acolyte from your hand. However, you may only have 4 Acolytes in play at a time."
+      "Description": "Any time an opponent's Acolyte dies, you may replace it with an Acolyte from your hand. However, you may only have 4 Acolytes in play at a time."
     },
     {
       "Name": "Territorial",
-      "Description": "When an opponent places a Banner adjacent to one of your Banners, gain 1 Gold."
+      "Description": "When an opponent places a Banner adjacent to 1 of your Banners, gain 1 Gold."
     },
     {
       "Name": "Vengeful",
-      "Description": "When an opponent replaces one of your Banners, immediately kill all Acolytes on that space."
+      "Description": "When an opponent replaces 1 of your Banners, immediately kill all Acolytes on that space."
     },
     {
       "Name": "Zoophilic",
       "Description": "When spawning Acolytes, you may spawn them on or adjacent to any Beast's space."
     },
     {
-      "Name": "Greedy",
+      "Name": "Monolithic",
+      "Description": "You may only have 1 Banner in play at a time. When you score that Banner, you also score every space adjacent to it."
+    },
+    {
+      "Name": "Parasitic",
+      "Description": "When an opponent plays a card, you may take it immediately from the discard pile in exchange for discarding 1 of your own cards."
+    },
+    {
+      "Name": "Extortionist",
+      "Description": "When an opponent replaces 1 of your Banners, they must pay you 2 Gold."
+    },
+    {
+      "Name": "Mercantile",
+      "Description": "On your turn, you may pay 1 Gold to draw 1 Colossus Card."
+    },
+    {
+      "Name": "Miserly",
       "Description": "Every time you gain Gold, gain 1 additional Gold. However, you can only have 3 Acolytes and 2 Banners in play at a time."
     }
 ]

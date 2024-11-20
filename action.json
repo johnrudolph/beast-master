@@ -1,11 +1,11 @@
 [
     {
       "Name": "Bolster",
-      "Description": "Place one Acolyte from your hand on each space where you already have an Acolyte."
+      "Description": "Place 1 Acolyte from your hand on each space where you already have an Acolyte."
     },
     {
-      "Name": "Comandeer",
-      "Description": "Replace an opposing Banner with one of your own."
+      "Name": "Commandeer",
+      "Description": "Replace an opponent's Banner with 1 of your own."
     },
     {
       "Name": "Convene",
@@ -17,24 +17,19 @@
     },
     {
       "Name": "Convert",
-      "Description": "Replace each opposing Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
+      "Description": "Replace each opponent's Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
     },
     {
       "Name": "Convert",
-      "Description": "Replace each opposing Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
+      "Description": "Replace each opponent's Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
     },
     {
       "Name": "Dominate",
-      "Description": "During the Banner phase of this turn, you may both deploy Banners and also score them as if you were resting. This card must be the first action you take this turn, and you cannot take any actions after playing this card."
-    },
-    {
-      "Name": "Equalize",
-      "Description": "Put all of your Colossus cards into a pile along with any players who have Acolytes on your Colossus's space. Shuffle them, and re-deal them beginning with you.",
-      "Clarifications": "Only deal cards back out to yourself, and to players who had Acolytes on your Colossus's space."
+      "Description": "During the Banner phase of this turn, you may both deploy Banners and score them. This card must be the first action you take this turn, and you cannot take any actions after playing this card."
     },
     {
       "Name": "Influence",
-      "Description": "Beginning with you and continuing clockwise, each player may move an opposing Colossus once. Colossi can move within their own roads as usual. "
+      "Description": "Beginning with you and continuing clockwise, each player may move an opponent's Colossus once. Colossi can move within their own roads as usual."
     },
     {
       "Name": "Intimidate",
@@ -45,8 +40,8 @@
       "Description": "Push all Acolytes adjacent to your Colossus 1 space away. Acolytes pushed off the island are killed."
     },
     {
-      "Name": "Landslide",
-      "Description": "Pick up 1 Loot Token and move it to a different explored space."
+      "Name": "Magnetize",
+      "Description": "Pick up Loot cubes from 1 space, and move them to your Colossus's space."
     },
     {
       "Name": "Pilfer",
@@ -74,7 +69,7 @@
     },
     {
       "Name": "Ritual Sacrifice",
-      "Description": "For any Acolyte (including your own Acolytes) on any of the Environment tiles, roll the die, and kill the Acolyte if you roll 1 or 2 (Clarify which Acolyte you are rolling for before each roll)"
+      "Description": "For any Acolyte (including your own) on or adjacent to your Colossus's space, roll the die, and kill the Acolyte if you roll 1 or 2 (Clarify which Acolyte you are rolling for before each roll)"
     },
     {
       "Name": "Sabotage",
@@ -94,19 +89,23 @@
     },
     {
       "Name": "Short Rest",
-      "Description": "Select one of your Banners on the board. Score it immediately, as if you were resting."
+      "Description": "Select 1 of your Banners on the board. Score it immediately."
     },
     {
       "Name": "Short Rest",
-      "Description": "Select one of your Banners on the board. Score it immediately, as if you were resting."
+      "Description": "Select 1 of your Banners on the board. Score it immediately."
     },
     {
       "Name": "Short Rest",
-      "Description": "Select one of your Banners on the board. Score it immediately, as if you were resting."
+      "Description": "Select 1 of your Banners on the board. Score it immediately."
     },
     {
       "Name": "Steal",
-      "Description": "Take an opponent's Trait and leave it face-up in front of you. It is now in play for you. If you already had two Traits in play, discard one of them."
+      "Description": "Take an opponent's Trait and leave it face-up in front of you. It is now in play for you. If you already had 2 Traits in play, discard 1 of them."
+    },
+    {
+      "Name": "Steal",
+      "Description": "Take an opponent's Trait and leave it face-up in front of you. It is now in play for you. If you already had 2 Traits in play, discard 1 of them."
     },
     {
       "Name": "Teleport",

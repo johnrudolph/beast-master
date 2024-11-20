@@ -1,11 +1,11 @@
 [
     {
         "Name": "Austerity",
-        "Description": "Leave this card face-up in front of you for the rest of the game. You may only have 1 Trait in play. Gain 5 Gold."
+        "Description": "Leave this card face-up in front of you for the remainder of the game. You may only have 1 Trait in play. Gain 5 Gold."
     },
     {
         "Name": "Concession",
-        "Description": "Leave this card face-up in front of you for the rest of the game. You may only have 4 Banners in play. Gain 5 Gold."
+        "Description": "Leave this card face-up in front of you for the remainder of the game. You may only have 3 Banners in play. Gain 5 Gold."
     },
     {
         "Name": "Haste",
@@ -13,7 +13,7 @@
     },
     {
         "Name": "Poverty",
-        "Description": "Leave this card face-up in front of you for the rest of the game. Your hand limit is 3. Gain 5 Gold."
+        "Description": "Leave this card face-up in front of you for the remainder of the game. Your hand limit is 3. Gain 5 Gold."
     },
     {
         "Name": "Pity",
@@ -21,7 +21,7 @@
     },
     {
         "Name": "Sacrifice",
-        "Description": "Leave this card face-up in front of you for the rest of the game. You may only have 4 Acolytes in play. Gain 5 Gold."
+        "Description": "Leave this card face-up in front of you for the remainder of the game. You may only have 4 Acolytes in play. Gain 5 Gold."
     },
     {
         "Name": "Totality",
