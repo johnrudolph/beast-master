@@ -57,7 +57,7 @@
     },
     {
       "Name": "Magnetic Maar",
-      "Description": "When resting, before scoring this space, choose an adjacent space, and move all Loot cubes from that space onto this space. Include those Loot cubes when scoring."
+      "Description": "When resting, choose an adjacent space, and move all Loot cubes from that space here. Then, score this space."
     },
     {
       "Name": "Market",
