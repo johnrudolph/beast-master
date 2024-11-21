@@ -87,7 +87,7 @@
     },
     {
       "Name": "Teleporter",
-      "Description": "When resting, swap all game components here with all game components from another tile. Then score that other space."
+      "Description": "When resting, swap all game components here with all game components from another tile. Then score that other tile."
     },
     {
       "Name": "Trading Post",
