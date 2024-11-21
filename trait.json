@@ -106,5 +106,9 @@
     {
       "Name": "Miserly",
       "Description": "Every time you gain Gold, gain 1 additional Gold. However, you can only have 3 Acolytes and 2 Banners in play at a time."
+    },
+    {
+      "Name": "Resourceful",
+      "Description": "When scoring Loot cubes, you may ignore their color, and choose whether the cube is Gold, Card, or Trait."
     }
 ]
