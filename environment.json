@@ -91,7 +91,7 @@
     },
     {
       "Name": "Trading Post",
-      "Description": "Give each of your opponents a card from your hand. They must give you a different card in return, or pay you 2 Gold. If they have no other cards to give you, they must pay you 2 Gold."
+      "Description": "When resting, give each opponent a card from your hand. They must give you a different card in return, or pay you 2 Gold. "
     },
     {
       "Name": "Treasure Trove",
