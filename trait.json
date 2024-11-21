@@ -77,7 +77,7 @@
     },
     {
       "Name": "Territorial",
-      "Description": "When an opponent places a Banner adjacent to 1 of your Banners, gain 1 Gold."
+      "Description": "When an opponent places a Banner adjacent to any of your Banners, gain 1 Gold."
     },
     {
       "Name": "Vengeful",
