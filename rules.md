@@ -41,7 +41,7 @@ Types of Loot:
 - **Traits**: For each green Loot cube, gain 1 Trait. Traits continually give your Colossus a boost. You can only have 2 Traits at a time. Choose 1 of the 3 face-up Traits, or the top Trait from the Trait deck. There should always be 3 face-up Traits. You can only have 2 Traits at a time, so if you gain a third, you must immediately discard 1 of them. Keep a separate discard pile for Traits.
 
 ## Colossus Cards
-Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards including Colossus Cards and Beast Cards. There are 4 types of Colossus Card:
+Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards, and must immediately discard down to 6 if you ever have more. There are 4 types of Colossus Card:
 
 - **Action**: Move pieces around the board, get more cards, and more.
 - **Beast**: Control Beast movement.
