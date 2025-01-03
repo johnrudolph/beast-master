@@ -53,7 +53,7 @@
     },
     {
       "Name": "Windfall",
-      "Description": "Each Colossi collects the reward of their space as if they had a Banner there."
+      "Description": "Each Colossi collects the Loot reward of their space as if they had a Banner there (does not apply to special environments)."
     },
     {
       "Name": "Exchange",
