@@ -66,9 +66,5 @@
     {
       "Name": "Mimesis",
       "Description": "Beginning with the player to your left, then continuing clockwise, each player may steal 1 Trait from an opponent."
-    },
-    {
-      "Name": "Harvest",
-      "Description": "If any Colossus that is a space that produces Loot cubes, that space produces its Loot cubes again immediately."
     }
    ]

@@ -40,10 +40,6 @@
       "Description": "Push all Acolytes adjacent to your Colossus 1 space away. Acolytes pushed off the island are killed."
     },
     {
-      "Name": "Magnetize",
-      "Description": "Pick up Loot cubes from 1 space, and move them to your Colossus's space."
-    },
-    {
       "Name": "Pilfer",
       "Description": "Draw 2 Colossus cards."
     },
