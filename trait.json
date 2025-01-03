@@ -102,5 +102,9 @@
     {
       "Name": "Miserly",
       "Description": "Every time you gain Gold, gain 1 additional Gold. However, you can only have 3 Acolytes and 2 Banners in play at a time."
+    },
+    {
+      "Name": "Resourceful",
+      "Description": "When scoring Loot or Gold cubes from your Colossus's space, double the Loot and Gold rewards."
     }
 ]
