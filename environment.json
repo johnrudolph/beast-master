@@ -32,8 +32,8 @@
     },
     {
       "Name": "Lair: Stone Beast",
-      "Description": "When Harvesting, leave up to 2 of your Banners in play after Harvesting them.",
-      "Beast Description": "Banners on this space cannot be replaced by opponents. Acolytes on this space cannot be killed or moved."
+      "Description": "When Harvesting a space adjacent to this: if you control this space, you may leave your adjacent Acolytes in play after Harvesting.",
+      "Beast Description": "Acolytes on this space cannot be killed or moved."
     },
     {
       "Name": "Lair: Time Beast",
@@ -48,7 +48,7 @@
     },
     {
       "Name": "Launchpad",
-      "Description": "When Harvesting: After collecting your Banner here, pick up every game component on or adjacent to this space. Move each of them to any space you choose."
+      "Description": "When Harvesting: After collecting your Acolytes here, pick up every Colossus and Acolyte on or adjacent to this space. Move each of them to any spaces you choose."
     },
     {
       "Name": "Market",
@@ -84,8 +84,8 @@
       "Description": "When Harvesting, give each opponent a card from your hand. They must give you a different card in return, or pay you 2 Gold. "
     },
     {
-      "Name": "Treasure Trove",
-      "Description": "When deploying or replacing a Banner here, put 3 Gold cubes from the bank here."
+      "Name": "The Brink",
+      "Description": "Any time a player takes control of this space, put 3 Gold cubes from the bank here."
     },
     {
       "Name": "The Void",

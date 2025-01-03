@@ -37,7 +37,7 @@
     },
     {
       "Name": "Protective",
-      "Description": "Your Acolytes on your Colossus's space cannot be killed or moved. If your Colossus is on the same space as 1 of your Banners, that Banner cannot be replaced by an opponent."
+      "Description": "Your Acolytes on your Colossus's space cannot be killed or moved."
     },
     {
       "Name": "Sly",
@@ -65,19 +65,15 @@
     },
     {
       "Name": "Alchemist",
-      "Description": "On your turn you may discard your Colossus cards, Traits, Banners in play, or Acolytes in play to gain 1 Gold each."
+      "Description": "On your turn you may discard your Colossus cards, Traits, or Acolytes in play to gain 1 Gold each."
     },
     {
       "Name": "Necromancer",
       "Description": "Any time an opponent's Acolyte dies, you may replace it with an Acolyte from your hand. However, you may only have 4 Acolytes in play at a time."
     },
     {
-      "Name": "Territorial",
-      "Description": "When an opponent places a Banner adjacent to any of your Banners, gain 1 Gold."
-    },
-    {
       "Name": "Vengeful",
-      "Description": "When an opponent replaces 1 of your Banners, immediately kill all Acolytes on that space."
+      "Description": "When an opponent takes control of a space away from you, immediately kill all Acolytes on that space."
     },
     {
       "Name": "Zoophilic",
@@ -93,7 +89,7 @@
     },
     {
       "Name": "Extortionist",
-      "Description": "When an opponent replaces 1 of your Banners, they must pay you 2 Gold."
+      "Description": "When an opponent takes control of a space away from you, they must pay you 1 Gold."
     },
     {
       "Name": "Mercantile",
@@ -101,7 +97,7 @@
     },
     {
       "Name": "Miserly",
-      "Description": "Every time you gain Gold, gain 1 additional Gold. However, you can only have 3 Acolytes and 2 Banners in play at a time."
+      "Description": "Every time you gain Gold, gain 1 additional Gold. However, you can only have 4 Acolytes in play at a time."
     },
     {
       "Name": "Resourceful",
