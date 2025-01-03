@@ -5,11 +5,11 @@
     },
     {
       "Name": "Deep Mines",
-      "Description": "When drawn, put 3 Gold Loot cubes from the Bank here. After resting here, add 4 Gold from the bank here. Each time this happens, increase the Gold by 1."
+      "Description": "When drawn, put 3 Gold cubes from the Bank here. After resting here, add 5 Gold cubes from the bank here. Each time this happens, increase the Gold by 2."
     },
     {
       "Name": "Golden Dunes",
-      "Description": "Any time an Acolyte or Colossus moves here or passes through here using Road Movement, place 1 Gold Loot cube from the bank here."
+      "Description": "Any time an Acolyte or Colossus moves here or passes through here using Road Movement, place 1 Gold cube from the bank here."
     },
     {
       "Name": "Hallowed Ground",
@@ -22,18 +22,13 @@
     },
     {
       "Name": "Lair: Golden Beast",
-      "Description": "When resting, place 1 gold Loot cube from the bank in each space adjacent to the Golden Beast.",
-      "Beast Description": "When leaving a space, leave 1 gold Loot cube from the Bank in the space it leaves."
-    },
-    {
-      "Name": "Lair: Hungry Beast",
-      "Description": "When resting, move each Loot cube from the Hungry Beast's space to adjacent spaces you choose.",
-      "Beast Description": "When the Hungry Beast leaves a space, it takes the Loot cubes from that space with it."
+      "Description": "When resting, place 1 gold cube from the bank in each space adjacent to the Golden Beast.",
+      "Beast Description": "When leaving a space, leave 1 gold cube from the Bank in the space it leaves."
     },
     {
       "Name": "Lair: Bountiful Beast",
-      "Description": "When resting, the Bountiful Beast's space, and all adjacent spaces produce their Loot cubes again.",
-      "Beast Description": "When moving into a space that produces Loot cubes, that space produces its Loot cubes again immediately."
+      "Description": "When resting, choose up to 2 adjacent spaces that have Loot rewards (does not apply to special environments). Collect those rewards as if you controlled them.",
+      "Beast Description": "When scoring this space, triple its reward from Loot (this has no effect on special environments)."
     },
     {
       "Name": "Lair: Stone Beast",
@@ -54,10 +49,6 @@
     {
       "Name": "Launchpad",
       "Description": "When resting: After collecting your Banner here, pick up every game component on or adjacent to this space. Move each of them to any tile you choose."
-    },
-    {
-      "Name": "Magnetic Maar",
-      "Description": "When resting, choose an adjacent space, and move all Loot cubes from that space here. Then, score this space."
     },
     {
       "Name": "Market",
@@ -95,7 +86,7 @@
     },
     {
       "Name": "Treasure Trove",
-      "Description": "When deploying or replacing a Banner here, put 3 Gold Loot cubes from the bank here."
+      "Description": "When deploying or replacing a Banner here, put 3 Gold cubes from the bank here."
     },
     {
       "Name": "The Void",
