@@ -25,7 +25,7 @@
     },
     {
       "Name": "Nomadic",
-      "Description": "You can only have 1 Banner in play at a time. However, you may score that Banner immediately upon deploying it at the end of your turn."
+      "Description": "At the end of each turn, you may Harvest up to two tiles you control. However, you cannot Harvest any tiles at the end each Epoch."
     },
     {
       "Name": "Domineering",
@@ -53,7 +53,7 @@
     },
     {
       "Name": "Underworld",
-      "Description": "When you move, all tiles with your Banners on them are adjacent to each other, and you may move freely between them. This only applies when you are moving during your turn."
+      "Description": "When you move, all spaces you control are adjacent to each other, and you may move freely between them. This only applies when you are moving during your turn."
     },
     {
       "Name": "Boldness",
@@ -85,7 +85,7 @@
     },
     {
       "Name": "Monolithic",
-      "Description": "You may only have 1 Banner in play at a time. When you score that Banner, you also score every space adjacent to it."
+      "Description": "You may only Harvest 1 space at the end of each Epoch. However, you may Harvest every space adjacent to it as if you controled it. Harvest each of them at the same time when you Harvest the space, in any order you choose."
     },
     {
       "Name": "Parasitic",
@@ -105,6 +105,6 @@
     },
     {
       "Name": "Resourceful",
-      "Description": "When scoring Loot or Gold cubes from your Colossus's space, double the Loot and Gold rewards."
+      "Description": "When Harvesting Loot or Gold cubes from your Colossus's space, double the Loot and Gold rewards."
     }
 ]
