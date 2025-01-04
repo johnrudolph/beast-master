@@ -48,7 +48,7 @@
     },
     {
       "Name": "Launchpad",
-      "Description": "When Harvesting: After collecting your Acolytes here, pick up every Colossus and Acolyte on or adjacent to this space. Move each of them to any spaces you choose (cannot leave them on the Launchpad)."
+      "Description": "When Harvesting: After removing your Acolytes here, pick up every Colossus and Acolyte on or adjacent to this space. Move each of them to any spaces you choose (cannot leave them on the Launchpad)."
     },
     {
       "Name": "Market",
