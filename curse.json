@@ -5,11 +5,11 @@
     },
     {
         "Name": "Concession",
-        "Description": "Leave this card face-up in front of you for the remainder of the game. You may only have Harvest two spaces at the end of each Epoch. Gain 5 Gold."
+        "Description": "Leave this card face-up in front of you for the remainder of the game. You may only have Harvest two spaces at the end of each Epoch. Gain 5 Gold.wip"
     },
     {
         "Name": "Haste",
-        "Description": "Your turn ends immediately when you play this. If you play this, it must be your first action. Gain 5 Gold."
+        "Description": "Your turn ends immediately when you play this. If you play this, it must be the first and only action of your turn. Gain 5 Gold."
     },
     {
         "Name": "Poverty",
