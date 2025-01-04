@@ -35,6 +35,9 @@ Types of Loot:
 
 Note: Loot is different from special environments. Some cards and Beasts will grant your rewards related to Loot. Those rewards do not apply to special environments.
 
+## Water tiles
+These tiles are essentially empty spaces, and you treat them just like you treat the borders of the board. Colossi, and Beasts cannot move onto them. If Acolytes are pushed onto them, they die. Each Epoch will instruct you where to place Water tiles, and these can shift throughtout the game.
+
 ## Gold cubes
 Some Environments and Beasts will leave Gold cubes on the board. If you Harvest a space with Gold cubes, you will collect them. Gain a Gold on the score tracker, and return the Gold cubes to the bank.
 
