@@ -29,7 +29,7 @@
     },
     {
       "Name": "Fortitude",
-      "Description": "Each Colossus collects 1 Gold for space they control adjacent to their space."
+      "Description": "Each Colossus collects 1 Gold for each space they control adjacent to their space."
     },
     {
       "Name": "Influence",
