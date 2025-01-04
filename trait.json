@@ -25,7 +25,7 @@
     },
     {
       "Name": "Nomadic",
-      "Description": "At the end of each turn, you may Harvest up to two tiles you control. However, you cannot Harvest any tiles at the end each Epoch."
+      "Description": "At the end of your turns, you may Harvest up to two tiles you control. However, you cannot Harvest any tiles at the end each Epoch."
     },
     {
       "Name": "Domineering",
