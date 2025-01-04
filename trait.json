@@ -25,7 +25,7 @@
     },
     {
       "Name": "Nomadic",
-      "Description": "You can only have 1 Banner in play at a time. However, you may score that Banner immediately upon deploying it at the end of your turn."
+      "Description": "At the end of your turns, you may Harvest up to two tiles you control. However, you cannot Harvest any tiles at the end each Epoch."
     },
     {
       "Name": "Domineering",
@@ -37,7 +37,7 @@
     },
     {
       "Name": "Protective",
-      "Description": "Your Acolytes on your Colossus's space cannot be killed or moved. If your Colossus is on the same space as 1 of your Banners, that Banner cannot be replaced by an opponent."
+      "Description": "Your Acolytes on your Colossus's space cannot be killed or moved."
     },
     {
       "Name": "Sly",
@@ -53,7 +53,7 @@
     },
     {
       "Name": "Underworld",
-      "Description": "When you move, all tiles with your Banners on them are adjacent to each other, and you may move freely between them. This only applies when you are moving during your turn."
+      "Description": "When you move, all spaces you control are adjacent to each other, and you may move freely between them. This only applies when you are moving during your turn."
     },
     {
       "Name": "Boldness",
@@ -65,19 +65,15 @@
     },
     {
       "Name": "Alchemist",
-      "Description": "On your turn you may discard your Colossus cards, Traits, Banners in play, or Acolytes in play to gain 1 Gold each."
+      "Description": "On your turn you may discard your Colossus cards, Traits, or Acolytes in play to gain 1 Gold each."
     },
     {
       "Name": "Necromancer",
       "Description": "Any time an opponent's Acolyte dies, you may replace it with an Acolyte from your hand. However, you may only have 4 Acolytes in play at a time."
     },
     {
-      "Name": "Territorial",
-      "Description": "When an opponent places a Banner adjacent to any of your Banners, gain 1 Gold."
-    },
-    {
       "Name": "Vengeful",
-      "Description": "When an opponent replaces 1 of your Banners, immediately kill all Acolytes on that space."
+      "Description": "When an opponent takes control of a space away from you, immediately kill all Acolytes on that space."
     },
     {
       "Name": "Zoophilic",
@@ -85,7 +81,7 @@
     },
     {
       "Name": "Monolithic",
-      "Description": "You may only have 1 Banner in play at a time. When you score that Banner, you also score every space adjacent to it."
+      "Description": "You may only Harvest 1 space at the end of each Epoch. However, you may Harvest every space adjacent to it as if you controled it. Harvest each of them at the same time when you Harvest the space, in any order you choose."
     },
     {
       "Name": "Parasitic",
@@ -93,7 +89,7 @@
     },
     {
       "Name": "Extortionist",
-      "Description": "When an opponent replaces 1 of your Banners, they must pay you 2 Gold."
+      "Description": "When an opponent takes control of a space away from you, they must pay you 1 Gold."
     },
     {
       "Name": "Mercantile",
@@ -101,10 +97,6 @@
     },
     {
       "Name": "Miserly",
-      "Description": "Every time you gain Gold, gain 1 additional Gold. However, you can only have 3 Acolytes and 2 Banners in play at a time."
-    },
-    {
-      "Name": "Resourceful",
-      "Description": "When scoring Loot or Gold cubes from your Colossus's space, double the Loot and Gold rewards."
+      "Description": "Every time you gain Gold, gain 1 additional Gold. However, you can only have 4 Acolytes in play at a time."
     }
 ]

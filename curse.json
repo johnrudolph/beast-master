@@ -5,11 +5,11 @@
     },
     {
         "Name": "Concession",
-        "Description": "Leave this card face-up in front of you for the remainder of the game. You may only have 3 Banners in play. Gain 5 Gold."
+        "Description": "Leave this card face-up in front of you for the remainder of the game. You may only have Harvest two spaces at the end of each Epoch. Gain 5 Gold.wip"
     },
     {
         "Name": "Haste",
-        "Description": "When you play this, your turn ends immediately, and you will not play the Banner phase of your turn. Gain 5 Gold."
+        "Description": "Your turn ends immediately when you play this. If you play this, it must be the first and only action of your turn. Gain 5 Gold."
     },
     {
         "Name": "Poverty",
@@ -25,6 +25,6 @@
     },
     {
         "Name": "Totality",
-        "Description": "Remove each of your Banners and Acolytes from the board and return them to your hand. Gain 5 Gold."
+        "Description": "Remove each of your Acolytes from the board and return them to your hand. If you removed at least 4 Acolytes, gain 5 Gold."
     }
    ]

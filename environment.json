@@ -1,11 +1,11 @@
 [
     {
       "Name": "Beast Mantle",
-      "Description": "When resting, move 1 Beast to any space you choose."
+      "Description": "When Harvesting, move 1 Beast to any space you choose."
     },
     {
       "Name": "Deep Mines",
-      "Description": "When drawn, put 3 Gold cubes from the Bank here. After resting here, add 5 Gold cubes from the bank here. Each time this happens, increase the Gold by 2."
+      "Description": "When drawn, put 3 Gold cubes from the Bank here. After Harvesting here, add 5 Gold cubes from the bank here. Each time this happens, increase the Gold by 2."
     },
     {
       "Name": "Golden Dunes",
@@ -13,51 +13,51 @@
     },
     {
       "Name": "Hallowed Ground",
-      "Description": "When resting, collect 2 Gold for each of your Acolytes here."
+      "Description": "When Harvesting, collect 2 Gold for each of your Acolytes here."
     },
     {
       "Name": "Lair: Blood Beast",
-      "Description": "When resting, kill every Acolyte on or adjacent to the Blood Beast's space.",
+      "Description": "When Harvesting, kill every Acolyte on or adjacent to the Blood Beast's space.",
       "Beast Description": "Acolytes on this space immediately die."
     },
     {
       "Name": "Lair: Golden Beast",
-      "Description": "When resting, place 1 gold cube from the bank in each space adjacent to the Golden Beast.",
+      "Description": "When Harvesting, place 1 gold cube from the bank in each space adjacent to the Golden Beast.",
       "Beast Description": "When leaving a space, leave 1 gold cube from the Bank in the space it leaves."
     },
     {
       "Name": "Lair: Bountiful Beast",
-      "Description": "When resting, choose up to 2 adjacent spaces that have Loot rewards (does not apply to special environments). Collect those rewards as if you controlled them.",
-      "Beast Description": "When scoring this space, triple its reward from Loot (this has no effect on special environments)."
+      "Description": "When Harvesting, choose up to 2 adjacent spaces that have Loot rewards (does not apply to special environments). Collect those rewards as if you controlled them.",
+      "Beast Description": "When Harvesting this space, triple its reward from Loot (this has no effect on special environments)."
     },
     {
       "Name": "Lair: Stone Beast",
-      "Description": "When resting, leave up to 2 of your Banners in play after scoring them.",
-      "Beast Description": "Banners on this space cannot be replaced by opponents. Acolytes on this space cannot be killed or moved."
+      "Description": "When Harvesting a space adjacent to this: if you control this space, you may leave your adjacent Acolytes in play after Harvesting.",
+      "Beast Description": "Acolytes on this space cannot be killed or moved."
     },
     {
       "Name": "Lair: Time Beast",
-      "Description": "Immediately after you rest, you may take another 2 Actions.",
-      "Beast Description": "When entering a space that contains a Banner, score the Banner for its owner immediately.",
-      "Clarifications": "The Time Beast only scores Banners in this manner when moving into a space. If you place a Banner on the space where the Time Beast already is, the Banner is not immediately scored."
+      "Description": "Immediately after you Harvest this space, you may take another 2 Actions.",
+      "Beast Description": "When entering a space that is controlled, Harvest it for its owner immediately.",
+      "Clarifications": "The Time Beast only Harvests spaces in this manner when moving into a space. If you gain control of the space where the Time Beast already is, the space is not immediately harvested."
     },
     {
       "Name": "Lair: Wind Beast",
-      "Description": "When resting, choose a direction. Every Acolyte moves 1 space that direction. Acolytes who fall of the island die.",
+      "Description": "When Harvesting, choose a direction. Every Acolyte moves 1 space that direction. Acolytes who fall of the island die.",
       "Beast Description": "When leaving a space, all Acolytes on its space move with it."
     },
     {
       "Name": "Launchpad",
-      "Description": "When resting: After collecting your Banner here, pick up every game component on or adjacent to this space. Move each of them to any tile you choose."
+      "Description": "When Harvesting: After collecting your Acolytes here, pick up every Colossus and Acolyte on or adjacent to this space. Move each of them to any spaces you choose (cannot leave them on the Launchpad)."
     },
     {
       "Name": "Market",
-      "Description": "Discard cards from your hand. Collect 1 gold for each you discarded.",
-      "Clarifications": "You can discard cards you just drew during this Rest. But your hand limit applies immediately. So if you had previously drawn up beyond your hand limit, you must discard down before scoring this Environment."
+      "Description": "When Harvesting, discard cards from your hand. Collect 1 gold for each you discarded.",
+      "Clarifications": "This only applies to cards you currently have in your hand. If you gain more cards later during this same Harvest, you do not get a reward for discarding them."
     },
     {
       "Name": "Moat",
-      "Description": "When resting, collect 1 Gold for each adjacent space you control. Steal 1 Gold from each player who controls an adjacent space."
+      "Description": "When Harvesting, collect 1 Gold for each adjacent space you control. Steal 1 Gold from each player who controls an adjacent space."
     },
     {
       "Name": "Mountaintop of the Giants",
@@ -65,36 +65,35 @@
     },
     {
       "Name": "Oasis",
-      "Description": "When resting, discard your entire hand. Then draw 6 cards."
+      "Description": "When Harvesting, discard your entire hand. Then draw 6 cards."
     },
     {
       "Name": "Ruins",
-      "Description": "When resting, each opponent must give you 1 of their cards, or 2 Gold."
+      "Description": "When Harvesting, each opponent must give you 1 of their cards, or 2 Gold."
     },
     {
       "Name": "Speedy Slopes",
-      "Description": "When resting, place all Acolytes from you hand here. Then you may move each of your Acolytes once.",
-      "Clarifications": "Keep in mind that you only place Banners down at the end of regular turns. So if you move an Acolyte to a space and take control of it, you still cannot score it during this Rest."
+      "Description": "When Harvesting, place all Acolytes from you hand here."
     },
     {
       "Name": "Teleporter",
-      "Description": "When resting, swap all game components here with all game components from another tile. Then score that other tile."
+      "Description": "When Harvesting, swap all Colossi and Acolytes here with all Colossi and Acolytes from another tile. Then Harvest that other tile."
     },
     {
       "Name": "Trading Post",
-      "Description": "When resting, give each opponent a card from your hand. They must give you a different card in return, or pay you 2 Gold. "
+      "Description": "When Harvesting, give each opponent a card from your hand. They must give you a different card in return, or pay you 2 Gold. "
     },
     {
-      "Name": "Treasure Trove",
-      "Description": "When deploying or replacing a Banner here, put 3 Gold cubes from the bank here."
+      "Name": "The Brink",
+      "Description": "Any time a player takes control of this space, put 3 Gold cubes from the bank here."
     },
     {
       "Name": "The Void",
-      "Description": "When resting: replace any tile with a new random one. If your Banner is there, score it.",
-      "Clarifications": "Since you prepard a deck of Environments at the start of the game, you might need to go to the box to get a new Environment tile."
+      "Description": "When Harvesting, before collecting your Acolytes here: replace any tile with a new random one.",
+      "Clarifications": "You may replace the Void itself with a new random one. In any case, leave any Colossi, Acolytes, Gold cubes, or Beasts where they are on the new tile."
     },
     {
       "Name": "Volcano",
-      "Description": "When resting, kill every Acolyte on or adjacent to this space."
+      "Description": "When Harvesting, kill every Acolyte on or adjacent to this space."
     }
    ]
