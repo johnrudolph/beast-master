@@ -20,7 +20,7 @@ Acolytes move like Colossi, but die frequently.
 Beasts are monsters who haunt this island. Each has a passive effect and a special Lair Environment that causes a big action. In each game, you will play with 2 randomly selected Beasts.
 
 ## Gold
-If you collect 50 Gold, the game ends and you immediately win. Gain Gold from cards and by harvesting spaces to claim the rewards from Environments, Loot, and Gold cubes.
+Track how much Gold you have on the Gold tracker. If you collect 50 Gold, the game ends and you immediately win. Gain Gold from cards and by harvesting spaces to claim the rewards from Environments, Loot, and Gold cubes. Any time you gain or lose Gold, update the Gold tracker.
 
 ## Environments
 Environments are special tiles with potentially big rewards. Control an Environment at Harvest to claim its rewards. 
@@ -39,7 +39,7 @@ Note: Loot is different from special environments. Some cards and Beasts will gr
 These tiles are essentially empty spaces, and you treat them just like you treat the borders of the board. Colossi, and Beasts cannot move onto them. If Acolytes are pushed onto them, they die. Each Epoch will instruct you where to place Water tiles, and these can shift throughtout the game.
 
 ## Gold cubes
-Some Environments and Beasts will leave Gold cubes on the board. If you Harvest a space with Gold cubes, you will collect them. Gain a Gold on the score tracker, and return the Gold cubes to the bank.
+Some Environments and Beasts will leave Gold cubes on the board. If you Harvest a space with Gold cubes, you will collect them. Gain a Gold on the Gold tracker, and return the Gold cubes to the bank.
 
 ## Colossus Cards
 Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards, and must immediately discard down to 6 if you ever have more. There are 4 types of Colossus Card:
