@@ -98,9 +98,5 @@
     {
       "Name": "Miserly",
       "Description": "Every time you gain Gold, gain 1 additional Gold. However, you can only have 4 Acolytes in play at a time."
-    },
-    {
-      "Name": "Resourceful",
-      "Description": "When Harvesting Loot or Gold cubes from your Colossus's space, double the Loot and Gold rewards."
     }
 ]
