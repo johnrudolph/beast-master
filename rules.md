@@ -35,6 +35,9 @@ Types of Loot:
 
 Note: Loot is different from special environments. Some cards and Beasts will grant your rewards related to Loot. Those rewards do not apply to special environments.
 
+## Water tiles
+These tiles are essentially empty spaces, and you treat them just like you treat the borders of the board. Colossi, and Beasts cannot move onto them. If Acolytes are pushed onto them, they die. Each Epoch will instruct you where to place Water tiles, and these can shift throughtout the game.
+
 ## Gold cubes
 Some Environments and Beasts will leave Gold cubes on the board. If you Harvest a space with Gold cubes, you will collect them. Gain a Gold on the score tracker, and return the Gold cubes to the bank.
 
@@ -54,11 +57,13 @@ Designer note: For your first game, do not play with Traits. They make the game 
 # Setup
 
 - Each player chooses a color, and receives a set of 1 Colossus and 10 Acolytes of that color. 
-- Shuffle the Trait deck, and lay out 3 face-up. Take turns selecting either a face-up Trait, or the top card of the Trait deck. If you take a face-up Trait, replace it with another face-up Trait from the deck before the next player chooses. Once each player has a Trait, leave 3 face-up Traits beside the Trait deck.
 - Shuffle the Colossus Card deck and place it near the board. Deal each player 3 Colossus Cards.
-- Beginning with the first player, take turns placing your Starting Environment tiles on any unoccupied space you choose. Place your Colossus on your Starting Environment Tile.
 - Set aside 16 Grass Tiles face-down. Shuffle the Lair tiles and put 2 face-down with the Grass tiles. Shuffle the remainder of the Environment Tiles, draw 8 and put them face-down with the 18 other tiles. Shuffle these 26 Tiles and keep them face-down. Return all other Environments and Lairs back to the box.
 - Determine a first player. 
+- Place a random tile face-up in the center of the board. Place all Colossi on that tile.
+
+**If this is your first game, skip the following step.**
+- Shuffle the Trait deck, and lay out 3 face-up. Take turns selecting either a face-up Trait, or the top card of the Trait deck. If you take a face-up Trait, replace it with another face-up Trait from the deck before the next player chooses. Once each player has a Trait, leave 3 face-up Traits beside the Trait deck.
 
 # Gameplay
 
