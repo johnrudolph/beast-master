@@ -49,7 +49,7 @@
     },
     {
       "Name": "Soothsayer",
-      "Description": "At the start of your turn, you may either look at the top 2 Environment tiles, or the top 2 Colossus Cards."
+      "Description": "At the start of your turn, you may either look at the top 3 Environment tiles, or the top 3 Colossus Cards. Put them back in any order you choose."
     },
     {
       "Name": "Underworld",
