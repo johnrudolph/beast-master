@@ -52,8 +52,8 @@
       "Description": "At the start of your turn, you may either look at the top 3 Environment tiles, or the top 3 Colossus Cards. Put them back in any order you choose."
     },
     {
-      "Name": "Underworld",
-      "Description": "When you move, all spaces you control are adjacent to each other, and you may move freely between them. This only applies when you are moving during your turn."
+      "Name": "Winged",
+      "Description": "When moving your Colossus, you may move it to any space."
     },
     {
       "Name": "Boldness",
