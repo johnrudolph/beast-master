@@ -81,7 +81,7 @@
     },
     {
       "Name": "Monolithic",
-      "Description": "You may only Harvest 1 space at the end of each Epoch. However, you may Harvest every space adjacent to it as if you controled it. Harvest each of them at the same time when you Harvest the space, in any order you choose."
+      "Description": "You may only Harvest 1 space at the end of each Epoch. However, you also Harvest the Loot and Gold cubes from the spaces adjacent to it, even if you do not control them. This does not apply to special environments adjacent to the space you Harvest."
     },
     {
       "Name": "Parasitic",
