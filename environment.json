@@ -80,10 +80,6 @@
       "Description": "When Harvesting, swap all Colossi and Acolytes here with all Colossi and Acolytes from another tile. Then Harvest that other tile."
     },
     {
-      "Name": "Trading Post",
-      "Description": "When Harvesting, give each opponent a card from your hand. They must give you a different card in return, or pay you 2 Gold. "
-    },
-    {
       "Name": "The Brink",
       "Description": "Any time a player takes control of this space, put 3 Gold cubes from the bank here."
     },
