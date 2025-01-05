@@ -1,42 +1,39 @@
 # Introduction
 
-You are 1 of the Colossi who rules over this dangerous island. Your goal is to prove your might and become the most renown Colossus. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Prove yourself to the gods by outwitting the other Colossi, controlling Environments, and reaching 50 Gold before your opponents.
+You are one of the Colossi who seeks to rule over this dangerous island. Your goal is to prove your might and become the most renown Colossus. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Outsmart and overpower your opponents over the course of 3 Ages to become the most renown Colossus.
  
 # Components
 
 ## Board 
-The island has 27 spaces. The island starts empty, but will eventually be filled with Loot and varied environments.
+The island has 27 spaces. The island starts empty, but will eventually be filled with tiles that grant you rewards at Harvest.
 
 ## Colossi
 You are a Colossus, and you lead a fleet of Acolytes.  Colossi cannot die, and remain on the island for the entire game.
 
 ## Acolytes
 Acolytes move like Colossi, but die frequently. 
-- Any time an Acolyte is pushed off the edge of the island, it dies.
-- Lots of cards, Beasts, and other things will kill your Acolytes.
+- Any time an Acolyte is pushed off the edge of the island, it dies. Some cards, Beasts, and tiles will kill your Acolytes.
 - When your Acolytes die, they return to your hand, and can be played again on future turns.
 
 ## Beasts
-Beasts are monsters who haunt this island. Each has a passive effect and a special Lair Environment that causes a big action. In each game, you will play with 2 randomly selected Beasts.
+Beasts are monsters who haunt this island. Each has a passive effect and a special Lair Environment that causes a big action. 
 
 ## Gold
-Track how much Gold you have on the Gold tracker. If you collect 50 Gold, the game ends and you immediately win. Gain Gold from cards and by harvesting spaces to claim the rewards from Environments, Loot, and Gold cubes. Any time you gain or lose Gold, update the Gold tracker.
+The player with the most Gold at the end of the game wins. Track how much Gold you have on the Gold tracker. Gain Gold from cards and by harvesting spaces to claim the rewards from Environments, Loot, and Gold cubes. Any time you gain or lose Gold, update the Gold tracker.
 
 ## Environments
 Environments are special tiles with potentially big rewards. Control an Environment at Harvest to claim its rewards. 
 
-## Loot 
-Loot gives you smaller rewards. Harvest a space with Loot to claim its rewards. 
+## Grass tiles
+Grass tiles simply grant you rewards at Harvest. Control a Grass tile to claim its rewards. 
 
-Types of Loot: 
-- **Gold**: For each golden Loot, collect 1 Gold.
-- **Cards**: For each blue Loot, draw 1 Colossus Card.
-- **Traits**: For each green Loot, gain 1 Trait. 
-
-Note: Loot is different from special environments. Some cards and Beasts will grant your rewards related to Loot. Those rewards do not apply to special environments.
+Types of Loot on Grass tiles: 
+- **Gold**: gain 1 Gold.
+- **Cards**: draw 1 Colossus Card.
+- **Traits**: gain 1 Trait. 
 
 ## Water tiles
-These tiles are essentially empty spaces, and you treat them just like you treat the borders of the board. Colossi, and Beasts cannot move onto them. If Acolytes are pushed onto them, they die. Each Epoch will instruct you where to place Water tiles, and these can shift throughtout the game.
+These tiles are essentially empty spaces, and you treat them just like you treat the borders of the board. Colossi, and Beasts cannot move onto them. If Acolytes are pushed onto them, they die. Each Age will instruct you where to place Water tiles, and these can shift throughtout the game.
 
 ## Gold cubes
 Some Environments and Beasts will leave Gold cubes on the board. If you Harvest a space with Gold cubes, you will collect them. Gain a Gold on the Gold tracker, and return the Gold cubes to the bank.
@@ -49,6 +46,12 @@ Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages 
 - **Curse**: Each Curse hurts you, but also grants you Gold.
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
 
+## Age cards
+The game takes place over 3 Ages. Each Age comes with a card that includes special scoring at the end of the age, instructions for where to place Water tiles, and other unique events.
+
+## Mantle
+The Mantle simply indicates who is the first player for the Age. At the end of each Age, the Mantle goes to the player in first place.
+
 ## Traits
 Traits are cards that give your Colossus a boost. You can only have 2 Traits in play at a time. You may discard one of your Traits at any time. At any given time there will be 3 face-up Traits and a Trait deck. When you select a Trait, you may draw from the deck, or choose 1 of the face-up Traits. If you choose a face-up Trait, replace it with another face-up Trait from the deck before the next player chooses. Traits continually give your Colossus a boost. 
 
@@ -56,10 +59,11 @@ Designer note: For your first game, do not play with Traits. They make the game 
 
 # Setup
 
+- Shuffle the Age deck, and draw 3 Age cards. Set them face-up at the top of the board.
 - Each player chooses a color, and receives a set of 1 Colossus and 10 Acolytes of that color. 
-- Shuffle the Colossus Card deck and place it near the board. Deal each player 3 Colossus Cards.
+- Shuffle the Colossus Card deck and place it near the board. Deal each player 2 Colossus Cards.
 - Set aside 16 Grass Tiles face-down. Shuffle the Lair tiles and put 2 face-down with the Grass tiles. Shuffle the remainder of the Environment Tiles, draw 8 and put them face-down with the 18 other tiles. Shuffle these 26 Tiles and keep them face-down. Return all other Environments and Lairs back to the box.
-- Determine a first player. 
+- Determine a first player, and give them the Mantle.
 - Place a random tile face-up in the center of the board. Place all Colossi on that tile.
 
 **If this is your first game, skip the following step.**
@@ -67,18 +71,33 @@ Designer note: For your first game, do not play with Traits. They make the game 
 
 # Gameplay
 
-Colossi's gameplay simply consists of player turns. Continue taking turns until any player has reached 1 of the 3 victory conditions.
+Each Age has two phases: Action Phase and Harvest Phase.
 
-## Colossus Turn
+## Action Phase
+The Action Phase simply consists of player turns. On your turn, you will do the following in order:
 
-### Action Phase
 1. **Draw**: Draw 1 Colossus Card.
-2. **Actions**: Take 4 Actions. With your Action, you may either play a Colossus card, or move (see full Movement rules in the next section).
+2. **Actions**: Take 4 Actions. With your Action, you may either play a Colossus card, or move your Colossus or an Acolyte (see full Movement rules in the next section).
 3. **Move Beast**: You may move a Beast 1 space.
+
+## Harvest Phase
+The Harvest Phase is where you collect rewards from the board. This happens at the end of each Age. First, read the special scoring instructions on the Age card. Distribute rewards as instructed.
+
+Then, beginning with the player with the Mantle, take turns harvesting. On your turn, you will Harvest just one space that you control. If you do not control any spaces, or prefer not to harvest, you may pass, meaning that you are done Harvesting fo the Age. 
+
+*Note*: This means that two different player could Harvest the same space at Harvest. Suppose Mitch has three Acolytes, and John has one. Mitch Harvests the space, and collects his rewards. Now John has control of the space, and he can Harvest it on his next turn.
+
+When you Harvest a space, return *all* of your Acolytes on that space to your hand. If your Colossus is on that space, lay it on its side to indicate that you have already harvested that space. Then collect the space's rewards:
+
+1. **Gold cubes**: Collect any Gold cubes from the space, and return them to the bank. Gain one Gold for each cube.
+2. **Grass Tiles**: If the space has Loot, collect it immediately.
+3. **Environments**: If the space is a special environment, follow the environment's rules.
+
+Once all players have passed, pass the Mantle to the player in first place, and begin the next Age. 
 
 ## Game End
 
-The game ends when any player has 50 Gold. Each player must take an equal number of turns. So once a player reaches 50, continue taking turns until you reach the player who took the first turn of the game.
+At the end of the third Age, the game ends. The player with the most Gold wins.
 
 # Movement
 You have 4 Actions on your turn, and it costs 1 Action to move your Colossus or an Acolyte 1 space in any direction. Colossi and Acolytes follow the same rules for movement.
@@ -87,7 +106,7 @@ You have 4 Actions on your turn, and it costs 1 Action to move your Colossus or 
 - **Spawn an Acolyte**: For the cost of 1 Movement, place an Acolyte from your hand onto your Colossus’s space. You may immediately move that Acolyte to an adjacent space for free using Road Movement.
 
 # Control
-You must control spaces in order to harvest them at the end of each Epoch. How do you control a space?
+You must control spaces in order to harvest them at the end of each Age. How do you control a space?
 
 | # of Colossi on the space| Who controls the space (in case of a tie, neither player has control) |
 |----------|----------|
