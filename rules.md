@@ -63,7 +63,7 @@ Designer note: For your first game, do not play with Traits. They make the game 
 - Each player chooses a color, and receives a set of 1 Colossus and 10 Acolytes of that color. 
 - Shuffle the Colossus Card deck and place it near the board. Deal each player 2 Colossus Cards.
 - Set aside 16 Grass Tiles face-down. Shuffle the Lair tiles and put 2 face-down with the Grass tiles. Shuffle the remainder of the Environment Tiles, draw 8 and put them face-down with the 18 other tiles. Shuffle these 26 Tiles and keep them face-down. Return all other Environments and Lairs back to the box.
-- Determine a first player, and give them the Mantle.
+- Determine which player has played this game the most, and give them the Mantle.
 - Place a random tile face-up in the center of the board. Place all Colossi on that tile.
 
 **If this is your first game, skip the following step.**
