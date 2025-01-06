@@ -1,0 +1,42 @@
+[
+    {
+      "Name": "Age of Population",
+      "Age": 1,
+      "Description": "The player with the most Acolytes in play gains 10 Gold."
+    },
+    {
+        "Name": "Age of Exploration",
+        "Age": 1,
+        "Description": "The player with the most spaces containing their Acolytes (regardless of control) gains 10 Gold."
+    },
+    {
+        "Name": "Age of Austerity",
+        "Age": 1,
+        "Description": "Any player who does not Harvest any spaces at the end of this Age gains 10 Gold."
+    },
+    {
+        "Name": "Age of Dominion",
+        "Age": 2,
+        "Description": "The player with the most spaces controlled gains 10 Gold."
+    },
+    {
+        "Name": "Age of Connection",
+        "Age": 2,
+        "Description": "The player with the most spaces connected to their Colossus via Acolyte roads gains 10 Gold."
+    },
+    {
+        "Name": "Age of Patience",
+        "Age": 1,
+        "Description": "Any player who has 6 cards in their hand at the end of this Age gains 10 Gold."
+    },
+    {
+      "Name": "Age of Beasts",
+      "Age": 3,
+      "Description": "If you control all face-up Beast lairs, gain 10 Gold."
+    },
+    {
+        "Name": "Age of Diplomacy",
+        "Age": 3,
+        "Description": "The player with the most Acolytes on spaces that they do not control gains 10 Gold."
+    }
+   ]
