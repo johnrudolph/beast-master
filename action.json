@@ -49,7 +49,7 @@
     },
     {
       "Name": "Recall",
-      "Description": "Move any number of your Acolytes on the board to your Colossus's space."
+      "Description": "Move any number of your Acolytes on the board to your Colossus's space. Then, add 2 Acolytes from your hand to your Colossus's space."
     },
     {
       "Name": "Replace",
@@ -58,14 +58,6 @@
     {
       "Name": "Ritual Sacrifice",
       "Description": "For any Acolyte (including your own) on or adjacent to your Colossus's space, roll the die, and kill the Acolyte if you roll 1 or 2 (Clarify which Acolyte you are rolling for before each roll)"
-    },
-    {
-      "Name": "Early Harvest",
-      "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and Harvest the space (even if you do not control it)."
-    },
-    {
-      "Name": "Early Harvest",
-      "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and Harvest the space (even if you do not control it)."
     },
     {
       "Name": "Early Harvest",
@@ -93,7 +85,7 @@
     },
     {
       "Name": "Teleport",
-      "Description": "Move any Colossus to any space."
+      "Description": "Move one Colossus to any space."
     },
     {
       "Name": "Vandalize",

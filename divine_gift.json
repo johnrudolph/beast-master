@@ -5,11 +5,11 @@
     },
     {
       "Name": "Audacity",
-      "Description": "Each Colossus collects 2 Gold for every space they control that is occupied by a Beast, or adjacent to 1 or more Beasts."
+      "Description": "Each Colossus gains 2 Gold for every space they control that is occupied by a Beast, or adjacent to one or more Beasts."
     },
     {
       "Name": "Authority",
-      "Description": "Each Colossus collects 1 Gold for every opponent's Acolyte on their space."
+      "Description": "Each Colossus gains 1 Gold for every opponent's Acolyte on their space."
     },
     {
       "Name": "Companionship",
@@ -17,11 +17,11 @@
     },
     {
       "Name": "Comradery",
-      "Description": "Each Colossus collects 3 Gold if they are on a space with another Colossus."
+      "Description": "Each Colossus gains 3 Gold if they are on a space with another Colossus."
     },
     {
       "Name": "Diplomacy",
-      "Description": "Each Colossus collects 1 Gold for every Acolyte they have on a space controlled by another player."
+      "Description": "Each Colossus gains 1 Gold for every Acolyte they have on a space controlled by another player."
     },
     {
       "Name": "Dominion",
@@ -29,7 +29,7 @@
     },
     {
       "Name": "Fortitude",
-      "Description": "Each Colossus collects 1 Gold for each space they control adjacent to their space."
+      "Description": "Each Colossus gains 1 Gold for each space they control adjacent to their space."
     },
     {
       "Name": "Influence",
@@ -49,11 +49,11 @@
     },
     {
       "Name": "Solitude",
-      "Description": "If any Colossus has no Acolytes (including their own Acolytes) on or adjacent to their space, they collect 3 Gold. "
+      "Description": "If any Colossus has no Acolytes (including their own Acolytes) on or adjacent to their space, they gain 3 Gold. "
     },
     {
       "Name": "Windfall",
-      "Description": "Each Colossi collects the Loot reward of their space, even if they do not control it (does not apply to special environments)."
+      "Description": "Each Colossi gains the Loot reward of their space, even if they do not control it (does not apply to special environments)."
     },
     {
       "Name": "Exchange",
@@ -61,7 +61,7 @@
     },
     {
       "Name": "Growth",
-      "Description": "Draw Traits from the Trait deck until you are holding 1 per each Colossus in the game. Beginning with you and continuing clockwise, select a Trait to keep, then pass the remainder to the next player. You may immediately discard the Trait you chose, if you wish."
+      "Description": "Draw Traits from the Trait deck until you are holding 1 per each Colossus in the game. Beginning with you and continuing clockwise, select a Trait to keep, then pass the remainder to the next player. As usual, you still have a Trait limit of 2, and you may discard the Trait you chose."
     },
     {
       "Name": "Mimesis",

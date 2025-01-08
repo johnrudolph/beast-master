@@ -1,6 +1,6 @@
 # Introduction
 
-You are one of the Colossi who seeks to rule over this dangerous island. Your goal is to prove your might and become the most renown Colossus. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and collect Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Outsmart and overpower your opponents over the course of 3 Ages to become the most renown Colossus.
+You are one of the Colossi who seeks to rule over this dangerous island. Your goal is to prove your might and become the most renown Colossus. As a Colossus, you will create new Acolytes to do your bidding, control territory around the island, and gain Gold and Cards. But beware: Colossi also control Beasts, and will kill your Acolytes in a heartbeat. Outsmart and overpower your opponents over the course of 3 Ages to become the most renown Colossus.
  
 # Components
 
@@ -36,7 +36,7 @@ Types of Loot on Grass tiles:
 These tiles are essentially empty spaces, and you treat them just like you treat the borders of the board. Colossi, and Beasts cannot move onto them. If Acolytes are pushed onto them, they die. Each Age will instruct you where to place Water tiles, and these can shift throughtout the game.
 
 ## Gold cubes
-Some Environments and Beasts will leave Gold cubes on the board. If you Harvest a space with Gold cubes, you will collect them. Gain a Gold on the Gold tracker, and return the Gold cubes to the bank.
+Some Environments and Beasts will leave Gold cubes on the board. If you Harvest a space with Gold cubes, you will gain them. Gain a Gold on the Gold tracker, and return the Gold cubes to the bank.
 
 ## Colossus Cards
 Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards, and must immediately discard down to 6 if you ever have more. There are 4 types of Colossus Card:
@@ -81,16 +81,16 @@ The Action Phase simply consists of player turns. On your turn, you will do the 
 3. **Move Beast**: You may move a Beast 1 space.
 
 ## Harvest Phase
-The Harvest Phase is where you collect rewards from the board. This happens at the end of each Age. First, read the special scoring instructions on the Age card. Distribute rewards as instructed.
+The Harvest Phase is where you gain rewards from the board. This happens at the end of each Age. First, read the special scoring instructions on the Age card. Distribute rewards as instructed.
 
 Then, beginning with the player with the Mantle, take turns harvesting. On your turn, you will Harvest just one space that you control. If you do not control any spaces, or prefer not to harvest, you may pass, meaning that you are done Harvesting fo the Age. 
 
-*Note*: This means that two different player could Harvest the same space at Harvest. Suppose Mitch has three Acolytes, and John has one. Mitch Harvests the space, and collects his rewards. Now John has control of the space, and he can Harvest it on his next turn.
+*Note*: This means that two different player could Harvest the same space at Harvest. Suppose Mitch has three Acolytes, and John has one. Mitch Harvests the space, and gains his rewards. Now John has control of the space, and he can Harvest it on his next turn.
 
-When you Harvest a space, return *all* of your Acolytes on that space to your hand. If your Colossus is on that space, lay it on its side to indicate that you have already harvested that space. Then collect the space's rewards:
+When you Harvest a space, return *all* of your Acolytes on that space to your hand. If your Colossus is on that space, lay it on its side to indicate that you have already harvested that space. Then gain the space's rewards:
 
-1. **Gold cubes**: Collect any Gold cubes from the space, and return them to the bank. Gain one Gold for each cube.
-2. **Grass Tiles**: If the space has Loot, collect it immediately.
+1. **Gold cubes**: Gain any Gold cubes from the space, and return them to the bank. Gain one Gold for each cube.
+2. **Grass Tiles**: If the space has Loot, gain it immediately.
 3. **Environments**: If the space is a special environment, follow the environment's rules.
 
 Once all players have passed, pass the Mantle to the player in first place, and begin the next Age. 

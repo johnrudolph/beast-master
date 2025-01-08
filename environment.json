@@ -5,7 +5,7 @@
     },
     {
       "Name": "Deep Mines",
-      "Description": "When drawn, put 3 Gold cubes from the Bank here. After Harvesting here, add 5 Gold cubes from the bank here. Each time this happens, increase the Gold by 2."
+      "Description": "When drawn, put 3 Gold cubes from the Bank here. After Harvesting this space, add 5 Gold cubes from the bank here. Each time this happens, increase the Gold by 2."
     },
     {
       "Name": "Golden Dunes",
@@ -13,7 +13,7 @@
     },
     {
       "Name": "Hallowed Ground",
-      "Description": "When Harvesting, collect 2 Gold for each of your Acolytes here."
+      "Description": "When Harvesting, gain 2 Gold for each of your Acolytes here."
     },
     {
       "Name": "Lair: Blood Beast",
@@ -27,7 +27,7 @@
     },
     {
       "Name": "Lair: Bountiful Beast",
-      "Description": "When Harvesting, choose up to 2 adjacent spaces that have Loot rewards (does not apply to special environments). Collect those rewards as if you controlled them.",
+      "Description": "When Harvesting, choose up to 2 adjacent spaces that have Loot rewards (does not apply to special environments). Gain those rewards as if you controlled them.",
       "Beast Description": "When Harvesting this space, triple its reward from Loot (this has no effect on special environments)."
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "Name": "Market",
-      "Description": "When Harvesting, discard cards from your hand. Collect 1 gold for each you discarded.",
+      "Description": "When Harvesting, discard cards from your hand. Gain 1 gold for each you discarded.",
       "Clarifications": "This only applies to cards you currently have in your hand. If you gain more cards later during this same Harvest, you do not get a reward for discarding them."
     },
     {
       "Name": "Moat",
-      "Description": "When Harvesting, collect 1 Gold for each adjacent space you control. Steal 1 Gold from each player who controls an adjacent space."
+      "Description": "When Harvesting, gain 1 Gold for each adjacent space you control. Steal 1 Gold from each player who controls an adjacent space."
     },
     {
       "Name": "Mountaintop of the Giants",
@@ -85,7 +85,7 @@
     },
     {
       "Name": "The Void",
-      "Description": "When Harvesting, before collecting your Acolytes here: replace any tile with a new random one.",
+      "Description": "When Harvesting, before gaining your Acolytes here: replace any tile with a new random one.",
       "Clarifications": "You may replace the Void itself with a new random one. In any case, leave any Colossi, Acolytes, Gold cubes, or Beasts where they are on the new tile."
     },
     {
