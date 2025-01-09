@@ -1,42 +1,65 @@
 [
     {
-      "Name": "Age of Population",
-      "Age": 1,
-      "Description": "The player with the most Acolytes in play gains 10 Gold."
-    },
-    {
         "Name": "Age of Exploration",
         "Age": 1,
-        "Description": "The player with the most spaces containing their Acolytes (regardless of control) gains 10 Gold."
-    },
-    {
-        "Name": "Age of Austerity",
-        "Age": 1,
-        "Description": "Any player who does not Harvest any spaces at the end of this Age gains 10 Gold."
-    },
-    {
-        "Name": "Age of Dominion",
-        "Age": 2,
-        "Description": "The player with the most spaces controlled gains 10 Gold."
-    },
-    {
-        "Name": "Age of Connection",
-        "Age": 2,
-        "Description": "The player with the most spaces connected to their Colossus via Acolyte roads gains 10 Gold."
+        "Beasts": "Bountiful Beast",
+        "Setup": "N/A",
+        "Scoring": "The player with the most spaces containing their Acolytes (regardless of control) gains 10 Gold."
     },
     {
         "Name": "Age of Patience",
         "Age": 1,
-        "Description": "Any player who has 6 cards in their hand at the end of this Age gains 10 Gold."
+        "Beasts": "Time Beast",
+        "Setup": "N/A",
+        "Scoring": "Any player who has 6 cards in their hand at the end of this Age gains 10 Gold."
     },
     {
-      "Name": "Age of Beasts",
-      "Age": 3,
-      "Description": "If you control all face-up Beast lairs, gain 10 Gold."
+        "Name": "Age of Survival",
+        "Age": 2,
+        "Beasts": "Blood Beast, Stone Beast",
+        "Setup": "N/A",
+        "Scoring": "The player with the most Acolytes in play gains 10 Gold."
+    },
+    {
+        "Name": "Age of Paradox",
+        "Age": 2,
+        "Beasts": "Time Beast",
+        "Setup": "N/A",
+        "Scoring": "Any player who does not Harvest any spaces at the end of this Age gains 10 Gold."
+    },
+    {
+        "Name": "Age of Beasts",
+        "Age": 2,
+        "Beasts": "Bountiful Beast, Wind Beast",
+        "Setup": "N/A",
+        "Scoring": "If you control both face-up Beast lairs, gain 10 Gold."
+    },
+    {
+        "Name": "Age of Dominion",
+        "Age": 2,
+        "Beasts": "Blood Beast",
+        "Setup": "N/A",
+        "Scoring": "The player with the most spaces controlled gains 10 Gold."
     },
     {
         "Name": "Age of Diplomacy",
         "Age": 3,
-        "Description": "The player with the most Acolytes on spaces that they do not control gains 10 Gold."
+        "Beasts": "Wind Beast",
+        "Setup": "N/A",
+        "Scoring": "The player with the most Acolytes on spaces that they do not control gains 10 Gold."
+    },
+    {
+        "Name": "Age of Prosperity",
+        "Age": 3,
+        "Beasts": "Gold Beast",
+        "Setup": "Gather 12 Gold cubes from the bank. Divide them evenly among the players. Beginning with the player with the Mantle, take turns placing 1 Gold cube on any space on the board.",
+        "Scoring": "The player with the most Gold cubes in play gains 10 Gold."
+    }
+    {
+        "Name": "Age of Connection",
+        "Age": 3,
+        "Beasts": "Wind Beast",
+        "Setup": "N/A",
+        "Scoring": "The player with the most spaces connected to their Colossus via Acolyte roads gains 10 Gold."
     }
    ]
