@@ -92,6 +92,6 @@
     },
     {
       "Name": "Volcano",
-      "Description": "When Harvesting, kill every Acolyte on or adjacent to this space."
+      "Description": "Any time a Colossus moves here, kill all Acolytes on or adjacent to this space."
     }
    ]
