@@ -42,8 +42,7 @@ Some Environments and Beasts will leave Gold cubes on the board. If you Harvest 
 Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards, and must immediately discard down to 6 if you ever have more. There are 4 types of Colossus Card:
 
 - **Action**: Move pieces around the board, get more cards, and more.
-- **Beast**: Control Beast movement.
-- **Curse**: Each Curse hurts you, but also grants you Gold.
+- **Beast**: Control Beast movement. These also give you +1 Action, and so are essentially free to play.
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
 
 ## Age cards
@@ -59,7 +58,7 @@ Designer note: For your first game, do not play with Traits. They make the game 
 
 # Setup
 
-- Shuffle the Age deck, and draw 3 Age cards. Set them face-up at the top of the board.
+- Shuffle the Age deck, and draw an Age card for Ages I, II, and III. Set them face-down at the top of the board. Reveal Age I, locate its Beast Lair and Beast, and place them in the center space of the board. Place each player's Colossus on that same space.
 - Each player chooses a color, and receives a set of 1 Colossus and 10 Acolytes of that color. 
 - Shuffle the Colossus Card deck and place it near the board. Deal each player 2 Colossus Cards.
 - Set aside 16 Grass Tiles face-down. Shuffle the Lair tiles and put 2 face-down with the Grass tiles. Shuffle the remainder of the Environment Tiles, draw 8 and put them face-down with the 18 other tiles. Shuffle these 26 Tiles and keep them face-down. Return all other Environments and Lairs back to the box.
@@ -76,14 +75,13 @@ Each Age has two phases: Action Phase and Harvest Phase.
 ## Action Phase
 The Action Phase simply consists of player turns. On your turn, you will do the following in order:
 
-1. **Draw**: Draw 1 Colossus Card.
-2. **Actions**: Take 4 Actions. With your Action, you may either play a Colossus card, or move your Colossus or an Acolyte (see full Movement rules in the next section).
-3. **Move Beast**: You may move a Beast 1 space.
+1. **Actions**: Take 4 Actions. With your Action, you may either play a Colossus card, or move your Colossus or an Acolyte (see full Movement rules in the next section). Some cards will give you extra Actions. When you play those cards, use those extra Actions immediately on this turn.
+2. **Draw**: Draw 1 Colossus Card.
 
 ## Harvest Phase
 The Harvest Phase is where you gain rewards from the board. This happens at the end of each Age. First, read the special scoring instructions on the Age card. Distribute rewards as instructed.
 
-Then, beginning with the player with the Mantle, take turns harvesting. On your turn, you will Harvest just one space that you control. If you do not control any spaces, or prefer not to harvest, you may pass, meaning that you are done Harvesting fo the Age. 
+Then, beginning with the player with the Mantle, take turns harvesting. On your turn, you will Harvest just one space that you control. If you do not control any spaces, or prefer not to harvest, you may pass, meaning that you are done Harvesting for the Age. 
 
 *Note*: This means that two different player could Harvest the same space at Harvest. Suppose Mitch has three Acolytes, and John has one. Mitch Harvests the space, and gains his rewards. Now John has control of the space, and he can Harvest it on his next turn.
 
@@ -94,6 +92,15 @@ When you Harvest a space, return *all* of your Acolytes on that space to your ha
 3. **Environments**: If the space is a special environment, follow the environment's rules.
 
 Once all players have passed, pass the Mantle to the player in first place, and begin the next Age. 
+
+## Beginning a new Age
+
+Reveal the next Age and read it aloud. If the Beasts from this next age are the same as the Beasts from the previous Age, begin immediately. Otherwise:
+
+1. The player with the least Gold (if this is a tie, roll to determine) gathers the new Beast Lair(s). They may select any empty space to place them. If there are no empty spaces, they may select a tile to discard and replace with the new Beast Lairs, leaving all Acolytes and Colossi in place on this new Lair. Place the corresponding Beasts on their Lairs.
+2. If it is still on the board, discard the Lair and Beast from the previous Age. If any Colossi or Acolytes were on that space, immediately replace that Lair with a new random tile, and leave the Colossi and Acolytes in that same space.
+
+Do the "Setup" step from the new Age if necessary, pass the Mantle to the left, and begin taking turns, starting with the player with the Mantle.
 
 ## Game End
 
@@ -113,8 +120,3 @@ You must control spaces in order to harvest them at the end of each Age. How do 
 | No Colossus  | The player with the most Acolytes on the space. | 
 | 1 Colossus   | The Colossus supersedes all Acolytes. | 
 | Multiple Colossi   | The Colossus on the space who has the most Acolytes on the space. | 
-
-# Frequently Asked Questions
-
-Q: **I have two cards that have conflicting effects. What do I do?**
-A: There may be cases where you have a Curse that limits how many Acolytes you can have in play, and also a Trait that limits how many Acolytes you can have in play. In these cases, always choose the lower limit. 

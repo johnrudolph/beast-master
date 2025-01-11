@@ -76,12 +76,24 @@
       "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and Harvest the space (even if you do not control it)."
     },
     {
+      "Name": "Sacrifice",
+      "Description": "Remove all of your Acolytes from the board and return them to your hand. Gain 1 Gold for each Acolyte you removed."
+    },
+    {
+      "Name": "Sacrifice",
+      "Description": "Remove all of your Acolytes from the board and return them to your hand. Gain 1 Gold for each Acolyte you removed."
+    },
+    {
       "Name": "Steal",
       "Description": "Take an opponent's Trait and leave it face-up in front of you. It is now in play for you. If you already had 2 Traits in play, discard 1 of them."
     },
     {
       "Name": "Steal",
       "Description": "Take an opponent's Trait and leave it face-up in front of you. It is now in play for you. If you already had 2 Traits in play, discard 1 of them."
+    },
+    {
+      "Name": "Take Pity",
+      "Description": "Choose another player. They gain 5 Gold. You gain 2 Gold."
     },
     {
       "Name": "Teleport",

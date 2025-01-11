@@ -53,7 +53,7 @@
     },
     {
       "Name": "Windfall",
-      "Description": "Each Colossi gains the Loot reward of their space, even if they do not control it (does not apply to special environments)."
+      "Description": "Each Colossi gains the Loot and Gold Cubes from their space, even if they do not control it."
     },
     {
       "Name": "Exchange",

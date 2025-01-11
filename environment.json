@@ -5,11 +5,7 @@
     },
     {
       "Name": "Deep Mines",
-      "Description": "When drawn, put 3 Gold cubes from the Bank here. After Harvesting this space, add 5 Gold cubes from the bank here. Each time this happens, increase the Gold by 2."
-    },
-    {
-      "Name": "Golden Dunes",
-      "Description": "Any time an Acolyte or Colossus moves here or passes through here using Road Movement, place 1 Gold cube from the bank here."
+      "Description": "When drawn, put 3 Gold cubes here. At the start of Age II, put 5 Gold cubes here. At the start of Age III, put 7 Gold cubes here."
     },
     {
       "Name": "Hallowed Ground",
@@ -27,12 +23,17 @@
     },
     {
       "Name": "Lair: Bountiful Beast",
-      "Description": "When Harvesting, choose up to 2 adjacent spaces that have Loot rewards (does not apply to special environments). Gain those rewards as if you controlled them.",
-      "Beast Description": "When Harvesting this space, triple its reward from Loot (this has no effect on special environments)."
+      "Description": "When Harvesting, choose up to 2 adjacent spaces that have Loot rewards. Gain those rewards as if you controlled them.",
+      "Beast Description": "When Harvesting this space, triple its reward from Loot."
+    },
+    {
+      "Name": "Lair: Magnetic Beast",
+      "Description": "When Harvesting, move all Gold cubes from the Magnetic Beast's space to spaces adjacent to it. You choose which spaces the Gold cubes move to.",
+      "Beast Description": "When leaving a space, take all Gold cubes on that space with it."
     },
     {
       "Name": "Lair: Stone Beast",
-      "Description": "When Harvesting a space adjacent to this: if you control this space, you may leave your adjacent Acolytes in play after Harvesting.",
+      "Description": "When Harvesting an adjacent space: if you control this space, you may leave your adjacent Acolytes in play after Harvesting. Leave them on their side to indicate that they are done harvesting.",
       "Beast Description": "Acolytes on this space cannot be killed or moved."
     },
     {
@@ -72,16 +73,17 @@
       "Description": "When Harvesting, each opponent must give you 1 of their cards, or 2 Gold."
     },
     {
-      "Name": "Speedy Slopes",
-      "Description": "When Harvesting, place all Acolytes from you hand here."
+      "Name": "Monastery",
+      "Description": "When Harvesting, place all Acolytes from you hand on spaces where you already have Acolytes. If you place them on spaces you already Harvested, place them on their side to indicate that you cannot Harvest there again."
     },
     {
       "Name": "Teleporter",
-      "Description": "When Harvesting, swap all Colossi and Acolytes here with all Colossi and Acolytes from another tile. Then Harvest that other tile."
+      "Description": "When Harvesting, choose another tile. Swap all Colossi, Acolytes, and Beasts here with all Colossi, Acolytes, and Beasts on that tile. Immediately Harvest that other tile."
     },
     {
       "Name": "The Brink",
-      "Description": "Any time a player takes control of this space, put 3 Gold cubes from the bank here."
+      "Description": "Any time a player takes control of this space, put 3 Gold cubes from the bank here.",
+      "Clarifications": "When one player Harvests it and collects their Acolytes, there might be opposing Acolytes still there, who take control. Add 3 Gold cubes when this happens, as usual."
     },
     {
       "Name": "The Void",

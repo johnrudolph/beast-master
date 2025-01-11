@@ -73,7 +73,7 @@
     },
     {
       "Name": "Vengeful",
-      "Description": "When an opponent takes control of a space away from you, immediately kill all Acolytes on that space."
+      "Description": "If an opponent moves pieces into that space that you control, and takes control of it, immediately kill all Acolytes on that space."
     },
     {
       "Name": "Zoophilic",
@@ -81,7 +81,7 @@
     },
     {
       "Name": "Monolithic",
-      "Description": "You may only Harvest 1 space at the end of each Age. However, you also Harvest the Loot and Gold cubes from the spaces adjacent to it, even if you do not control them. This does not apply to special environments adjacent to the space you Harvest."
+      "Description": "You may only Harvest 1 space at the end of each Age. However, you also Harvest the Loot and Gold cubes from the spaces adjacent to it, even if you do not control them."
     },
     {
       "Name": "Parasitic",

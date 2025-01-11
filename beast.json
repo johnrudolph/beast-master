@@ -1,42 +1,58 @@
 [
     {
       "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space."
+      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
     },
     {
       "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space."
+      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
     },
     {
       "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space."
+      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
     },
     {
       "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space."
+      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
     },
     {
       "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
     },
     {
       "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
     },
     {
       "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
     },
     {
       "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces)."
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
+    },
+    {
+      "Name": "Walk",
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
+    },
+    {
+      "Name": "Walk",
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
+    },
+    {
+      "Name": "Walk",
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
+    },
+    {
+      "Name": "Walk",
+      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
     },
     {
       "Name": "Rampage",
-      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through."
+      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through. +1 Action."
     },
     {
       "Name": "Rampage",
-      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through."
+      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through. +1 Action."
     }
    ]

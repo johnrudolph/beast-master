@@ -2,64 +2,85 @@
     {
         "Name": "Age of Exploration",
         "Age": 1,
-        "Beasts": "Bountiful Beast",
-        "Setup": "N/A",
-        "Scoring": "The player with the most spaces containing their Acolytes (regardless of control) gains 10 Gold."
+        "Beasts": "Wind Beast",
+        "Setup": "",
+        "Scoring": "Each Colossus gains one gold for each space that contains their Acolytes (regardless of control)."
     },
     {
         "Name": "Age of Patience",
         "Age": 1,
         "Beasts": "Time Beast",
-        "Setup": "N/A",
-        "Scoring": "Any player who has 6 cards in their hand at the end of this Age gains 10 Gold."
+        "Setup": "",
+        "Scoring": "Each Colossus gains one gold for each card in their hand."
+    },
+    {
+        "Name": "Age of Innovation",
+        "Age": 1,
+        "Beasts": "Bountiful Beast",
+        "Setup": "Beginning with the player with the Mantle, take turns selecting a new Trait. Do this twice, so every player starts the game with two Traits.",
+        "Scoring": "@todo"
+    },
+    {
+        "Name": "Gilded Age",
+        "Age": 1,
+        "Beasts": "Gold Beast, Magnetic Beast",
+        "Setup": "Search the tile deck for the Deep Mines and The Brink. The player with the Mantle places them on any spaces they choose. Re-shuffle the tile deck.",
+        "Scoring": "If any Colossus controls no spaces that contain Gold cubes, they gain 10 gold."
     },
     {
         "Name": "Age of Survival",
         "Age": 2,
         "Beasts": "Blood Beast, Stone Beast",
-        "Setup": "N/A",
-        "Scoring": "The player with the most Acolytes in play gains 10 Gold."
+        "Setup": "",
+        "Scoring": "Each Colossus gains 1 Gold for each Acolyte they have on the board."
     },
     {
         "Name": "Age of Paradox",
         "Age": 2,
         "Beasts": "Time Beast",
-        "Setup": "N/A",
+        "Setup": "",
         "Scoring": "Any player who does not Harvest any spaces at the end of this Age gains 10 Gold."
     },
     {
         "Name": "Age of Beasts",
         "Age": 2,
         "Beasts": "Bountiful Beast, Wind Beast",
-        "Setup": "N/A",
-        "Scoring": "If you control both face-up Beast lairs, gain 10 Gold."
+        "Setup": "",
+        "Scoring": "For each Beast Lair you control, gain 5 Gold."
     },
     {
         "Name": "Age of Dominion",
         "Age": 2,
         "Beasts": "Blood Beast",
-        "Setup": "N/A",
-        "Scoring": "The player with the most spaces controlled gains 10 Gold."
+        "Setup": "",
+        "Scoring": "Each player gains 2 gold for each space they control."
+    },
+    {
+        "Name": "Age of Storms",
+        "Age": 3,
+        "Beasts": "Wind Beast, Time Beast",
+        "Setup": "Discard every tile that is adjacent to water. If there are Acolytes or Colossi on those spaces, immediately draw new tiles to replace them. Empty spaces can be re-explored.",
+        "Scoring": "Each player gains 1 Gold for each Acolyte they have adjacent to water."
     },
     {
         "Name": "Age of Diplomacy",
         "Age": 3,
         "Beasts": "Wind Beast",
-        "Setup": "N/A",
-        "Scoring": "The player with the most Acolytes on spaces that they do not control gains 10 Gold."
+        "Setup": "",
+        "Scoring": "Each player gains 2 gold for each Acolyte they have in a space they don't control."
     },
     {
         "Name": "Age of Prosperity",
         "Age": 3,
-        "Beasts": "Gold Beast",
+        "Beasts": "Gold Beast, Magnetic Beast",
         "Setup": "Gather 12 Gold cubes from the bank. Divide them evenly among the players. Beginning with the player with the Mantle, take turns placing 1 Gold cube on any space on the board.",
-        "Scoring": "The player with the most Gold cubes in play gains 10 Gold."
+        "Scoring": "If any Colossus controls no spaces that contain Gold cubes, they gain 10 gold."
     },
     {
         "Name": "Age of Connection",
         "Age": 3,
         "Beasts": "Wind Beast",
-        "Setup": "N/A",
+        "Setup": "",
         "Scoring": "The player with the most spaces connected to their Colossus via Acolyte roads gains 10 Gold."
     }
    ]
