@@ -95,7 +95,7 @@
         "Age": "III",
         "Beasts": "Gold Beast, Magnetic Beast",
         "Setup": "Gather 12 Gold cubes from the bank. Divide them evenly among the players. Beginning with the player with the Mantle, take turns placing 1 Gold cube on any space on the board.",
-        "Scoring": "If any Colossus controls no spaces that contain Gold cubes, they gain 10 gold."
+        "Scoring": "If any player controls no spaces that contain Gold cubes, they gain 12 gold."
     },
     {
         "Name": "Age of Comradery",
@@ -108,7 +108,7 @@
         "Name": "Age of Connection",
         "Age": "III",
         "Beasts": "Wind Beast",
-        "Setup": "Beginning with the player with the Mantle, each player may place each of their Acolytes on any spaces they choose.",
+        "Setup": "Beginning with the player with the Mantle, each player may place all the Acolytes from the hand on any spaces they choose.",
         "Scoring": "The player with the most spaces connected to their Colossus via Acolyte roads gains 10 Gold."
     }
    ]
