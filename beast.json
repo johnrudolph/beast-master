@@ -1,78 +1,38 @@
 [
     {
-      "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
+      "Name": "Blood Beast",
+      "Harvest Effect": "Kill every Acolyte adjacent to this space.",
+      "Passive Effect": "Acolytes on this space immediately die."
     },
     {
-      "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
+      "Name": "Golden Beast",
+      "Harvest Effect": "Place 1 gold cube from the bank in each adjacent space.",
+      "Passive Effect": "When moving, leave 1 gold cube from the Bank in the space it leaves."
     },
     {
-      "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
+      "Name": "Bountiful Beast",
+      "Harvest Effect": "If any adjacent spaces have Loot rewards, gain those rewards as if you controlled them.",
+      "Passive Effect": ""
     },
     {
-      "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
+      "Name": "Magnetic Beast",
+      "Harvest Effect": "Move all Gold cubes from the this space to adjacent spaces you choose.",
+      "Passive Effect": "When leaving a space, take all Gold cubes on that space with it."
     },
     {
-      "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
+      "Name": "Stone Beast",
+      "Harvest Effect": "Do not collect your Acolytes on this space when Harvesting. Leave them on their side to indicate that they are done harvesting.",
+      "Passive Effect": "Acolytes on this space cannot be killed or moved."
     },
     {
-      "Name": "Lure",
-      "Description": "Pick up a Beast and place it on your Colossus's space. +1 Action."
+      "Name": "Time Beast",
+      "Harvest Effect": "Take another 2 Actions.",
+      "Passive Effect": "When entering a space that is controlled, Harvest it for its owner immediately.",
+      "Clarifications": "The Time Beast only Harvests spaces in this manner when moving into a space. If you gain control of the space where the Time Beast already is, the space is not immediately harvested."
     },
     {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Walk",
-      "Description": "Move a Beast twice (a Beast can only move to adjacent spaces). +1 Action."
-    },
-    {
-      "Name": "Rampage",
-      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through."
-    },
-    {
-      "Name": "Rampage",
-      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through."
-    },
-    {
-      "Name": "Rampage",
-      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through."
+      "Name": "Wind Beast",
+      "Harvest Effect": "Choose a direction. Every Acolyte moves 1 space that direction. Acolytes who fall of the island die.",
+      "Passive Effect": "When leaving a space, all Acolytes on its space move with it."
     }
    ]

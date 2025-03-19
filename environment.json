@@ -12,42 +12,6 @@
       "Description": "When Harvesting, gain 2 Gold for each of your Acolytes here."
     },
     {
-      "Name": "Lair: Blood Beast",
-      "Description": "When Harvesting, kill every Acolyte on or adjacent to the Blood Beast's space.",
-      "Beast Description": "Acolytes on this space immediately die."
-    },
-    {
-      "Name": "Lair: Golden Beast",
-      "Description": "When Harvesting, place 1 gold cube from the bank in each space adjacent to the Golden Beast.",
-      "Beast Description": "When leaving a space, leave 1 gold cube from the Bank in the space it leaves."
-    },
-    {
-      "Name": "Lair: Bountiful Beast",
-      "Description": "When Harvesting, choose up to 2 adjacent spaces that have Loot rewards. Gain those rewards as if you controlled them.",
-      "Beast Description": "When Harvesting this space, triple its reward from Loot."
-    },
-    {
-      "Name": "Lair: Magnetic Beast",
-      "Description": "When Harvesting, move all Gold cubes from the Magnetic Beast's space to spaces adjacent to it. You choose which spaces the Gold cubes move to.",
-      "Beast Description": "When leaving a space, take all Gold cubes on that space with it."
-    },
-    {
-      "Name": "Lair: Stone Beast",
-      "Description": "When Harvesting an adjacent space: if you control this space, you may leave your adjacent Acolytes in play after Harvesting. Leave them on their side to indicate that they are done harvesting.",
-      "Beast Description": "Acolytes on this space cannot be killed or moved."
-    },
-    {
-      "Name": "Lair: Time Beast",
-      "Description": "Immediately after you Harvest this space, you may take another 2 Actions.",
-      "Beast Description": "When entering a space that is controlled, Harvest it for its owner immediately.",
-      "Clarifications": "The Time Beast only Harvests spaces in this manner when moving into a space. If you gain control of the space where the Time Beast already is, the space is not immediately harvested."
-    },
-    {
-      "Name": "Lair: Wind Beast",
-      "Description": "When Harvesting, choose a direction. Every Acolyte moves 1 space that direction. Acolytes who fall of the island die.",
-      "Beast Description": "When leaving a space, all Acolytes on its space move with it."
-    },
-    {
       "Name": "Launchpad",
       "Description": "When Harvesting: After removing your Acolytes here, pick up every Colossus and Acolyte on or adjacent to this space. Move each of them to any spaces you choose (cannot leave them on the Launchpad)."
     },

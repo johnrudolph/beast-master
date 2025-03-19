@@ -16,7 +16,7 @@ Acolytes move like Colossi, but die frequently.
 - When your Acolytes die, they return to your hand, and can be played again on future turns.
 
 ## Beasts
-Beasts are monsters who haunt this island. Each has a passive effect and a special Lair Environment that causes a big action. 
+Beasts are monsters who haunt this island. Each has a passive effect, and a Harvest effect. When you Harvest a space that contains a Beast, you trigger its Harvest effect. 
 
 ## Gold
 The player with the most Gold at the end of the game wins. Track how much Gold you have on the Gold tracker. Gain Gold from cards and by harvesting spaces to claim the rewards from Environments, Loot, and Gold cubes. Any time you gain or lose Gold, update the Gold tracker.
@@ -58,10 +58,11 @@ Designer note: For your first game, do not play with Traits. They make the game 
 
 # Setup
 
-- Shuffle the Age deck, and draw an Age card for Ages I, II, and III. Set them face-down at the top of the board. Reveal Age I, locate its Beast Lair and Beast, and place them in the center space of the board. Place each player's Colossus on that same space.
+- If you are playing with 2 or 3 players, use water tiles to shrink the board as shown in the diagram.
+- Shuffle the Age decks, and draw an Age card for Ages I, II, and III. Set them face-down at the top of the board. Reveal Age I, locate its Beasts, and place them on the spaces indicated on the Age card. 
 - Each player chooses a color, and receives a set of 1 Colossus and 10 Acolytes of that color. 
 - Shuffle the Colossus Card deck and place it near the board. Deal each player 2 Colossus Cards.
-- Set aside 16 Grass Tiles face-down. Shuffle the Lair tiles and put 2 face-down with the Grass tiles. Shuffle the remainder of the Environment Tiles, draw 8 and put them face-down with the 18 other tiles. Shuffle these 26 Tiles and keep them face-down. Return all other Environments and Lairs back to the box.
+- Shuffle all environment tiles to form the face-down Environment deck.
 - Determine which player has played this game the most, and give them the Mantle.
 - Place a random tile face-up in the center of the board. Place all Colossi on that tile.
 
@@ -97,10 +98,7 @@ Once all players have passed, pass the Mantle to the player in first place, and 
 
 ## Beginning a new Age
 
-Reveal the next Age and read it aloud. If the Beasts from this next age are the same as the Beasts from the previous Age, begin immediately. Otherwise:
-
-1. The player with the least Gold (if this is a tie, roll to determine) gathers the new Beast Lair(s). They may select any empty space to place them. If there are no empty spaces, they may select a tile to discard and replace with the new Beast Lairs, leaving all Acolytes and Colossi in place on this new Lair. Place the corresponding Beasts on their Lairs.
-2. If it is still on the board, discard the Lair and Beast from the previous Age. If any Colossi or Acolytes were on that space, immediately replace that Lair with a new random tile, and leave the Colossi and Acolytes in that same space.
+Reveal the next Age and read it aloud. Remove Beasts from the previous Age that are not in the new Age. Add new Beasts according to the Age card. 
 
 Do the "Setup" step from the new Age if necessary, pass the Mantle to the left, and begin taking turns, starting with the player with the Mantle.
 
@@ -110,7 +108,7 @@ At the end of the third Age, the game ends. The player with the most Gold wins.
 
 # Movement
 You have 4 Actions on your turn, and it costs 1 Action to move your Colossus or an Acolyte 1 space in any direction. Colossi and Acolytes follow the same rules for movement.
-- **Exploring**: When moving into a space that has no tile on it, you will discover what is there. Draw an Environment tile from the deck you built during Setup. If it is a Beast Lair, immediately put the corrosponding Beast on that space.
+- **Exploring**: When moving into a space that has no tile on it, you will discover what is there. Draw an Environment tile from the deck you built during Setup. 
 - **Road Movement**: When moving into a space that already contains your Colossus or 1 of your Acolytes, you may continue onward to any adjacent space for free. If you have your Colossus or Acolytes in multiple adjacent spaces, move long distances using just 1 Movement.
 - **Spawn an Acolyte**: For the cost of 1 Movement, place an Acolyte from your hand onto your Colossus’s space. You may immediately move that Acolyte to an adjacent space for free using Road Movement.
 
