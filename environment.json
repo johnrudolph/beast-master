@@ -33,6 +33,10 @@
       "Description": "When Harvesting, discard your entire hand. Then draw 6 cards."
     },
     {
+      "Name": "Outpost",
+      "Description": "When harvesting, take up to 3 Acolytes from your hand, and place them on spaces adjacent to this."
+    },
+    {
       "Name": "Outskirts",
       "Description": "When harvesting, if you have the least gold, gain 10 gold. Otherwise, lose 5 gold."
     },
