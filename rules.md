@@ -83,8 +83,6 @@ The Harvest Phase is where you gain rewards from the board. This happens at the 
 
 Then, beginning with the player with the Mantle, take turns harvesting. On your turn, you will Harvest just one space that you control. If you do not control any spaces, or prefer not to harvest, you may pass, meaning that you are done Harvesting for the Age. 
 
-*Note*: This means that two different player could Harvest the same space at Harvest. Suppose Mitch has three Acolytes, and John has one. Mitch Harvests the space, and gains his rewards. Now John has control of the space, and he can Harvest it on his next turn.
-
 When you Harvest a space, return *all* of your Acolytes on that space to your hand. If your Colossus is on that space, lay it on its side to indicate that you have already harvested that space. Then gain the space's rewards:
 
 1. **Gold cubes**: Gain any Gold cubes from the space, and return them to the bank. Gain one Gold for each cube.
@@ -92,6 +90,10 @@ When you Harvest a space, return *all* of your Acolytes on that space to your ha
 3. **Environments**: If the space is a special environment, follow the environment's rules.
 
 Once all players have passed, pass the Mantle to the player in first place, and begin the next Age. 
+
+*Note*: This means that two different player could Harvest the same space at Harvest. 
+- Suppose Mitch has three Acolytes, and John has one. Mitch Harvests the space, and gains his rewards. Now John has control of the space, and he can Harvest it on his next turn.
+- However, a Colossus still contributes to the Control of a space. Suppose Mitch has his Colossus there, and John has one Acolyte. Mitch harvests, and puts his Colossus on its side. John cannot Harvest this space, because Mitch's Colossus still controls it.
 
 ## Beginning a new Age
 
