@@ -26,7 +26,7 @@
     },
     {
       "Name": "Time Beast",
-      "Harvest Effect": "Take another 2 Actions.",
+      "Harvest Effect": "Immediately take 1 extra action.",
       "Passive Effect": "When entering a space that is controlled, Harvest it for its owner immediately.",
       "Clarifications": "The Time Beast only Harvests spaces in this manner when moving into a space. If you gain control of the space where the Time Beast already is, the space is not immediately harvested."
     },
