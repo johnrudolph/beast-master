@@ -17,7 +17,7 @@
     {
       "Name": "Magnetic Beast",
       "Harvest Effect": "Move all Gold cubes from the this space to adjacent spaces you choose.",
-      "Passive Effect": "When leaving a space, take all Gold cubes on that space with it."
+      "Passive Effect": "Move all Gold cubes from adjacent spaces onto this space, and gain them as a reward."
     },
     {
       "Name": "Stone Beast",
