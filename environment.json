@@ -33,6 +33,10 @@
       "Description": "When Harvesting, discard your entire hand. Then draw 6 cards."
     },
     {
+      "Name": "Outskirts",
+      "Description": "When harvesting, if you have the least gold, gain 10 gold. Otherwise, lose 5 gold."
+    },
+    {
       "Name": "Ruins",
       "Description": "When Harvesting, each opponent must give you 1 of their cards, or 2 Gold."
     },
