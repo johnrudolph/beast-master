@@ -36,10 +36,6 @@
       "Description": "Once per opponent turn, when one of your Acolytes dies, you may move it to your Colossus's space instead of back to your hand."
     },
     {
-      "Name": "Protective",
-      "Description": "Your Acolytes on your Colossus's space cannot be killed or moved."
-    },
-    {
       "Name": "Sly",
       "Description": "At the beginning of your turn, name another player aloud. For this turn, you can use their Acolytes and Colossus for Road Movement."
     },
