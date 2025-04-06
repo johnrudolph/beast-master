@@ -5,7 +5,7 @@ You are one of the Colossi who seeks to rule over this dangerous island. Your go
 # Components
 
 ## Board 
-The island has 27 spaces. The island starts empty, but will eventually be filled with tiles that grant you rewards at Harvest.
+The island has 27 spaces. The island starts empty, but will eventually be filled with tiles that grant you rewards at Reap.
 
 ## Colossi
 You are a Colossus, and you lead a fleet of Acolytes.  Colossi cannot die, and remain on the island for the entire game.
@@ -16,16 +16,16 @@ Acolytes move like Colossi, but die frequently.
 - When your Acolytes die, they return to your hand, and can be played again on future turns.
 
 ## Beasts
-Beasts are monsters who haunt this island. Each has a passive effect, and a Harvest effect. When you Harvest a space that contains a Beast, you trigger its Harvest effect. 
+Beasts are monsters who haunt this island. Each has a passive effect, and a Reap effect. When you Reap a space that contains a Beast, you trigger its Reap effect. 
 
 ## Gold
-The player with the most Gold at the end of the game wins. Track how much Gold you have on the Gold tracker. Gain Gold from cards and by harvesting spaces to claim the rewards from Environments, Loot, and Gold cubes. Any time you gain or lose Gold, update the Gold tracker.
+The player with the most Gold at the end of the game wins. Track how much Gold you have on the Gold tracker. Gain Gold from cards and by Reaping spaces to claim the rewards from Environments, Loot, and Gold cubes. Any time you gain or lose Gold, update the Gold tracker.
 
 ## Environments
-Environments are special tiles with potentially big rewards. Control an Environment at Harvest to claim its rewards. 
+Environments are special tiles with potentially big rewards. Control an Environment at Reap to claim its rewards. 
 
 ## Grass tiles
-Grass tiles simply grant you rewards at Harvest. Control a Grass tile to claim its rewards. 
+Grass tiles simply grant you rewards at Reap. Control a Grass tile to claim its rewards. 
 
 Types of Loot on Grass tiles: 
 - **Gold**: gain 1 Gold.
@@ -36,7 +36,7 @@ Types of Loot on Grass tiles:
 These tiles are essentially empty spaces, and you treat them just like you treat the borders of the board. Colossi, and Beasts cannot move onto them. If Acolytes are pushed onto them, they die. Each Age will instruct you where to place Water tiles, and these can shift throughtout the game.
 
 ## Gold cubes
-Some Environments and Beasts will leave Gold cubes on the board. If you Harvest a space with Gold cubes, you will gain them. Gain a Gold on the Gold tracker, and return the Gold cubes to the bank.
+Some Environments and Beasts will leave Gold cubes on the board. If you Reap a space with Gold cubes, you will gain them. Gain a Gold on the Gold tracker, and return the Gold cubes to the bank.
 
 ## Colossus Cards
 Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards, and must immediately discard down to 6 if you ever have more. There are 4 types of Colossus Card:
@@ -71,7 +71,7 @@ Designer note: For your first game, do not play with Traits. They make the game 
 
 # Gameplay
 
-Each Age has two phases: Action Phase and Harvest Phase.
+Each Age has two phases: Action Phase and Reap Phase.
 
 ## Action Phase
 The Action Phase simply consists of player turns. On your turn, you will do the following in order:
@@ -79,12 +79,12 @@ The Action Phase simply consists of player turns. On your turn, you will do the 
 1. **Actions**: Take 4 Actions. With your Action, you may either play a Colossus card, or move your Colossus or an Acolyte (see full Movement rules in the next section). Some cards will give you extra Actions. When you play those cards, use those extra Actions immediately on this turn.
 2. **Draw**: Draw 1 Colossus Card.
 
-## Harvest Phase
-The Harvest Phase is where you gain rewards from the board. This happens at the end of each Age. First, read the special scoring instructions on the Age card. Distribute rewards as instructed.
+## Reap Phase
+The Reap Phase is where you gain rewards from the board. This happens at the end of each Age. First, read the special scoring instructions on the Age card. Distribute rewards as instructed.
 
-Then, beginning with the player with the Mantle, take turns harvesting. On your turn, you will Harvest just one space that you control. If you do not control any spaces, or prefer not to harvest, you may pass, meaning that you are done Harvesting for the Age. 
+Then, beginning with the player with the Mantle, take turns Reaping. On your turn, you will Reap just one space that you control. If you do not control any spaces, or prefer not to Reap, you may pass, meaning that you are done Reaping for the Age. 
 
-When you Harvest a space, return *all* of your Acolytes on that space to your hand. If your Colossus is on that space, lay it on its side to indicate that you have already harvested that space. Then gain the space's rewards:
+When you Reap a space, return *all* of your Acolytes on that space to your hand. If your Colossus is on that space, lay it on its side to indicate that you have already Reaped that space. Then gain the space's rewards:
 
 1. **Gold cubes**: Gain any Gold cubes from the space, and return them to the bank. Gain one Gold for each cube.
 2. **Grass Tiles**: If the space has Loot, gain it immediately.
@@ -92,9 +92,9 @@ When you Harvest a space, return *all* of your Acolytes on that space to your ha
 
 Once all players have passed, pass the Mantle to the player in first place, and begin the next Age. 
 
-*Note*: This means that two different player could Harvest the same space at Harvest. 
-- Suppose Mitch has three Acolytes, and John has one. Mitch Harvests the space, and gains his rewards. Now John has control of the space, and he can Harvest it on his next turn.
-- However, a Colossus still contributes to the Control of a space. Suppose Mitch has his Colossus there, and John has one Acolyte. Mitch harvests, and puts his Colossus on its side. John cannot Harvest this space, because Mitch's Colossus still controls it.
+*Note*: This means that two different player could Reap the same space at Reap. 
+- Suppose Mitch has three Acolytes, and John has one. Mitch Reaps the space, and gains his rewards. Now John has control of the space, and he can Reap it on his next turn.
+- However, a Colossus still contributes to the Control of a space. Suppose Mitch has his Colossus there, and John has one Acolyte. Mitch Reaps, and puts his Colossus on its side. John cannot Reap this space, because Mitch's Colossus still controls it.
 
 ## Beginning a new Age
 
@@ -113,7 +113,7 @@ You have 4 Actions on your turn, and it costs 1 Action to move your Colossus or 
 - **Spawn an Acolyte**: For the cost of 1 Movement, place an Acolyte from your hand onto your Colossus’s space. You may immediately move that Acolyte to an adjacent space for free using Road Movement.
 
 # Control
-You must control spaces in order to harvest them at the end of each Age. How do you control a space?
+You must control spaces in order to Reap them at the end of each Age. How do you control a space?
 
 | # of Colossi on the space| Who controls the space (in case of a tie, neither player has control) |
 |----------|----------|

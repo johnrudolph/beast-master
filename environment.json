@@ -1,7 +1,7 @@
 [
     {
       "Name": "Beast Mantle",
-      "Description": "When Harvesting, move 1 Beast two spaces, or move it to any space you choose."
+      "Description": "When Reaping, move 1 Beast two spaces, or move it to any space you choose."
     },
     {
       "Name": "Deep Mines",
@@ -9,20 +9,20 @@
     },
     {
       "Name": "Hallowed Ground",
-      "Description": "When Harvesting, gain 2 Gold for each of your Acolytes here."
+      "Description": "When Reaping, gain 2 Gold for each of your Acolytes here."
     },
     {
       "Name": "Launchpad",
-      "Description": "When Harvesting: After removing your Acolytes here, pick up every Colossus and Acolyte on or adjacent to this space. Move each of them to any spaces you choose (cannot leave them on the Launchpad)."
+      "Description": "When Reaping: After removing your Acolytes here, pick up every Colossus and Acolyte on or adjacent to this space. Move each of them to any spaces you choose (cannot leave them on the Launchpad)."
     },
     {
       "Name": "Market",
-      "Description": "When Harvesting, discard cards from your hand. Gain 1 gold for each you discarded.",
-      "Clarifications": "This only applies to cards you currently have in your hand. If you gain more cards later during this same Harvest, you do not get a reward for discarding them."
+      "Description": "When Reaping, discard cards from your hand. Gain 1 gold for each you discarded.",
+      "Clarifications": "This only applies to cards you currently have in your hand. If you gain more cards later during this same Reap, you do not get a reward for discarding them."
     },
     {
       "Name": "Moat",
-      "Description": "When Harvesting, gain 1 Gold for each adjacent space you control. Steal 1 Gold from each player who controls an adjacent space."
+      "Description": "When Reaping, gain 1 Gold for each adjacent space you control. Steal 1 Gold from each player who controls an adjacent space."
     },
     {
       "Name": "Mountaintop of the Giants",
@@ -30,36 +30,36 @@
     },
     {
       "Name": "Oasis",
-      "Description": "When Harvesting, discard your entire hand. Then draw 6 cards."
+      "Description": "When Reaping, discard your entire hand. Then draw 6 cards."
     },
     {
       "Name": "Outpost",
-      "Description": "When harvesting, take up to 3 Acolytes from your hand, and place them on spaces adjacent to this."
+      "Description": "When Reaping, take up to 3 Acolytes from your hand, and place them on spaces adjacent to this."
     },
     {
       "Name": "Outskirts",
-      "Description": "When harvesting, if you have the least gold, gain 10 gold."
+      "Description": "When Reaping, if you have the least gold, gain 10 gold."
     },
     {
       "Name": "Ruins",
-      "Description": "When Harvesting, each opponent must give you 1 of their cards, or 2 Gold."
+      "Description": "When Reaping, each opponent must give you 1 of their cards, or 2 Gold."
     },
     {
       "Name": "Monastery",
-      "Description": "When Harvesting, place all Acolytes from you hand on spaces where you already have Acolytes. If you place them on spaces you already Harvested, place them on their side to indicate that you cannot Harvest there again."
+      "Description": "When Reaping, place all Acolytes from you hand on spaces where you already have Acolytes. If you place them on spaces you already Reaped, place them on their side to indicate that you cannot Reap there again."
     },
     {
       "Name": "Teleporter",
-      "Description": "When Harvesting, choose another tile. Swap all Colossi, Acolytes, and Beasts here with all Colossi, Acolytes, and Beasts on that tile. Immediately Harvest that other tile."
+      "Description": "When Reaping, choose another tile. Swap all Colossi, Acolytes, and Beasts here with all Colossi, Acolytes, and Beasts on that tile. Immediately Reap that other tile."
     },
     {
       "Name": "The Brink",
       "Description": "Any time a player takes control of this space, put 3 Gold cubes from the bank here.",
-      "Clarifications": "When one player Harvests it and collects their Acolytes, there might be opposing Acolytes still there, who take control. Add 3 Gold cubes when this happens, as usual."
+      "Clarifications": "When one player Reaps it and collects their Acolytes, there might be opposing Acolytes still there, who take control. Add 3 Gold cubes when this happens, as usual."
     },
     {
       "Name": "The Void",
-      "Description": "When Harvesting, before gaining your Acolytes here: replace any tile with a new random one.",
+      "Description": "When Reaping, before gaining your Acolytes here: replace any tile with a new random one.",
       "Clarifications": "You may replace the Void itself with a new random one. In any case, leave any Colossi, Acolytes, Gold cubes, or Beasts where they are on the new tile."
     },
     {

@@ -25,7 +25,7 @@
     },
     {
       "Name": "Nomadic",
-      "Description": "At the end of your turns, you may Harvest up to two tiles you control. However, you cannot Harvest any tiles at the end each Age."
+      "Description": "At the end of your turns, you may Reap up to two tiles you control. However, you cannot Reap any tiles at the end each Age."
     },
     {
       "Name": "Domineering",
@@ -77,7 +77,7 @@
     },
     {
       "Name": "Monolithic",
-      "Description": "You may only Harvest 1 space at the end of each Age. However, you also Harvest the Loot and Gold cubes from the spaces adjacent to it, even if you do not control them."
+      "Description": "You may only Reap 1 space at the end of each Age. However, you also Reap the Loot and Gold cubes from the spaces adjacent to it, even if you do not control them."
     },
     {
       "Name": "Parasitic",
