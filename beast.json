@@ -12,7 +12,7 @@
     {
       "Name": "Bountiful Beast",
       "Harvest Effect": "If any adjacent spaces have Loot rewards, gain those rewards as if you controlled them.",
-      "Passive Effect": ""
+      "Passive Effect": "If you control this space when you play a card, draw another card."
     },
     {
       "Name": "Magnetic Beast",
