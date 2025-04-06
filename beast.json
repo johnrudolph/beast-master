@@ -11,8 +11,8 @@
     },
     {
       "Name": "Calamity Beast",
-      "Harvest Effect": "Remove this tile from the game, and replace it with a random tile from the deck.",
-      "Passive Effect": "When entering a space, all Acolytes and Colossi on that space must immediately move to an adjacent space. Resolve beginning with the player with Mantle."
+      "Harvest Effect": "Replace this tile with a new tile.",
+      "Passive Effect": "When entering a space, Acolytes and Colossi there must move to adjacent spaces. Resolve beginning with the player with Mantle."
     },
     {
       "Name": "Golden Beast",
