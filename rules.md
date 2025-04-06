@@ -94,7 +94,7 @@ Once all players have passed, pass the Mantle to the player in first place, and 
 
 *Note*: This means that two different player could Reap the same space at Reap. 
 - Suppose Mitch has three Acolytes, and John has one. Mitch Reaps the space, and gains his rewards. Now John has control of the space, and he can Reap it on his next turn.
-- However, a Colossus still contributes to the Control of a space. Suppose Mitch has his Colossus there, and John has one Acolyte. Mitch Reaps, and puts his Colossus on its side. John cannot Reap this space, because Mitch's Colossus still controls it.
+- However, a Colossus still contributes to the Control of a space. Suppose Mitch has his Colossus there, and John has one Acolyte. Mitch Reaps the space. John cannot Reap this space, because Mitch's Colossus still controls it.
 
 ## Beginning a new Age
 

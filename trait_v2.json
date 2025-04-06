@@ -1,0 +1,87 @@
+[
+    {
+        "Name": "Abundant",
+        "Description": "At the start of your turn, draw 2 Colossus cards instead of 1.",
+        "Goal": "Discard your played Divine Gifts here. Once you have played 4, gain 10 gold and discard this card."
+    },
+    {
+        "Name": "Aggressive",
+        "Description": "When you kill an opponent's Acolyte, gain 1 Gold.",
+        "Goal": "If you kill 5 Acolytes in a single turn, gain an extra 5 gold and discard this card."
+    },
+    {
+        "Name": "Alchemist",
+        "Description": "On your turn you may discard your Colossus cards, Traits, or Acolytes in play.",
+        "Goal": "When doing this, discard them here. You may not use them until this goal is fulfilled.Once you have done this 10 times, Gain 10 gold."
+    },
+    {
+        "Name": "Beast master",
+        "Description": "You may pay 1 Gold to move a Beast 1 space in any direction.",
+        "Goal": "If there are 2 Beasts in play, and you control both of their spaces at the end of any age, gain 10 gold and discard this card."
+    },
+    {
+        "Name": "Diasporic",
+        "Description": "On your turn, you have 6 actions. You cannot play cards.",
+        "Goal": "At the end of your turn, if each of your Acolytes is on a different space adjacent to water, gain 7 gold and discard this trait."
+    },
+    {
+        "Name": "Domineering",
+        "Description": "When your Colossus moves into a space containing Beasts or other Colossi, you may move them 1 space in any direction.",
+        "Goal": "When doing this, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
+    },
+    {
+        "Name": "Extortionist",
+        "Description": "When an opponent takes control of a space away from you, they lose 1 gold.",
+        "Goal": "When doing this, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
+    },
+    {
+        "Name": "Gilded",
+        "Description": "Every time you Harvest Gold Loot, gain 1 additional Gold.",
+        "Goal": "If you Harvest every available Gold Loot tile at the end of an age, gain 8 Gold and discard this trait."
+    },
+    {
+        "Name": "Monolithic",
+        "Description": "You may only Reap 1 space at the end of each Age. However, you also Reap the Loot and Gold cubes from the spaces adjacent to it, even if you do not control them.",
+        "Goal": "After doing this once, discard this trait."
+    },
+    {
+        "Name": "Necromancer",
+        "Description": "Any time an opponent's Acolyte dies, you may replace it with an Acolyte from your hand.",
+        "Goal": "Keep their Acolyte here (it is no longer in their hand). Once you have done this 4 times, gain 8 gold, return opponents' Acolytes to their hand, and discard this trait."
+    },
+    {
+        "Name": "Nomadic",
+        "Description": "At the end of your turns, you may Reap up to two spaces you control. Do not Reap any tiles at the end each Age.",
+        "Goal": "Place 1 gold cube here when doing this. When you have done this 4 times, gain 4 gold and discard this trait."
+    },
+    {
+        "Name": "Parasitic",
+        "Description": "When an opponent plays a card, you may take it in exchange for discarding a card from your hand.",
+        "Goal": "When doing this, tuck your discarded card here. When you have tucked 5 cards, gain 5 gold and discard this trait."
+    },
+    {
+        "Name": "Resurrecting",
+        "Description": "When one of your Acolytes dies, you may move it to your Colossus's space instead of back to your hand.",
+        "Goal": "When doing this, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
+    },
+    {
+        "Name": "Soothsayer",
+        "Description": "At the start of your turn, you may either look at the top 3 Environment tiles, or the top 3 Colossus Cards. Put them back in any order you choose.",
+        "Goal": "When doing this, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
+    },
+    {
+        "Name": "Tactical",
+        "Description": "On your turn, playing Colossus cards does not cost you any actions.",
+        "Goal": "Tuck your played cards here under this trait. Once you have tucked 10 cards, gain 10 gold, and discard this trait."
+    },
+    {
+        "Name": "Winged",
+        "Description": "When moving your Colossus, you may move it to any space.",
+        "Goal": "When doing this, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
+    },
+    {
+        "Name": "Zoophilic",
+        "Description": "When spawning Acolytes, you may spawn them on or adjacent to any Beast's space.",
+        "Goal": "At the end of an Age, if all of your Acolytes in play are on Beast spaces, gain 7 gold and discard this trait."
+    }
+]
