@@ -5,14 +5,19 @@
       "Passive Effect": "Acolytes on this space immediately die."
     },
     {
-      "Name": "Golden Beast",
-      "Harvest Effect": "Place 1 gold cube from the bank in each adjacent space.",
-      "Passive Effect": "When moving, leave 1 gold cube from the Bank in the space it leaves."
-    },
-    {
       "Name": "Bountiful Beast",
       "Harvest Effect": "If any adjacent spaces have Loot rewards, gain those rewards as if you controlled them.",
       "Passive Effect": "If you control this space when you play a card, draw another card."
+    },
+    {
+      "Name": "Calamity Beast",
+      "Harvest Effect": "Remove this tile from the game, and replace it with a random tile from the deck.",
+      "Passive Effect": "When entering a space, all Acolytes and Colossi on that space must move to an adjacent space of their owner's choosing. Resolve beginning with the player with Mantle."
+    },
+    {
+      "Name": "Golden Beast",
+      "Harvest Effect": "Place 1 gold cube from the bank in each adjacent space.",
+      "Passive Effect": "When moving, leave 1 gold cube from the Bank in the space it leaves."
     },
     {
       "Name": "Magnetic Beast",
