@@ -1,69 +1,79 @@
 [
     {
-      "Name": "Beast Mantle",
-      "Description": "When Reaping, move 1 Beast two spaces, or move it to any space you choose."
+      "Name": "Beast Lair",
+      "Description": "Reap: Move a Beast two spaces, or move it to any space you choose."
+    },
+    {
+      "Name": "Council of Giants",
+      "Description": "Reap: Move every Colossus to this space."
     },
     {
       "Name": "Deep Mines",
-      "Description": "When drawn, put 3 Gold cubes here. At the start of Age II, put 5 Gold cubes here. At the start of Age III, put 7 Gold cubes here."
+      "Description": "Draw: Place 3 gold cubes here. Reap: replace the reaped gold cubes, and add 3 more."
     },
     {
       "Name": "Hallowed Ground",
-      "Description": "When Reaping, gain 2 Gold for each of your Acolytes here."
+      "Description": "Reap: Gain 2 Gold for each of your Acolytes here."
     },
     {
       "Name": "Launchpad",
-      "Description": "When Reaping: After removing your Acolytes here, pick up every Colossus and Acolyte on or adjacent to this space. Move each of them to any spaces you choose (cannot leave them on the Launchpad)."
+      "Description": "Reap: Pick up everything on or adjacent to this space. Move each of them to new spaces.",
+      "Clarifications": "Pick up Acolytes, Colossi, Beasts, and Gold cubes. You cannot leave anything on the Launchpad."
+    },
+    {
+      "Name": "Lucky Lumen",
+      "Description": "Arrival: Place a gold cube here, even if you are just passing through.",
+      "Clarifications": "Any time a Colossus or Acolyte arrives in this space, place a gold cube there. If you pass through this space using road movement, you still add the gold cube."
     },
     {
       "Name": "Market",
-      "Description": "When Reaping, discard cards from your hand. Gain 1 gold for each you discarded.",
+      "Description": "Reap: Discard cards from your hand. Gain 1 gold for each you discarded.",
       "Clarifications": "This only applies to cards you currently have in your hand. If you gain more cards later during this same Reap, you do not get a reward for discarding them."
     },
     {
       "Name": "Moat",
-      "Description": "When Reaping, gain 1 Gold for each adjacent space you control. Steal 1 Gold from each player who controls an adjacent space."
-    },
-    {
-      "Name": "Mountaintop of the Giants",
-      "Description": "All Acolytes die here. But Colossi can be here."
-    },
-    {
-      "Name": "Oasis",
-      "Description": "When Reaping, discard your entire hand. Then draw 6 cards."
-    },
-    {
-      "Name": "Outpost",
-      "Description": "When Reaping, take up to 3 Acolytes from your hand, and place them on spaces adjacent to this."
-    },
-    {
-      "Name": "Outskirts",
-      "Description": "When Reaping, if you have the least gold, gain 10 gold."
-    },
-    {
-      "Name": "Ruins",
-      "Description": "When Reaping, each opponent must give you 1 of their cards, or 2 Gold."
+      "Description": "Reap: Gain 1 Gold for each adjacent space you control. Steal 1 Gold from players who control adjacent spaces."
     },
     {
       "Name": "Monastery",
-      "Description": "When Reaping, place all Acolytes from you hand on spaces where you already have Acolytes. If you place them on spaces you already Reaped, place them on their side to indicate that you cannot Reap there again."
+      "Description": "Reap: Place all Acolytes from your hand on spaces where you already have Acolytes."
+    },
+    {
+      "Name": "Mountaintop of the Giants",
+      "Description": "Arrival: All Acolytes die here."
+    },
+    {
+      "Name": "Oasis",
+      "Description": "Reap: Discard your entire hand. Then draw 6 cards."
+    },
+    {
+      "Name": "Outpost",
+      "Description": "Reap: Take up to 3 Acolytes from your hand, and place them on adjacent spaces."
+    },
+    {
+      "Name": "Outskirts",
+      "Description": "Reap: If you have the least gold, gain 10 gold."
+    },
+    {
+      "Name": "Ruins",
+      "Description": "Reap: Each opponent must give you 1 of their cards, or 2 Gold."
     },
     {
       "Name": "Teleporter",
-      "Description": "When Reaping, choose another tile. Swap all Colossi, Acolytes, and Beasts here with all Colossi, Acolytes, and Beasts on that tile. Immediately Reap that other tile."
+      "Description": "Reap: Choose another tile. Swap everything from this tile with everything from that tile."
     },
     {
       "Name": "The Brink",
-      "Description": "Any time a player takes control of this space, put 3 Gold cubes from the bank here.",
+      "Description": "Arrival: If you gained control of this space, put 3 Gold cubes here.",
       "Clarifications": "When one player Reaps it and collects their Acolytes, there might be opposing Acolytes still there, who take control. Add 3 Gold cubes when this happens, as usual."
     },
     {
       "Name": "The Void",
-      "Description": "When Reaping, before gaining your Acolytes here: replace any tile with a new random one.",
+      "Description": "Reap: Replace any tile with a new random one.",
       "Clarifications": "You may replace the Void itself with a new random one. In any case, leave any Colossi, Acolytes, Gold cubes, or Beasts where they are on the new tile."
     },
     {
       "Name": "Volcano",
-      "Description": "Any time a Colossus moves here, kill all Acolytes on or adjacent to this space."
+      "Description": "Arrival: When a Colossus arrives, kill all Acolytes on or adjacent to this space."
     }
    ]
