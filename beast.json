@@ -6,13 +6,13 @@
     },
     {
       "Name": "Bountiful Beast",
-      "Harvest Effect": "If any adjacent spaces have Loot rewards, gain those rewards as if you controlled them.",
+      "Harvest Effect": "Gain loot rewards from all adjacent spaces, as if you controlled them.",
       "Passive Effect": "If you control this space when you play a card, draw another card."
     },
     {
       "Name": "Calamity Beast",
       "Harvest Effect": "Remove this tile from the game, and replace it with a random tile from the deck.",
-      "Passive Effect": "When entering a space, all Acolytes and Colossi on that space must move to an adjacent space of their owner's choosing. Resolve beginning with the player with Mantle."
+      "Passive Effect": "When entering a space, all Acolytes and Colossi on that space must immediately move to an adjacent space. Resolve beginning with the player with Mantle."
     },
     {
       "Name": "Golden Beast",
@@ -26,7 +26,7 @@
     },
     {
       "Name": "Stone Beast",
-      "Harvest Effect": "Do not collect your Acolytes on this space when Harvesting. Leave them on their side to indicate that they are done harvesting.",
+      "Harvest Effect": "Do not collect your Acolytes from this space when Harvesting. At the end of the Age, you can still only Harvest this space once.",
       "Passive Effect": "Acolytes on this space cannot be killed or moved."
     },
     {

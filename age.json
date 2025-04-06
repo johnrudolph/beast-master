@@ -2,7 +2,7 @@
     {
         "Name": "Age of Exploration",
         "Age": "I",
-        "Beasts": "Wind Beast",
+        "Beasts": "Wind Beast, Stone Beast",
         "Setup": "",
         "Scoring": "Each Colossus gains one gold for each space that contains their Acolytes (regardless of control)."
     },
@@ -30,7 +30,7 @@
     {
         "Name": "Age of Solitude",
         "Age": "I",
-        "Beasts": "Wind Beast",
+        "Beasts": "Wind Beast, Calamity Beast",
         "Setup": "",
         "Scoring": "If any Colossus has no Acolytes (including their own Acolytes) on or adjacent to their space, they gain 6 Gold."
     },
@@ -51,7 +51,7 @@
     {
         "Name": "Age of Beasts",
         "Age": "II",
-        "Beasts": "Bountiful Beast, Wind Beast",
+        "Beasts": "Bountiful Beast, Calamity Beast",
         "Setup": "",
         "Scoring": "For each space you control that is occupied by a Beast, or adjacent to one or more Beasts, gain 3 Gold."
     },
@@ -72,7 +72,7 @@
     {
         "Name": "Age of Storms",
         "Age": "III",
-        "Beasts": "Wind Beast, Time Beast",
+        "Beasts": "Wind Beast, Calamity Beast",
         "Setup": "Discard every tile that is adjacent to water. If there are Acolytes or Colossi on those spaces, immediately draw new tiles to replace them. Empty spaces can be re-explored.",
         "Scoring": "Each player gains 1 Gold for each Acolyte they have adjacent to water."
     },
@@ -100,14 +100,14 @@
     {
         "Name": "Age of Comradery",
         "Age": "III",
-        "Beasts": "Blood Beast, Bountiful Beast",
+        "Beasts": "Blood Beast, Stone Beast",
         "Setup": "Beginning with the player with the Mantle, each player may move their Colossus to any space they choose.",
         "Scoring": "If any Colossus is on a space with another Colossus, they gain 8 Gold."
     },
     {
         "Name": "Age of Connection",
         "Age": "III",
-        "Beasts": "Wind Beast",
+        "Beasts": "Wind Beast, Calamity Beast",
         "Setup": "Beginning with the player with the Mantle, each player may place all the Acolytes from the hand on any spaces they choose.",
         "Scoring": "The player with the most spaces connected to their Colossus via Acolyte roads gains 10 Gold."
     }
