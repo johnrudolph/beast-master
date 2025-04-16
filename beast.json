@@ -11,7 +11,7 @@
     },
     {
       "Name": "Calamity Beast",
-      "Reap Effect": "Replace this tile with a new tile.",
+      "Reap Effect": "Replace this tile with a new tile before reaping it.",
       "Passive Effect": "When entering a space, Acolytes and Colossi there must move to adjacent spaces. Resolve in order, beginning with the player with Mantle.",
       "Clarifications": "Resolve the movement of each Acolyte and Colossus individually, beginning with the player with Mantle. If the Calamity Beast moves two spaces in a row, resolve the Acolyte and Colossus movements from the first space before the Calamity Beast moves to the second space."
     },
