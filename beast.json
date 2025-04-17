@@ -22,8 +22,8 @@
     },
     {
       "Name": "Magnetic Beast",
-      "Reap Effect": "Move all Gold cubes from the this space to adjacent spaces you choose.",
-      "Passive Effect": "Move all Gold cubes from adjacent spaces onto this space, and gain them as a reward."
+      "Reap Effect": "Move all Gold cubes from adjacent spaces onto this space, and gain them as a reward.",
+      "Passive Effect": "When moving, take all Gold cubes from this space with it."
     },
     {
       "Name": "Stone Beast",
