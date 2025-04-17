@@ -70,6 +70,13 @@
         "Scoring": "Each Colossus gains 3 gold for each space they control adjacent to their space."
     },
     {
+        "Name": "Age of New Growth",
+        "Age": "III",
+        "Beasts": "Bountiful Beast",
+        "Setup": "Discard any tile that has a Gold Loot reward. If there were Acolytes or Colossi on those spaces, immediately draw new tiles to replace them. Empty spaces can be re-explored.",
+        "Scoring": "Gold Loot rewards are worth 3x their normal value."
+    },
+    {
         "Name": "Age of Storms",
         "Age": "III",
         "Beasts": "Wind Beast, Calamity Beast",
