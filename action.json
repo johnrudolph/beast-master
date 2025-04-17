@@ -85,11 +85,11 @@
     },
     {
       "Name": "Steal",
-      "Description": "Take an opponent's Trait and leave it face-up in front of you. It is now in play for you. If you already had 2 Traits in play, discard 1 of them."
+      "Description": "Take an opponent's Trait and leave it face-up in front of you. If it had cubes or tucked cards, discard them. It is now in play for you. If you already had a Trait in play, discard it."
     },
     {
       "Name": "Steal",
-      "Description": "Take an opponent's Trait and leave it face-up in front of you. It is now in play for you. If you already had 2 Traits in play, discard 1 of them."
+      "Description": "Take an opponent's Trait and leave it face-up in front of you. If it had cubes or tucked cards, discard them. It is now in play for you. If you already had a Trait in play, discard it."
     },
     {
       "Name": "Take Pity",
@@ -101,6 +101,6 @@
     },
     {
       "Name": "Vandalize",
-      "Description": "Discard an opponent's Trait."
+      "Description": "Discard an opponent's Trait. If it had cubes or tucked cards, discard them too."
     }
    ]

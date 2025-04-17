@@ -54,7 +54,7 @@ The game takes place over 3 Ages. Each Age comes with a card that includes speci
 The Mantle simply indicates who is the first player for the Age. At the end of each Age, the Mantle goes to the player in first place.
 
 ## Traits
-Traits are cards that give your Colossus a boost. You can only have 2 Traits in play at a time. You may discard one of your Traits at any time. At any given time there will be 3 face-up Traits and a Trait deck. When you select a Trait, you may draw from the deck, or choose 1 of the face-up Traits. If you choose a face-up Trait, replace it with another face-up Trait from the deck before the next player chooses. Traits continually give your Colossus a boost. 
+Traits are cards that give your Colossus a boost. You can only have 1 Trait in play at a time. You may discard your Trait at any time. At any given time there will be 3 face-up Traits and a Trait deck. When you select a Trait, you may draw from the deck, or choose 1 of the face-up Traits. If you choose a face-up Trait, replace it with another face-up Trait from the deck before the next player chooses. Traits continually give your Colossus a boost. 
 
 Designer note: For your first game, do not play with Traits. They make the game much more interesting, but it's best to learn the basics without them.
 
