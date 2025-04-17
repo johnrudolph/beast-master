@@ -22,8 +22,8 @@
     },
     {
       "Name": "Lucky Lumen",
-      "Description": "Arrival: Place a gold cube here, even if you are just passing through.",
-      "Clarifications": "Any time a Colossus or Acolyte arrives in this space, place a gold cube there. If you pass through this space using road movement, you still add the gold cube."
+      "Description": "Arrival: Place 2 gold cubes here, even if you are just passing through.",
+      "Clarifications": "Any time a Colossus or Acolyte arrives in this space, place 2 gold cubes there. If you pass through this space using road movement, you still add the gold cubes."
     },
     {
       "Name": "Market",
