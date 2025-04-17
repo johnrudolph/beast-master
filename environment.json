@@ -69,7 +69,7 @@
     },
     {
       "Name": "The Void",
-      "Description": "Reap: Replace any tile with a new random one.",
+      "Description": "Reap: Replace any tile with a new random one. If the tile had Gold cubes, discard them.",
       "Clarifications": "You may replace the Void itself with a new random one. In any case, leave any Colossi, Acolytes, Gold cubes, or Beasts where they are on the new tile."
     },
     {
