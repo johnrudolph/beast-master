@@ -74,7 +74,7 @@
         "Age": "III",
         "Beasts": "Bountiful Beast",
         "Setup": "Discard any tile that has a Gold Loot reward. If there were Acolytes or Colossi on those spaces, immediately draw new tiles to replace them. Empty spaces can be re-explored.",
-        "Scoring": "Gold Loot rewards are worth 3x their normal value."
+        "Scoring": "Each player gains 5 gold for each space they control that has a Gold Loot reward."
     },
     {
         "Name": "Age of Storms",

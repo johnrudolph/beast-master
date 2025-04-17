@@ -52,7 +52,7 @@
     },
     {
         "Name": "Nomadic",
-        "Description": "At the end of your turns, you may Reap up to two spaces you control. But you do not Reap any tiles at the end each Age.",
+        "Description": "At the end of your turns, you may Reap one space you control. But you cannot Reap any tiles at the end each Age.",
         "Goal": "Place 1 gold cube here when doing Reaping at the end of your turn. When you have done this 4 times, gain 4 gold and discard this trait."
     },
     {
