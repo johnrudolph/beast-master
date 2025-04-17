@@ -47,8 +47,8 @@
     },
     {
         "Name": "Necromancer",
-        "Description": "Any time an opponent's Acolyte dies, you may replace it with an Acolyte from your hand. Place their Acolyte on this card.",
-        "Goal": "When you have done this 4 times, gain 8 gold, return opponents' Acolytes to their hands, and discard this trait."
+        "Description": "When an opponent's Acolyte dies on your turn, place an Acolyte from your hand on the space it was on.",
+        "Goal": "Place 1 gold cube here for each Acolyte you place. When you have 4 gold cubes here, gain 4 gold, and discard this trait."
     },
     {
         "Name": "Nomadic",
