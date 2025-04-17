@@ -9,8 +9,8 @@
     {
         "Name": "Age of Patience",
         "Age": "I",
-        "Beasts": "Time Beast",
-        "Setup": "",
+        "Beasts": "Bountiful Beast",
+        "Setup": "Blood Beast",
         "Scoring": "Each Colossus gains one gold for each card in their hand."
     },
     {
@@ -30,7 +30,7 @@
     {
         "Name": "Age of Solitude",
         "Age": "I",
-        "Beasts": "Wind Beast, Calamity Beast",
+        "Beasts": "Calamity Beast",
         "Setup": "",
         "Scoring": "If any Colossus has no Acolytes (including their own Acolytes) on or adjacent to their space, they gain 6 Gold."
     },
@@ -44,7 +44,7 @@
     {
         "Name": "Age of Paradox",
         "Age": "II",
-        "Beasts": "Time Beast",
+        "Beasts": "Bountiful Beast",
         "Setup": "",
         "Scoring": "Any player may choose to skip the entire Reap phase of this Age. If they do, they gain 10 Gold."
     },
@@ -79,7 +79,7 @@
     {
         "Name": "Age of Diplomacy",
         "Age": "III",
-        "Beasts": "Wind Beast, Time Beast",
+        "Beasts": "Wind Beast",
         "Setup": "",
         "Scoring": "Each player gains 3 gold for each Acolyte they have in a space they don't control."
     },

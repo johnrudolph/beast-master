@@ -31,12 +31,6 @@
       "Passive Effect": "Acolytes on this space cannot be killed or moved."
     },
     {
-      "Name": "Time Beast",
-      "Reap Effect": "Immediately take 1 extra action.",
-      "Passive Effect": "When entering a space that is controlled, Reap it for its owner immediately.",
-      "Clarifications": "The Time Beast only Reaps spaces in this manner when moving into a space. If you gain control of the space where the Time Beast already is, the space is not immediately Reaped."
-    },
-    {
       "Name": "Wind Beast",
       "Reap Effect": "Choose a direction. Every Acolyte moves 1 space that direction. Acolytes who fall of the island die.",
       "Passive Effect": "When leaving a space, all Acolytes on its space move with it."
