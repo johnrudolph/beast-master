@@ -61,6 +61,11 @@
         "Goal": "When you have tucked 5 cards, gain 5 gold and discard this trait."
     },
     {
+        "Name": "Resourceful",
+        "Description": "Every time you Reap Colossus Card Loot, gain an extra card.",
+        "Goal": "When discarding cards, tuck them under this trait. Once you have tucked 10 cards, gain 5 gold and discard this trait."
+    },
+    {
         "Name": "Resurrecting",
         "Description": "When one of your Acolytes dies, you may move it to your Colossus's space instead of back to your hand.",
         "Goal": "For each Acolyte you resurrect, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
