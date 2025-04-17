@@ -36,8 +36,8 @@
     },
     {
         "Name": "Gilded",
-        "Description": "Every time you Harvest Gold Loot, gain 1 additional Gold.",
-        "Goal": "If you Harvest every available Gold Loot tile at the end of an age, gain 8 Gold and discard this trait.",
+        "Description": "Every time you Reap Gold Loot, gain 1 additional Gold.",
+        "Goal": "If you Reap every available Gold Loot tile at the end of an age, gain 8 Gold and discard this trait.",
         "Clarifications": "If there are unexplored spaces, you can still reach this goal. It only applies to whatever face-up tiles are in play at the end of the age."
     },
     {
