@@ -74,6 +74,6 @@
     },
     {
       "Name": "Volcano",
-      "Description": "Arrival: When a Colossus arrives, kill all Acolytes on or adjacent to this space."
+      "Description": "Reap: Kill all Acolytes on or adjacent to this space."
     }
    ]
