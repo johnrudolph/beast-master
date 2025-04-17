@@ -9,7 +9,8 @@
     },
     {
       "Name": "Crossroads",
-      "Description": "Arrival: When passing through this space using Road Movement, gain 1 Gold."
+      "Description": "Arrival: When passing through this space using Road Movement, gain 1 Gold.",
+      "Clarifications": "Only gain gold if you pass through the space. Moving into this space normally does not grant a reward."
     },
     {
       "Name": "Deep Mines",
@@ -45,6 +46,10 @@
     {
       "Name": "Mountaintop of the Giants",
       "Description": "Arrival: All Acolytes die here."
+    },
+    {
+      "Name": "Mouth of the Tunnels",
+      "Description": "Arrival: Immediately move to any other space. No Acolyte or Colossus can stay here."
     },
     {
       "Name": "Oasis",
