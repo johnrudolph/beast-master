@@ -31,7 +31,7 @@
     },
     {
         "Name": "Extortionist",
-        "Description": "When an opponent takes control of a space away from you, they lose 1 gold.",
+        "Description": "When you lose control of a space because an opponent moved a Colossus or Acolyte onto it, steal 1 gold from them.",
         "Goal": "When doing this, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
     },
     {
