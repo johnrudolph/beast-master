@@ -74,6 +74,6 @@
     },
     {
       "Name": "Volcano",
-      "Description": "Reap: Before reaping, kill all Acolytes on or adjacent to this space. If your Colossus is not here, you do not gain the Trait reward."
+      "Description": "Reap: Kill all Acolytes on or adjacent to this space. If your Colossus is not here, you do not gain the Trait reward."
     }
    ]
