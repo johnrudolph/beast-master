@@ -22,7 +22,9 @@ Beasts are monsters who haunt this island. Each has a passive effect, and a Reap
 The player with the most Gold at the end of the game wins. Track how much Gold you have on the Gold tracker. Gain Gold from cards and by Reaping spaces to claim the rewards from Environments, Loot, and Gold cubes. Any time you gain or lose Gold, update the Gold tracker.
 
 ## Environments
-Environments are special tiles with potentially big rewards. Control an Environment at Reap to claim its rewards. 
+Environments are special tiles with potentially big rewards. Control an Environment at Reap to claim its rewards. There are two types of Environment effects: 
+1. Arrival: these effects happen when an Acolyte or Colossus moves onto the space.
+2. Reap: these effects happen when reaping the space. 
 
 ## Grass tiles
 Grass tiles simply grant you rewards at Reap. Control a Grass tile to claim its rewards. 
@@ -111,6 +113,8 @@ You have 4 Actions on your turn, and it costs 1 Action to move your Colossus or 
 - **Exploring**: When moving into a space that has no tile on it, you will discover what is there. Draw an Environment tile from the deck you built during Setup. 
 - **Road Movement**: When moving into a space that already contains your Colossus or 1 of your Acolytes, you may continue onward to any adjacent space for free. If you have your Colossus or Acolytes in multiple adjacent spaces, move long distances using just 1 Movement.
 - **Spawn an Acolyte**: For the cost of 1 Movement, place an Acolyte from your hand onto your Colossus’s space. You may immediately move that Acolyte to an adjacent space for free using Road Movement.
+
+Of course, if you ever move into an Environment that has an Arrival effect, resolve this immediately when moving into it. These take effect, even if you are just passing through them using Road Movement.
 
 # Control
 You must control spaces in order to Reap them at the end of each Age. How do you control a space?
