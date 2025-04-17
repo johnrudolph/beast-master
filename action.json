@@ -92,10 +92,6 @@
       "Description": "Take an opponent's Trait and leave it face-up in front of you. If it had cubes or tucked cards, discard them. It is now in play for you. If you already had a Trait in play, discard it."
     },
     {
-      "Name": "Take Pity",
-      "Description": "Choose another player. They gain 5 Gold. You gain 2 Gold."
-    },
-    {
       "Name": "Teleport",
       "Description": "Move one Colossus to any space."
     },
