@@ -17,7 +17,7 @@
     {
         "Name": "Beast master",
         "Description": "You may pay 1 Gold to move a Beast 1 space in any direction.",
-        "Goal": "If you control the spaces of 2 Beasts at the end of any age, gain 10 gold and discard this card."
+        "Goal": "If you control the spaces of 2 Beasts at the end of any age, gain 6 gold and discard this card."
     },
     {
         "Name": "Diasporic",
