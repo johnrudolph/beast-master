@@ -47,10 +47,6 @@
       "Description": "Reap: Discard your entire hand. Then draw 6 cards."
     },
     {
-      "Name": "Outpost",
-      "Description": "Reap: Take up to 3 Acolytes from your hand, and place them on adjacent spaces."
-    },
-    {
       "Name": "Outskirts",
       "Description": "Reap: If you have the least gold, gain 10 gold."
     },
