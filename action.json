@@ -1,5 +1,17 @@
 [
     {
+      "Name": "Advance",
+      "Description": "+3 Actions. However, you cannot play any more cards this turn."
+    },
+    {
+      "Name": "Advance",
+      "Description": "+3 Actions. However, you cannot play any more cards this turn."
+    },
+    {
+      "Name": "Advance",
+      "Description": "+3 Actions. However, you cannot play any more cards this turn."
+    },
+    {
       "Name": "Bolster",
       "Description": "Place 1 Acolyte from your hand on each space where you already have an Acolyte."
     },
