@@ -86,7 +86,7 @@ The Reap Phase is where you gain rewards from the board. This happens at the end
 
 Then, beginning with the player with the Mantle, take turns Reaping. On your turn, you will Reap just one space that you control. If you do not control any spaces, or prefer not to Reap, you may pass, meaning that you are done Reaping for the Age. 
 
-When you Reap a space, return *all* of your Acolytes on that space to your hand. If your Colossus is on that space, lay it on its side to indicate that you have already Reaped that space. Then gain the space's rewards:
+You may only Reap a given space once at the end of the Age. When you Reap a space, return *all* of your Acolytes on that space to your hand. If your Colossus is on that space, lay it on its side to indicate that you have already Reaped that space. Then gain the space's rewards:
 
 1. **Gold cubes**: Gain any Gold cubes from the space, and return them to the bank. Gain one Gold for each cube.
 2. **Grass Tiles**: If the space has Loot, gain it immediately.
