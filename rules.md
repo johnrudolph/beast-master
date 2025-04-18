@@ -78,7 +78,7 @@ Each Age has two phases: Action Phase and Reap Phase.
 ## Action Phase
 The Action Phase simply consists of player turns. On your turn, you will do the following in order:
 
-1. **Actions**: Take 4 Actions. With your Action, you may either play a Colossus card, or move your Colossus or an Acolyte (see full Movement rules in the next section). Some cards will give you extra Actions. When you play those cards, use those extra Actions immediately on this turn.
+1. **Actions**: In any order, you may play any cards from your hand, and you may make up to 4 moves (see full Movement rules in the next section). 
 2. **Draw**: Draw 1 Colossus Card.
 
 ## Reap Phase
