@@ -9,8 +9,8 @@
     {
         "Name": "Age of Patience",
         "Age": "I",
-        "Beasts": "Bountiful Beast",
-        "Setup": "Blood Beast",
+        "Beasts": "Blood Beast",
+        "Setup": "",
         "Scoring": "Each Colossus gains one gold for each card in their hand."
     },
     {
