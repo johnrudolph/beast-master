@@ -49,7 +49,8 @@
     },
     {
       "Name": "Mouth of the Tunnels",
-      "Description": "Arrival: Immediately move to any other space. No Acolyte or Colossus can stay here."
+      "Description": "Arrival: When your Acolyte or Colossus lands here, immediately move them to any other space you choose.",
+      "Clarifications": "If you cause opponent Acolytes or Colossi to move here during your turn, their owners decide which spaces they move to. If multiple moved here at once, take turns immediately moving the pieces the belong to you, beginning with you and proceeding clockwise."
     },
     {
       "Name": "Oasis",
