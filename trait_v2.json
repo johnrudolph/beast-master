@@ -31,7 +31,7 @@
     },
     {
         "Name": "Extortionist",
-        "Description": "When opponent's pieces move onto one of your spaces, and it causes you to lose control of it, steal 1 gold from them.",
+        "Description": "When an opponent's pieces move onto one of your spaces, and it causes you to lose control of it, steal 1 gold from them.",
         "Goal": "When doing this, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
     },
     {
