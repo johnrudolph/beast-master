@@ -68,6 +68,9 @@ Designer note: For your first game, do not play with Traits. They make the game 
 - Determine which player has played this game the most, and give them the Mantle.
 - Place a random tile face-up in the center of the board. Place all Colossi on that tile.
 
+*Designer note*
+If you prefer to remove some Ages that you have played with beore, that's totally fine. It helps to keep things fresh.
+
 **If this is your first game, skip the following step.**
 - Shuffle the Trait deck, and lay out 3 face-up. Take turns selecting either a face-up Trait, or the top card of the Trait deck. If you take a face-up Trait, replace it with another face-up Trait from the deck before the next player chooses. Once each player has a Trait, leave 3 face-up Traits beside the Trait deck.
 
