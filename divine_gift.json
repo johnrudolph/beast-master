@@ -37,7 +37,7 @@
     },
     {
       "Name": "Growth",
-      "Description": "Draw Traits from the Trait deck until you are holding 1 per each Colossus in the game. Beginning with you and continuing clockwise, select a Trait to keep, then pass the remainder to the next player. As usual, you still have a Trait limit of 2, and you may discard the Trait you chose."
+      "Description": "Draw Traits from the Trait deck until you are holding 1 per each Colossus in the game. Beginning with you and continuing clockwise, select a Trait to keep, then pass the remainder to the next player. As usual, you can still only have 1 Trait in play at a time."
     },
     {
       "Name": "Mimesis",
