@@ -22,7 +22,7 @@
     },
     {
       "Name": "Launchpad",
-      "Description": "Reap: Pick up everything on or adjacent to this space. Move each of them to new spaces.",
+      "Description": "Reap: Pick up everything on this space, and move each piece to any space you choose.",
       "Clarifications": "Pick up Acolytes, Colossi, Beasts, and Gold cubes. You cannot leave anything on the Launchpad."
     },
     {
