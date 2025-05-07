@@ -44,7 +44,7 @@ Some Environments and Beasts will leave Gold cubes on the board. If you Reap a s
 Colossus Cards allow you to get Gold, move Acolytes around, and gain advantages over opponents. You have a hand limit of 6 Cards, and must immediately discard down to 6 if you ever have more. There are 4 types of Colossus Card:
 
 - **Action**: Move pieces around the board, get more cards, and more.
-- **Beast**: Control Beast movement. These also give you +1 Action, and so are essentially free to play.
+- **Beast**: Control Beast movement. 
 - **Divine Gift**: Reward Colossi based on their position. These gifts go to all Colossi, so good timing is crucial.
 
 ## Age cards
@@ -78,7 +78,7 @@ Each Age has two phases: Action Phase and Reap Phase.
 ## Action Phase
 The Action Phase simply consists of player turns. On your turn, you will do the following in order:
 
-1. **Actions**: In any order, you may play any cards from your hand, and you may make up to 4 moves (see full Movement rules in the next section). 
+1. **Actions**: In any order, you may play any cards from your hand, and you may move up to 4 times (see full Movement rules in the next section). 
 2. **Draw**: Draw 1 Colossus Card.
 
 ## Reap Phase
@@ -109,8 +109,8 @@ Do the "Setup" step from the new Age if necessary, pass the Mantle to the left, 
 At the end of the third Age, the game ends. The player with the most Gold wins.
 
 # Movement
-You have 4 Actions on your turn, and it costs 1 Action to move your Colossus or an Acolyte 1 space in any direction. Colossi and Acolytes follow the same rules for movement.
-- **Exploring**: When moving into a space that has no tile on it, you will discover what is there. Draw an Environment tile from the deck you built during Setup. 
+You have 4 moves on your turn. Moving your Colossus or an Acolyte 1 space in any direction costs 1 move. Colossi and Acolytes follow the same rules for movement.
+- **Exploring**: When moving into a space that has no tile on it, you will discover what is there. Draw an Environment tile from the deck. 
 - **Road Movement**: When moving into a space that already contains your Colossus or 1 of your Acolytes, you may continue onward to any adjacent space for free. If you have your Colossus or Acolytes in multiple adjacent spaces, move long distances using just 1 Movement.
 - **Spawn an Acolyte**: For the cost of 1 Movement, place an Acolyte from your hand onto your Colossus’s space. You may immediately move that Acolyte to an adjacent space for free using Road Movement.
 
