@@ -1,15 +1,15 @@
 [
     {
       "Name": "Advance",
-      "Description": "+3 moves. However, you cannot play any more cards this turn."
+      "Description": "+2 moves. You cannot play any more cards this turn."
     },
     {
       "Name": "Advance",
-      "Description": "+3 moves. However, you cannot play any more cards this turn."
+      "Description": "+2 moves. You cannot play any more cards this turn."
     },
     {
       "Name": "Advance",
-      "Description": "+3 moves. However, you cannot play any more cards this turn."
+      "Description": "+2 moves. You cannot play any more cards this turn."
     },
     {
       "Name": "Bolster",
@@ -25,15 +25,11 @@
     },
     {
       "Name": "Convert",
-      "Description": "Replace each opponent's Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
+      "Description": "Replace opponent Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
     },
     {
       "Name": "Convert",
-      "Description": "Replace each opponent's Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
-    },
-    {
-      "Name": "Influence",
-      "Description": "Beginning with you and continuing clockwise, each player may move an opponent's Colossus once. Colossi can move within their own roads as usual."
+      "Description": "Replace opponent Acolytes on your Colossus's space with Acolytes from your hand. Once you are out of Acolytes from your hand, stop."
     },
     {
       "Name": "Intimidate",
@@ -61,7 +57,7 @@
     },
     {
       "Name": "Recall",
-      "Description": "Move any number of your Acolytes on the board to your Colossus's space. Then, add 2 Acolytes from your hand to your Colossus's space."
+      "Description": "Move all of your Acolytes on the board to your Colossus's space. Then, add 2 Acolytes from your hand to your Colossus's space."
     },
     {
       "Name": "Replace",
@@ -69,23 +65,23 @@
     },
     {
       "Name": "Ritual Sacrifice",
-      "Description": "For any Acolyte (including your own) on or adjacent to your Colossus's space, roll the die, and kill the Acolyte if you roll 1 or 2 (Clarify which Acolyte you are rolling for before each roll)"
+      "Description": "For any Acolyte (including yours) on or adjacent to your Colossus's space, roll the die, and kill the Acolyte if you roll 1 or 2."
     },
     {
       "Name": "Early Reap",
-      "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and Reap the space (even if you do not control it)."
+      "Description": "Choose a space where you have multiple Acolytes. Kill them, and Reap the space (even if you do not control it)."
     },
     {
       "Name": "Early Reap",
-      "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and Reap the space (even if you do not control it)."
+      "Description": "Choose a space where you have multiple Acolytes. Kill them, and Reap the space (even if you do not control it)."
     },
     {
       "Name": "Early Reap",
-      "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and Reap the space (even if you do not control it)."
+      "Description": "Choose a space where you have multiple Acolytes. Kill them, and Reap the space (even if you do not control it)."
     },
     {
       "Name": "Early Reap",
-      "Description": "Choose a space where you have multiple Acolytes. Return them to your hand, and Reap the space (even if you do not control it)."
+      "Description": "Choose a space where you have multiple Acolytes. Kill them, and Reap the space (even if you do not control it)."
     },
     {
       "Name": "Sacrifice",
@@ -97,11 +93,15 @@
     },
     {
       "Name": "Steal",
-      "Description": "Take an opponent's Trait and leave it face-up in front of you. If it had cubes or tucked cards, discard them. It is now in play for you. If you already had a Trait in play, discard it."
+      "Description": "Steal an opponent's Trait. If it had cubes or tucked cards, discard them."
     },
     {
       "Name": "Steal",
-      "Description": "Take an opponent's Trait and leave it face-up in front of you. If it had cubes or tucked cards, discard them. It is now in play for you. If you already had a Trait in play, discard it."
+      "Description": "Steal an opponent's Trait. If it had cubes or tucked cards, discard them."
+    },
+    {
+      "Name": "Teleport",
+      "Description": "Move one Colossus to any space."
     },
     {
       "Name": "Teleport",

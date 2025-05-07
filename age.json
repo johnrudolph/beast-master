@@ -4,118 +4,118 @@
         "Age": "I",
         "Beasts": "Wind Beast, Stone Beast",
         "Setup": "",
-        "Scoring": "Each Colossus gains one gold for each space that contains their Acolytes (regardless of control)."
+        "Scoring": "Gain 1 Gold for each space that contains one of Acolytes."
     },
     {
         "Name": "Age of Patience",
         "Age": "I",
         "Beasts": "Blood Beast",
         "Setup": "",
-        "Scoring": "Each Colossus gains one gold for each card in their hand."
+        "Scoring": "Gain one gold for each card in your hand."
     },
     {
         "Name": "Age of Innovation",
         "Age": "I",
         "Beasts": "Bountiful Beast",
-        "Setup": "Search the deck for the Volcano and the Mountaintop of the Giants, the player with the Mantle places them on any spaces they choose. Re-shuffle the tile deck.",
-        "Scoring": "The player who controls the Bountiful Beast's space gains 5 Gold."
+        "Setup": "Search the deck for the Volcano and the Mountaintop of the Giants. The player with the Mantle places them on any spaces they choose. Re-shuffle the tile deck.",
+        "Scoring": "Gain 4 Gold if your Colossus is on or adjacent to the Bountiful Beast's space."
     },
     {
         "Name": "Gilded Age",
         "Age": "I",
         "Beasts": "Gold Beast",
         "Setup": "Search the tile deck for the Deep Mines and The Brink. The player with the Mantle places them on any spaces they choose. Re-shuffle the tile deck.",
-        "Scoring": "If any player controls no spaces that contain Gold cubes, they gain 8 gold."
+        "Scoring": "Gain 8 Gold if your Colossus and Acolytes are not on any spaces that contain Gold cubes."
     },
     {
         "Name": "Age of Solitude",
         "Age": "I",
         "Beasts": "Calamity Beast",
         "Setup": "",
-        "Scoring": "If any Colossus has no Acolytes (including their own Acolytes) on or adjacent to their space, they gain 6 Gold."
+        "Scoring": "Gain 6 Gold if your Colossus has no Acolytes (including your own) on or adjacent to it space."
     },
     {
         "Name": "Age of Survival",
         "Age": "II",
         "Beasts": "Blood Beast, Stone Beast",
         "Setup": "",
-        "Scoring": "Each Colossus gains 1 Gold for each Acolyte they have on the board."
+        "Scoring": "Gains 1 Gold for each Acolyte they have on the board."
     },
     {
         "Name": "Age of Paradox",
         "Age": "II",
         "Beasts": "Bountiful Beast",
         "Setup": "",
-        "Scoring": "Any player may choose to skip the entire Reap phase of this Age. If they do, they gain 10 Gold."
+        "Scoring": "Gain 10 Gold if you choose to completely skip the Reap phase."
     },
     {
         "Name": "Age of Beasts",
         "Age": "II",
         "Beasts": "Bountiful Beast, Calamity Beast",
         "Setup": "",
-        "Scoring": "For each space you control that is occupied by a Beast, or adjacent to one or more Beasts, gain 2 Gold."
+        "Scoring": "Gain 2 Gold for each space you control that is occupied by a Beast, or adjacent to one or more Beasts."
     },
     {
         "Name": "Age of Dominion",
         "Age": "II",
         "Beasts": "Blood Beast",
         "Setup": "",
-        "Scoring": "Each player gains 2 gold for each space they control."
+        "Scoring": "Gain 2 Gold for each space you control."
     },
     {
         "Name": "Age of Consolidation",
         "Age": "II",
         "Beasts": "Gold Beast, Magnetic Beast",
         "Setup": "Place 3 Gold cubes on each space with a Colossus on it.",
-        "Scoring": "Each Colossus gains 3 gold for each space they control adjacent to their space."
+        "Scoring": "Gain 3 gold for each space you control adjacent to your Colossus's space."
     },
     {
         "Name": "Age of New Growth",
         "Age": "III",
         "Beasts": "Bountiful Beast",
         "Setup": "Discard any tile that has a Gold Loot reward. If there were Acolytes or Colossi on those spaces, immediately draw new tiles to replace them. Empty spaces can be re-explored.",
-        "Scoring": "Each player gains 5 gold for each space they control that has a Gold Loot reward."
+        "Scoring": "Gain 5 gold for each space you control that has a Gold Loot reward."
     },
     {
         "Name": "Age of Storms",
         "Age": "III",
         "Beasts": "Wind Beast, Calamity Beast",
         "Setup": "Discard every tile that is adjacent to water. If there are Acolytes or Colossi on those spaces, immediately draw new tiles to replace them. Empty spaces can be re-explored.",
-        "Scoring": "Each player gains 1 Gold for each Acolyte they have adjacent to water."
+        "Scoring": "Gains 1 Gold for each Acolyte you have adjacent to water."
     },
     {
         "Name": "Age of Diplomacy",
         "Age": "III",
         "Beasts": "Wind Beast",
         "Setup": "",
-        "Scoring": "Each player gains 3 gold for each Acolyte they have in a space they don't control."
+        "Scoring": "Gain 3 gold for each Acolyte you have in a space you don't control."
     },
     {
         "Name": "Age of Authority",
         "Age": "III",
         "Beasts": "Wind Beast, Bountiful Beast",
         "Setup": "",
-        "Scoring": "Each player gains 3 gold for each opposing Acolyte in their Colossus's space."
+        "Scoring": "Gain 3 gold for each opposing Acolyte in your Colossus's space."
     },
     {
         "Name": "Age of Prosperity",
         "Age": "III",
         "Beasts": "Gold Beast, Magnetic Beast",
         "Setup": "Gather 12 Gold cubes from the bank. Divide them evenly among the players. Beginning with the player with the Mantle, take turns placing 1 Gold cube on any space on the board.",
-        "Scoring": "If any player controls no spaces that contain Gold cubes, they gain 12 gold."
+        "Scoring": "Gain 12 Gold if your Acolytes and Colossus are in no spaces that contain Gold cubes."
     },
     {
         "Name": "Age of Comradery",
         "Age": "III",
         "Beasts": "Blood Beast, Stone Beast",
         "Setup": "Beginning with the player with the Mantle, each player may move their Colossus to any space they choose.",
-        "Scoring": "If any Colossus is on a space with another Colossus, they gain 8 Gold."
+        "Scoring": "Gain 8 Gold if your Colossus is on a space with another Colossus."
     },
     {
         "Name": "Age of Connection",
         "Age": "III",
         "Beasts": "Wind Beast, Calamity Beast",
         "Setup": "Beginning with the player with the Mantle, each player may place all the Acolytes from the hand on any spaces they choose.",
-        "Scoring": "The player with the most spaces connected to their Colossus via Acolyte roads gains 10 Gold."
+        "Scoring": "Find the largest continuous set of spaces where you have your Colossus or Acolytes. Gain 1 Gold for each of those spaces."
     }
    ]

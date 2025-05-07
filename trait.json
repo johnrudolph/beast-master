@@ -1,8 +1,8 @@
 [
     {
         "Name": "Abundant",
-        "Description": "At the start of your turn, draw 2 Colossus cards instead of 1.",
-        "Goal": "Discard your played Divine Gifts here. Once you have played 4, gain 10 gold and discard this card."
+        "Description": "At the end of your turn, draw 2 Colossus cards instead of 1.",
+        "Goal": "Tuck your played Divine Gifts here. Once you have tucked 4, gain 5 gold and discard this card."
     },
     {
         "Name": "Aggressive",
@@ -12,12 +12,12 @@
     {
         "Name": "Beast master",
         "Description": "You may pay 1 Gold to move a Beast 1 space in any direction.",
-        "Goal": "If you control the spaces of 2 Beasts at the end of any age, gain 6 gold and discard this card."
+        "Goal": "If ever control the spaces of 2 Beasts at once, gain 5 gold and discard this card."
     },
     {
         "Name": "Diasporic",
         "Description": "On your turn, you have 6 moves. You cannot play cards.",
-        "Goal": "At the end of your turn, if each of your 10 Acolytes is on a different space adjacent to water, gain 4 gold and discard this trait."
+        "Goal": "If you ever have 10 Acolytes on a different spaces adjacent to water, gain 4 gold and discard this trait."
     },
     {
         "Name": "Domineering",
@@ -26,8 +26,8 @@
     },
     {
         "Name": "Extortionist",
-        "Description": "When an opponent's pieces move onto one of your spaces, and it causes you to lose control of it, steal 1 gold from them.",
-        "Goal": "When doing this, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
+        "Description": "When an opponent's pieces move onto your space, causing you to lose control, steal 1 gold from them.",
+        "Goal": "When doing this, place 1 gold cube here. When you have done this 4 times, gain 4 gold and discard this trait."
     },
     {
         "Name": "Gilded",
@@ -36,9 +36,14 @@
         "Clarifications": "If there are unexplored spaces, you can still reach this goal. It only applies to whatever face-up tiles are in play at the end of the age."
     },
     {
+        "Name": "Historian",
+        "Description": "When Age II ends, draw 3 Age III cards and choose which to use.",
+        "Goal": "After doing this, discard this trait."
+    },
+    {
         "Name": "Monolithic",
-        "Description": "At the end of an Age, you may choose to only Reap 1 space. Reap the Loot and Gold cubes from the spaces adjacent to it, even if you do not control them.",
-        "Goal": "After doing this once, discard this trait."
+        "Description": "You can only Reap 1 space during the Reap phase.",
+        "Goal": "When doing this, gain the loot rewards from the spaces adjacent to it, even if you do not control them. Discard this trait."
     },
     {
         "Name": "Necromancer",
@@ -47,7 +52,7 @@
     },
     {
         "Name": "Nomadic",
-        "Description": "At the end of your turns, you may Reap one space you control. But you cannot Reap any tiles at the end each Age.",
+        "Description": "At the end of your turns, you may Reap one space you control. But you cannot Reap any spaces during the Reap phase.",
         "Goal": "Place 1 gold cube here when doing Reaping at the end of your turn. When you have done this 4 times, gain 4 gold and discard this trait."
     },
     {
@@ -58,7 +63,7 @@
     {
         "Name": "Resourceful",
         "Description": "Every time you Reap Colossus Card Loot, gain an extra card.",
-        "Goal": "When discarding cards, tuck them under this trait. Once you have tucked 10 cards, gain 5 gold and discard this trait."
+        "Goal": "When discarding cards, tuck them here. Once you have tucked 10 cards, gain 5 gold and discard this trait."
     },
     {
         "Name": "Resurrecting",
@@ -68,7 +73,7 @@
     {
         "Name": "Soothsayer",
         "Description": "At the start of your turn, you may either look at the top 3 Environment tiles, or the top 3 Colossus Cards. Put them back in any order you choose.",
-        "Goal": "When doing this, place 1 gold cube here. When you have done this 5 times, gain 5 gold and discard this trait."
+        "Goal": "When doing this, place 1 gold cube here. When you have done this 4 times, gain 4 gold and discard this trait."
     },
     {
         "Name": "Winged",
@@ -78,6 +83,6 @@
     {
         "Name": "Zoophilic",
         "Description": "When spawning Acolytes, you may spawn them on or adjacent to any Beast's space.",
-        "Goal": "At the end of an Age, if you have 5 or more Acolytes on Beast spaces, gain 7 gold and discard this trait."
+        "Goal": "If you ever have all 10 of your Acolytes on Beast spaces, gain 4 gold and discard this trait."
     }
 ]

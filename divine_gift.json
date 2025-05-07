@@ -1,7 +1,7 @@
 [
     {
       "Name": "Abundance",
-      "Description": "Draw 3 Colossus cards from the deck. Every other Colossus draws 1 card from the deck."
+      "Description": "Draw 3 Colossus cards. Every other Colossus draws 1 card."
     },
     {
       "Name": "Companionship",
@@ -25,11 +25,11 @@
     },
     {
       "Name": "Solidarity",
-      "Description": "The Colossus with the most Acolytes in their hand may place all the Acolytes in their hand on a single space (if 2 players are tied for the most Acolytes in their hand, do nothing)."
+      "Description": "Any Colossus who has all of their Acolytes in their hand may place all of them on any single space."
     },
     {
       "Name": "Windfall",
-      "Description": "Each Colossi gains the Loot and Gold Cubes from their space, even if they do not control it."
+      "Description": "Each Colossi gains the Loot rewards from their space, even if they do not control it."
     },
     {
       "Name": "Exchange",
@@ -37,7 +37,7 @@
     },
     {
       "Name": "Growth",
-      "Description": "Draw Traits from the Trait deck until you are holding 1 per each Colossus in the game. Beginning with you and continuing clockwise, select a Trait to keep, then pass the remainder to the next player. As usual, you can still only have 1 Trait in play at a time."
+      "Description": "Draw 1 Trait for each Colossus in the game. Select a Trait to keep (1 Trait limit applies, as usual), then pass the rest to the next player. Continue until all Traits are taken."
     },
     {
       "Name": "Mimesis",
