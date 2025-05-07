@@ -11,8 +11,8 @@
     },
     {
         "Name": "Alchemist",
-        "Description": "On your turn, you may discard cards from your hand, or your Traits or Acolytes in play. Tuck them under this card.",
-        "Goal": "Once you have done this 10 times, gain 10 gold. Discard tucked cards and this Trait, and return Acolytes to your hand."
+        "Description": "On your turn, you may discard cards from your hand, or Acolytes in play. Tuck them under this card.",
+        "Goal": "Once you have done this 10 times, gain 5 gold. Discard tucked cards and this Trait, and return Acolytes to your hand."
     },
     {
         "Name": "Beast master",
