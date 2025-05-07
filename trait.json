@@ -22,7 +22,7 @@
     {
         "Name": "Diasporic",
         "Description": "On your turn, you have 6 moves. You cannot play cards.",
-        "Goal": "At the end of your turn, if each of your 10 Acolytes is on a different space adjacent to water, gain 7 gold and discard this trait."
+        "Goal": "At the end of your turn, if each of your 10 Acolytes is on a different space adjacent to water, gain 4 gold and discard this trait."
     },
     {
         "Name": "Domineering",
