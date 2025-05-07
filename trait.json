@@ -10,11 +10,6 @@
         "Goal": "If you kill 5 Acolytes in a single turn, gain an extra 5 gold and discard this card."
     },
     {
-        "Name": "Alchemist",
-        "Description": "On your turn, you may discard cards from your hand, or Acolytes in play. Tuck them under this card.",
-        "Goal": "Once you have done this 10 times, gain 5 gold. Discard tucked cards and this Trait, and return Acolytes to your hand."
-    },
-    {
         "Name": "Beast master",
         "Description": "You may pay 1 Gold to move a Beast 1 space in any direction.",
         "Goal": "If you control the spaces of 2 Beasts at the end of any age, gain 6 gold and discard this card."
