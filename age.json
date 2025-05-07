@@ -81,7 +81,7 @@
         "Age": "III",
         "Beasts": "Wind Beast, Calamity Beast",
         "Setup": "Discard every tile that is adjacent to water. If there are Acolytes or Colossi on those spaces, immediately draw new tiles to replace them. Empty spaces can be re-explored.",
-        "Scoring": "Gains 1 Gold for each Acolyte you have adjacent to water."
+        "Scoring": "Gain 1 Gold for each Acolyte you have adjacent to water."
     },
     {
         "Name": "Age of Diplomacy",
