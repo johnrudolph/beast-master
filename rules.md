@@ -11,7 +11,7 @@ The island has 27 spaces. The island starts empty, but will eventually be filled
 You are a Colossus, and you lead a fleet of Acolytes.  Colossi cannot die, and remain on the island for the entire game.
 
 ## Acolytes
-Acolytes move like Colossi, but die frequently. 
+You have 10 faithful Acolytes to do your bidding, and reap the rewards of spaces. Acolytes move like Colossi, but die frequently. 
 - Any time an Acolyte is pushed off the edge of the island, it dies. Some cards, Beasts, and tiles will kill your Acolytes.
 - When your Acolytes die, they return to your hand, and can be played again on future turns.
 
