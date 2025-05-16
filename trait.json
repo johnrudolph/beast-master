@@ -43,7 +43,7 @@
     {
         "Name": "Monolithic",
         "Description": "You can only Reap 1 space during the Reap phase.",
-        "Goal": "When doing this, gain the loot rewards from the spaces adjacent to it, even if you do not control them. Discard this trait."
+        "Goal": "When doing this, gain the loot rewards from the spaces adjacent to it. Discard this trait."
     },
     {
         "Name": "Necromancer",
