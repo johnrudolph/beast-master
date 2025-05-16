@@ -52,8 +52,8 @@
     },
     {
         "Name": "Nomadic",
-        "Description": "At the end of your turns, you may Reap one space you control. But you cannot Reap any spaces during the Reap phase.",
-        "Goal": "Place 1 gold cube here when doing Reaping at the end of your turn. When you have done this 4 times, gain 4 gold and discard this trait."
+        "Description": "At the end of your turns, you may Reap one space. You cannot Reap during the Reap phase.",
+        "Goal": "Place 1 gold cube here when doing this. When you have done this 4 times, gain 4 gold and discard this trait."
     },
     {
         "Name": "Parasitic",
