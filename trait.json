@@ -72,7 +72,7 @@
     },
     {
         "Name": "Soothsayer",
-        "Description": "At the start of your turn, you may either look at the top 3 Environment tiles, or the top 3 Colossus Cards. Put them back in any order you choose.",
+        "Description": "You may either look at the top 3 Environment tiles, or the top 3 Colossus Cards. Put them back in any order you choose.",
         "Goal": "When doing this, place 1 gold cube here. When you have done this 4 times, gain 4 gold and discard this trait."
     },
     {
