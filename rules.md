@@ -79,10 +79,7 @@ If you prefer to remove some Ages that you have played with beore, that's totall
 Each Age has two phases: Action Phase and Reap Phase.
 
 ## Action Phase
-The Action Phase simply consists of player turns. On your turn, you will do the following in order:
-
-1. **Actions**: In any order, you may play any cards from your hand, and you may move up to 4 times (see full Movement rules in the next section). 
-2. **Draw**: Draw 1 Colossus Card.
+The Action Phase simply consists of player turns. On your turn you may play any cards from your hand, and you may move up to 4 times (see full Movement rules in the next section). You can play cards before, between, or after your 4 moves.
 
 ## Reap Phase
 The Reap Phase is where you gain rewards from the board. This happens at the end of each Age. First, read the special scoring instructions on the Age card. Distribute rewards as instructed.
