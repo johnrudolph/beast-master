@@ -1,38 +1,32 @@
 [
     {
       "Name": "Blood Beast",
-      "Reap Effect": "Kill every Acolyte adjacent to this space.",
-      "Passive Effect": "Acolytes on this space immediately die."
+      "Effect": "Acolytes on this space immediately die."
     },
     {
       "Name": "Bountiful Beast",
-      "Reap Effect": "Gain loot rewards from all adjacent spaces, as if you controlled them.",
-      "Passive Effect": "If you control this space when you play a card, draw another card."
+      "Effect": "When Reaping this space, gain Gold and Card Loot from adjacent spaces.",
+      "Clarifications": "Do not gain the effects of Envrionment tiles, or Traits."
     },
     {
       "Name": "Calamity Beast",
-      "Reap Effect": "Replace this tile with a new tile before reaping it.",
-      "Passive Effect": "When entering a space, Acolytes and Colossi there must move to adjacent spaces. Resolve in order, beginning with the player with Mantle.",
+      "Effect": "When entering a space, Acolytes and Colossi there must move to adjacent spaces. Resolve in order, beginning with the player with Mantle.",
       "Clarifications": "Resolve the movement of each Acolyte and Colossus individually, beginning with the player with Mantle. If the Calamity Beast moves two spaces in a row, resolve the Acolyte and Colossus movements from the first space before the Calamity Beast moves to the second space."
     },
     {
       "Name": "Golden Beast",
-      "Reap Effect": "Place 1 gold cube from the bank in each adjacent space.",
-      "Passive Effect": "When moving, leave 1 gold cube from the Bank in the space it leaves."
+      "Effect": "When entering a space, place 2 Gold Cubes there."
     },
     {
       "Name": "Magnetic Beast",
-      "Reap Effect": "Move all Gold cubes from adjacent spaces onto this space, and gain them as a reward.",
-      "Passive Effect": "When moving, take all Gold cubes from this space with it."
+      "Effect": "When moving, take all Gold cubes from this space with it."
     },
     {
       "Name": "Stone Beast",
-      "Reap Effect": "Do not collect your Acolytes from this space when Reaping. At the end of the Age, you can still only Reap this space once.",
-      "Passive Effect": "Acolytes on this space cannot be killed or moved."
+      "Effect": "Acolytes on this space cannot be killed or moved."
     },
     {
       "Name": "Wind Beast",
-      "Reap Effect": "Choose a direction. Every Acolyte moves 1 space that direction. Acolytes who fall of the island die.",
-      "Passive Effect": "When leaving a space, all Acolytes on its space move with it."
+      "Effect": "When leaving a space, all Acolytes on its space move with it."
     }
    ]
