@@ -76,5 +76,10 @@
     {
       "Name": "Volcano",
       "Description": "Reap: Kill all Acolytes on or adjacent to this. If your Colossus is not here, you do not gain the Trait reward."
+    },
+    {
+      "Name": "Wind Tunnel",
+      "Description": "Reap: Choose a direction. Every Acolyte moves 1 space in that direction.",
+      "Clarifications": "Acolytes that fall of the island die as usual."
     }
    ]
