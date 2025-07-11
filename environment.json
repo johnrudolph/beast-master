@@ -8,11 +8,6 @@
       "Description": "Reap: Move every Colossus to this space."
     },
     {
-      "Name": "Crossroads",
-      "Description": "Arrival: When passing through this space using Road Movement, gain 1 Gold.",
-      "Clarifications": "Only gain gold if you pass through the space. Moving into this space normally does not grant a reward."
-    },
-    {
       "Name": "Deep Mines",
       "Description": "Draw: Place 3 gold cubes here. Reap: do not remove the reaped gold cubes. Add 2 more."
     },
