@@ -65,7 +65,7 @@
     },
     {
       "Name": "Teleporter",
-      "Description": "Reap: Choose another tile. Swap everything from this tile with everything from that tile."
+      "Description": "Reap: Do not collect your Acolytes here. Swap everything here with everything on another tile."
     },
     {
       "Name": "The Brink",
