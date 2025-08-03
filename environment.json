@@ -20,6 +20,10 @@
       "Description": "Reap: Place 2 Gold Cubes on each adjacent space."
     },
     {
+      "Name": "Lightning Rod",
+      "Description": "Reap: Choose a space where you have an Acolyte. Kill all opposing Acolytes there."
+    },
+    {
       "Name": "Market",
       "Description": "Reap: Discard cards from your hand. Gain 1 gold for each you discarded.",
       "Clarifications": "This only applies to cards you currently have in your hand. If you gain more cards later during this same Reap, you do not get a reward for discarding them."
