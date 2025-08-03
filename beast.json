@@ -1,7 +1,8 @@
 [
     {
       "Name": "Blood Beast",
-      "Effect": "Acolytes on this space immediately die."
+      "Effect": "Acolytes on this space immediately die.",
+      "Clarifications": "If your Colossus is on the space with the Beast and you spawn an Acolyte, it immediately dies."
     },
     {
       "Name": "Bountiful Beast",
