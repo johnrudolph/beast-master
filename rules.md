@@ -92,7 +92,7 @@ You may only Reap a given space once at the end of the Age. When you Reap a spac
 2. **Grass Tiles**: If the space has Loot, gain it immediately.
 3. **Environments**: If the space is a special environment, follow the environment's rules.
 
-Once all players have passed, pass the Mantle to the player in first place, and begin the next Age. 
+If you control no more spaces, or decide you don't want to Reap anymore, you will pass. Once you pass, you cannot Reap any more spaces until the next Age. Once all players have passed, pass the Mantle to the player in first place, and begin the next Age. 
 
 *Note*: This means that two different player could Reap the same space at Reap. 
 - Suppose Mitch has three Acolytes, and John has one. Mitch Reaps the space, and gains his rewards. Now John has control of the space, and he can Reap it on his next turn.
