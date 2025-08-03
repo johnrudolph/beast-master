@@ -100,7 +100,7 @@ Once all players have passed, pass the Mantle to the player in first place, and 
 
 ## Beginning a new Age
 
-Reveal the next Age and read it aloud. Remove Beasts from the previous Age that are not in the new Age. Add new Beasts according to the Age card. 
+Reveal the next Age and read it aloud. Remove Beasts from the previous Age that are not in the new Age. Add new Beasts according to the Age card. Each player draws 2 cards.
 
 Do the "Setup" step from the new Age if necessary, pass the Mantle to the left, and begin taking turns, starting with the player with the Mantle.
 
