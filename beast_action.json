@@ -65,14 +65,14 @@
     },
     {
       "Name": "Rampage",
-      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through."
+      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving the Beast's effect in each space it moves through."
     },
     {
       "Name": "Rampage",
-      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through."
+      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving the Beast's effect in each space it moves through."
     },
     {
       "Name": "Rampage",
-      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving each space it moves through."
+      "Description": "Choose a Beast and a direction (N, NE, SE, S, SW, or NW). Move the Beast as far as possible in that direction, resolving the Beast's effect in each space it moves through."
     }
    ]
